@@ -1,6 +1,9 @@
 {
   "name": "interestdecor",
   "type": "module",
+  "engines": {
+    "node": ">=18.14.1"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -8,6 +11,6 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.0.0",
-    "astro": "^4.0.0"
+    "astro": "^4.16.0"
   }
 }
