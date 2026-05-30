@@ -1,9 +1,6 @@
 {
   "name": "interestdecor",
   "type": "module",
-  "engines": {
-    "node": ">=20.0.0"
-  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -11,6 +8,7 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.0.0",
-    "astro": "^4.16.0"
+    "@astrojs/vercel": "^10.0.8",
+    "astro": "^6.4.2"
   }
 }
