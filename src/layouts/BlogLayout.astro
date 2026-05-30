@@ -1,0 +1,57 @@
+---
+import BaseLayout from './BaseLayout.astro';
+const { post } = Astro.props;
+const p = post.data;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: p.title,
+  image: new URL(p.heroImage, 'https://interestdecor.com').toString(),
+  datePublished: p.date.toISOString().slice(0, 10),
+  author: { '@type': 'Person', name: p.author },
+  publisher: { '@type': 'Organization', name: 'InterestDecor' },
+  description: p.description,
+};
+---
+<BaseLayout
+  title={`${p.title} | InterestDecor`}
+  description={p.description}
+  image={p.heroImage}
+  type="article"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <!-- HERO -->
+  <section class="blog-hero-detail">
+    <div class="blog-hero-bg"></div>
+    <div class="container blog-hero-grid">
+      <div class="blog-hero-copy">
+        <a href="/" class="back-link">← Back to Home</a>
+        <span class="article-category">{p.category}</span>
+        <h1>{p.title}</h1>
+        <p class="article-intro">{p.excerpt}</p>
+        <div class="article-meta-line">
+          <span>📅 {p.displayDate}</span>
+          <span>⏱️ {p.readTime}</span>
+          <span>{p.category}</span>
+        </div>
+      </div>
+      <div class="blog-hero-image-wrap">
+        <img src={p.heroImage} alt={p.heroAlt || p.title} width="800" height="450" />
+      </div>
+    </div>
+  </section>
+
+  <!-- ARTICLE BODY -->
+  <div class="container article-shell">
+    <nav class="article-toc" aria-label="Table of contents">
+      <p>Contents</p>
+      {p.toc.map((item: { label: string; href: string }) => (
+        <a href={item.href}>{item.label}</a>
+      ))}
+    </nav>
+    <article class="article-content">
+      <slot />
+    </article>
+  </div>
+</BaseLayout>

@@ -1,0 +1,106 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Contact | InterestDecor"
+  description="Get in touch with InterestDecor. Send a message about collaborations, questions, or just to share your home project."
+>
+
+  <div class="page-hero">
+    <p class="page-hero-eyebrow">Say Hello</p>
+    <h1 class="page-hero-title">Let's <em>connect</em></h1>
+    <p class="page-hero-desc">Whether it's a collaboration, a question, or just sharing your latest project — I'd love to hear from you.</p>
+  </div>
+
+  <section class="contact-section">
+    <div class="container">
+      <div class="contact-grid">
+        <div class="contact-info">
+          <h2 class="contact-info-title">Get in touch</h2>
+          <p class="contact-info-desc">
+            I read every message personally. Response time is usually 1–2 business days. For collaborations and brand partnerships, please mention this in your subject line.
+          </p>
+          <div class="contact-items">
+            <div class="contact-item">
+              <div class="contact-item-icon" aria-hidden="true">📧</div>
+              <span>rajamashoodelahi@gmail.com</span>
+            </div>
+            <div class="contact-item">
+              <div class="contact-item-icon" aria-hidden="true">📌</div>
+              <a href="https://pinterest.com/interestdecor" target="_blank" rel="noopener noreferrer" style="transition:color .3s;" onmouseover="this.style.color='var(--rose)'" onmouseout="this.style.color='inherit'">pinterest.com/interestdecor</a>
+            </div>
+            <div class="contact-item">
+              <div class="contact-item-icon" aria-hidden="true">🌐</div>
+              <span>interestdecor.com</span>
+            </div>
+          </div>
+          <div style="padding:32px; background:var(--blush); margin-top:16px;">
+            <p style="font-family:'Cormorant Garamond',serif; font-size:1.15rem; font-style:italic; color:var(--dark); line-height:1.7;">
+              "I'm especially excited to hear about your own home projects and transformations — share a photo, I might feature it!"
+            </p>
+          </div>
+        </div>
+
+        <form action="https://formspree.io/f/mqejnvve" method="POST" class="contact-form" id="contactForm">
+          <input type="hidden" name="_subject" value="New message from InterestDecor contact form" />
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute; left:-9999px; opacity:0; height:0; width:0;" />
+
+          <div class="form-success" id="successMessage" aria-live="polite">
+            ✓ Thank you! I've received your message and will get back to you within 1–2 business days.
+          </div>
+          <div class="form-error" id="formError" aria-live="polite"></div>
+
+          <div class="form-group">
+            <label for="name">Your Name *</label>
+            <input type="text" id="name" name="name" required placeholder="Enter your full name" />
+          </div>
+          <div class="form-group">
+            <label for="email">Email Address *</label>
+            <input type="email" id="email" name="email" required placeholder="your@email.com" />
+          </div>
+          <div class="form-group">
+            <label for="subject">Subject *</label>
+            <input type="text" id="subject" name="subject" required placeholder="What is this about?" />
+          </div>
+          <div class="form-group">
+            <label for="message">Message *</label>
+            <textarea id="message" name="message" required placeholder="Tell me more..."></textarea>
+          </div>
+          <button type="submit" class="form-submit" id="submitBtn">Send Message</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>
+
+<script>
+  const form = document.getElementById('contactForm') as HTMLFormElement | null;
+  const successMessage = document.getElementById('successMessage');
+  const formError = document.getElementById('formError');
+  const submitBtn = document.getElementById('submitBtn') as HTMLButtonElement | null;
+
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!submitBtn) return;
+    const orig = submitBtn.textContent;
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Sending...';
+    if (formError) { formError.textContent = ''; formError.classList.remove('show'); }
+    try {
+      const res = await fetch(form.action, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' } });
+      if (res.ok) {
+        form.reset();
+        successMessage?.classList.add('show');
+      } else {
+        if (formError) { formError.textContent = 'Sorry, your message could not be sent. Please try again.'; formError.classList.add('show'); }
+        submitBtn.disabled = false;
+        submitBtn.textContent = orig ?? 'Send Message';
+      }
+    } catch {
+      if (formError) { formError.textContent = 'Connection error. Please try again.'; formError.classList.add('show'); }
+      submitBtn.disabled = false;
+      submitBtn.textContent = orig ?? 'Send Message';
+    }
+  });
+</script>

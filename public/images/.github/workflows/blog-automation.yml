@@ -1,0 +1,38 @@
+name: Blog Automation
+
+on:
+  push:
+    paths:
+      - 'content/blog/*.md'
+      - 'content/images/**'
+
+jobs:
+  generate-blog:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: npm install marked
+      
+      - name: Generate blog post
+        run: node scripts/generate-blog.js
+        env:
+          CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+      
+      - name: Update index.html
+        run: node scripts/update-index.js
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Blog Bot"
+          git add -A
+          git commit -m "Publish new blog post [skip ci]"
+          git push

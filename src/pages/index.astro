@@ -1,0 +1,195 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+
+const allPosts = (await getCollection('blog')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+const categories = [
+  { slug: 'home-decor',          name: 'Home Decor',          icon: '🏠', class: 'ci-1' },
+  { slug: 'kitchen-gardening',   name: 'Kitchen Gardening',   icon: '🌿', class: 'ci-2' },
+  { slug: 'floral-arrangements', name: 'Floral Arrangements', icon: '🌸', class: 'ci-3' },
+  { slug: 'diy-crafts',          name: 'DIY & Crafts',        icon: '✂️', class: 'ci-4' },
+];
+
+function countFor(slug: string) {
+  return allPosts.filter(p => p.data.categorySlug === slug).length;
+}
+---
+<BaseLayout>
+
+  <!-- HERO -->
+  <section class="hero" aria-label="Welcome to InterestDecor">
+    <div class="hero-bg-pattern" aria-hidden="true"></div>
+    <div class="hero-inner container">
+      <div class="hero-content">
+        <p class="hero-eyebrow fade-up fade-up-1">Pinterest-Inspired Living</p>
+        <h1 class="hero-title fade-up fade-up-2">
+          Spaces that tell<br /><em>your story</em>
+        </h1>
+        <p class="hero-desc fade-up fade-up-3">
+          Curated ideas for home decor, kitchen gardening, floral arrangements, and DIY crafts — because your home should feel like you.
+        </p>
+        <div class="hero-actions fade-up fade-up-4">
+          <a href="/categories/" class="btn-primary">Explore Ideas</a>
+          <a href="/about/" class="btn-ghost">
+            Our Story
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <div class="hero-visual" aria-hidden="true">
+        <div class="hero-card">
+          <div class="hero-card-inner">
+            <img class="hero-card-img" src="/images/hero-home-decor.jpg" alt="Beautiful neutral home decor room" />
+            <span class="hero-card-label">Home Decor</span>
+          </div>
+        </div>
+        <div class="hero-card">
+          <div class="hero-card-inner">
+            <img class="hero-card-img" src="/images/hero-gardening.jpg" alt="Sunlit kitchen herb garden" />
+            <span class="hero-card-label">Gardening</span>
+          </div>
+        </div>
+        <div class="hero-card">
+          <div class="hero-card-inner">
+            <img class="hero-card-img" src="/images/hero-diy-crafts.jpg" alt="Cozy DIY craft workspace with macrame" />
+            <span class="hero-card-label">DIY Crafts</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CATEGORY STRIP -->
+  <section class="categories-strip" aria-label="Browse categories">
+    <div class="container">
+      <div class="cats-grid">
+        {categories.map(cat => (
+          <a class="cat-card" href={`/categories/#${cat.slug}`} aria-label={`Browse ${cat.name}`}>
+            <div class={`cat-icon ${cat.class}`} aria-hidden="true">{cat.icon}</div>
+            <h2 class="cat-name">{cat.name}</h2>
+            <p class="cat-count">
+              {countFor(cat.slug) > 0
+                ? `${countFor(cat.slug)} article${countFor(cat.slug) > 1 ? 's' : ''}`
+                : 'Coming Soon'}
+            </p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- LATEST POSTS -->
+  <section class="blog-section" aria-label="Latest posts">
+    <div class="container">
+      <header class="section-header">
+        <p class="section-tag">Latest from the Blog</p>
+        <h2 class="section-title">Fresh <em>inspiration</em><br />for every room</h2>
+        <div class="section-divider" aria-hidden="true"></div>
+        <p class="section-desc">Hand-picked ideas and step-by-step guides to help you create a home you love.</p>
+      </header>
+
+      <div class="posts-grid">
+        {allPosts.map(post => <PostCard post={post} />)}
+      </div>
+
+      <div class="blog-cta">
+        <a href="/categories/" class="btn-primary">View All Posts</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- QUOTE BANNER -->
+  <section class="quote-section" aria-label="Inspiration quote">
+    <div class="quote-inner">
+      <blockquote class="quote-text">
+        "The details are not the details. They make the design."
+      </blockquote>
+      <p class="quote-author">— Charles Eames</p>
+    </div>
+  </section>
+
+  <!-- PINTEREST BANNER -->
+  <section class="pinterest-banner" aria-label="Follow on Pinterest">
+    <div class="container pb-inner">
+      <div class="pb-text">
+        <h2 class="pb-title">Find us on Pinterest</h2>
+        <p class="pb-sub">Thousands of pins to inspire your next project</p>
+      </div>
+      <a href="https://pinterest.com/interestdecor" target="_blank" rel="noopener noreferrer" class="pb-cta" aria-label="Follow InterestDecor on Pinterest">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+        Follow on Pinterest
+      </a>
+    </div>
+  </section>
+
+  <!-- NEWSLETTER -->
+  <section class="newsletter-section" aria-label="Subscribe to newsletter" id="newsletter">
+    <div class="newsletter-inner">
+      <div class="nl-content">
+        <p class="nl-tag">Stay Inspired</p>
+        <h2 class="nl-title">Weekly decor ideas<br />in your <em>inbox</em></h2>
+        <p class="nl-desc">Join thousands of home lovers who get our curated inspiration, seasonal guides, and exclusive DIY tutorials every week.</p>
+      </div>
+      <div>
+        <form class="nl-form" id="newsletterForm" action="https://formspree.io/f/mqejnvve" method="POST">
+          <input type="hidden" name="_subject" value="New InterestDecor newsletter signup" />
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" style="display:none" aria-hidden="true" />
+          <div class="nl-input-group">
+            <input type="email" name="email" class="nl-input" placeholder="your@email.com" id="nlEmail" aria-label="Email address" required />
+            <button type="submit" class="nl-submit" id="nlSubmit">Subscribe</button>
+          </div>
+          <p class="nl-note">No spam, ever. Unsubscribe any time.</p>
+          <p class="nl-error" id="nlError" aria-live="polite" style="display:none; color:#fff; margin-top:10px; font-size:.9rem;"></p>
+          <div class="nl-perks">
+            <div class="nl-perk"><div class="nl-perk-icon" aria-hidden="true">🎁</div><span>Free Decor Mood Board Template on signup</span></div>
+            <div class="nl-perk"><div class="nl-perk-icon" aria-hidden="true">📌</div><span>Exclusive Pinterest board access</span></div>
+            <div class="nl-perk"><div class="nl-perk-icon" aria-hidden="true">✨</div><span>Seasonal styling guides & trend reports</span></div>
+          </div>
+        </form>
+        <div id="nlSuccess" style="display:none; color:rgba(255,255,255,.8); font-family:'Cormorant Garamond',serif; font-size:1.4rem; font-style:italic; padding:40px 0;">
+          Thank you! Check your inbox for a welcome gift. 🌸
+        </div>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>
+
+<script>
+  const nlForm    = document.getElementById('newsletterForm') as HTMLFormElement | null;
+  const nlSubmit  = document.getElementById('nlSubmit') as HTMLButtonElement | null;
+  const nlEmail   = document.getElementById('nlEmail') as HTMLInputElement | null;
+  const nlSuccess = document.getElementById('nlSuccess');
+  const nlError   = document.getElementById('nlError');
+
+  nlForm?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!nlEmail || !nlSubmit) return;
+    const email = nlEmail.value.trim();
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      if (nlError) { nlError.textContent = 'Please enter a valid email.'; nlError.style.display = 'block'; }
+      return;
+    }
+    const orig = nlSubmit.textContent;
+    nlSubmit.disabled = true;
+    nlSubmit.textContent = 'Subscribing...';
+    try {
+      const res = await fetch(nlForm.action, { method: 'POST', body: new FormData(nlForm), headers: { Accept: 'application/json' } });
+      if (res.ok) {
+        nlForm.style.display = 'none';
+        if (nlSuccess) nlSuccess.style.display = 'block';
+      } else {
+        throw new Error('failed');
+      }
+    } catch {
+      if (nlError) { nlError.textContent = 'Sorry, please try again.'; nlError.style.display = 'block'; }
+      nlSubmit.disabled = false;
+      nlSubmit.textContent = orig ?? 'Subscribe';
+    }
+  });
+</script>

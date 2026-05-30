@@ -1,0 +1,34 @@
+---
+const { post } = Astro.props;
+const p = post.data;
+const url = `/blog/${post.slug}/`;
+---
+<article
+  class="post-card post-card-link"
+  itemscope
+  itemtype="https://schema.org/BlogPosting"
+  role="link"
+  tabindex="0"
+  onclick={`window.location.href='${url}'`}
+  onkeydown={`if(event.key==='Enter'||event.key===' ')window.location.href='${url}'`}
+>
+  <div class="post-thumb">
+    <img class="post-thumb-img" src={p.heroImage} alt={p.heroAlt || p.title} loading="lazy" />
+    <span class="post-cat-tag">{p.category}</span>
+  </div>
+  <div class="post-body">
+    <div class="post-meta">
+      <time datetime={p.date.toISOString().slice(0, 10)} itemprop="datePublished">{p.displayDate}</time>
+      <span class="post-meta-dot" aria-hidden="true"></span>
+      <span>{p.readTime}</span>
+    </div>
+    <h3 class="post-title" itemprop="headline">{p.title}</h3>
+    <p class="post-excerpt">{p.excerpt}</p>
+    <span class="post-read-more" aria-label={`Read more about ${p.title}`}>
+      Read More
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M5 12h14M12 5l7 7-7 7"/>
+      </svg>
+    </span>
+  </div>
+</article>

@@ -1,0 +1,120 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+
+const allPosts = (await getCollection('blog')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+const categories = [
+  { slug: 'home-decor',          name: 'Home Decor',          icon: '🏠', image: '/images/cat-home-decor.jpg'  },
+  { slug: 'kitchen-gardening',   name: 'Kitchen Gardening',   icon: '🌿', image: '/images/cat-gardening.jpg'   },
+  { slug: 'floral-arrangements', name: 'Floral Arrangements', icon: '🌸', image: '/images/cat-floral.jpg'      },
+  { slug: 'diy-crafts',          name: 'DIY & Crafts',        icon: '✂️', image: '/images/cat-diy.jpg'         },
+];
+
+function postsFor(slug: string) {
+  return allPosts.filter(p => p.data.categorySlug === slug);
+}
+---
+<BaseLayout
+  title="All Categories | InterestDecor"
+  description="Browse all InterestDecor categories: Home Decor, Kitchen Gardening, Floral Arrangements and DIY Crafts."
+>
+
+  <!-- PAGE HERO -->
+  <div class="page-hero">
+    <p class="page-hero-eyebrow">Browse by Topic</p>
+    <h1 class="page-hero-title">All <em>Categories</em></h1>
+    <p class="page-hero-desc">From cosy living rooms to blooming balconies — find the inspiration you're looking for.</p>
+  </div>
+
+  <section class="cats-page">
+    <div class="container">
+
+      <!-- CATEGORY FEATURE GRID -->
+      <div class="cats-full-grid">
+        {categories.map(cat => {
+          const count = postsFor(cat.slug).length;
+          return (
+            <a
+              class="cat-feature cat-feature-link"
+              href={`#${cat.slug}`}
+              aria-label={`Browse ${cat.name} — ${count > 0 ? `${count} article${count > 1 ? 's' : ''}` : 'coming soon'}`}
+            >
+              <img class="cat-feature-img" src={cat.image} alt={cat.name} loading="lazy" />
+              <div class="cat-feature-overlay">
+                <h2 class="cat-feature-name">{cat.name}</h2>
+                <p class="cat-feature-count">
+                  {count > 0 ? `${count} Article${count > 1 ? 's' : ''}` : 'Coming Soon'}
+                </p>
+                <div class="cat-feature-arrow" aria-hidden="true">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+
+      <!-- POSTS BY CATEGORY -->
+      <section class="category-post-sections" aria-label="Posts by category">
+        {categories.map(cat => {
+          const posts = postsFor(cat.slug);
+          return (
+            <div class="category-post-block" id={cat.slug}>
+              {posts.length > 0 ? (
+                <>
+                  <header class="category-post-header">
+                    <p class="section-tag">{cat.name}</p>
+                    <h2 class="section-title">
+                      Published <em>{posts.length === 1 ? 'post' : 'posts'}</em>
+                    </h2>
+                  </header>
+                  <div class="posts-grid category-post-grid">
+                    {posts.map(post => <PostCard post={post} />)}
+                  </div>
+                </>
+              ) : (
+                <div class="empty-category">
+                  <p class="section-tag">{cat.name}</p>
+                  <h2 class="section-title">Coming <em>soon</em></h2>
+                  <p class="empty-category-text">{cat.name} posts will appear here once they are published.</p>
+                </div>
+              )}
+            </div>
+          );
+        })}
+      </section>
+
+      <!-- ALL RECENT POSTS -->
+      <div style="margin-top:72px;">
+        <header class="section-header">
+          <p class="section-tag">All Recent Posts</p>
+          <h2 class="section-title">Everything in one <em>place</em></h2>
+          <div class="section-divider" aria-hidden="true"></div>
+        </header>
+        <div class="posts-grid">
+          {allPosts.map(post => <PostCard post={post} />)}
+        </div>
+      </div>
+
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  // Smooth scroll for category links
+  document.querySelectorAll('.cat-feature-link').forEach(link => {
+    link.addEventListener('click', function(e) {
+      const href = (this as HTMLAnchorElement).getAttribute('href');
+      if (!href?.startsWith('#')) return;
+      const target = document.querySelector(href);
+      if (!target) return;
+      e.preventDefault();
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      history.replaceState(null, '', href);
+    });
+  });
+</script>
