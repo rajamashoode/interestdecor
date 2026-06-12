@@ -148,6 +148,20 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"apartment-herb-garden-windowsill-gardening.md": {
+	id: "apartment-herb-garden-windowsill-gardening.md";
+  slug: "apartment-herb-garden-windowsill-gardening";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"bright-small-living-room-feel-bigger.md": {
+	id: "bright-small-living-room-feel-bigger.md";
+  slug: "bright-small-living-room-feel-bigger";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "diy-dried-flower-arrangement-beginners-guide.md": {
 	id: "diy-dried-flower-arrangement-beginners-guide.md";
   slug: "diy-dried-flower-arrangement-beginners-guide";
@@ -165,6 +179,20 @@ declare module 'astro:content' {
 "how-to-grow-basil-at-home-beginners-guide.md": {
 	id: "how-to-grow-basil-at-home-beginners-guide.md";
   slug: "how-to-grow-basil-at-home-beginners-guide";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"small-kitchen-ideas-2026.md": {
+	id: "small-kitchen-ideas-2026.md";
+  slug: "small-kitchen-ideas-2026";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"small-living-room-ideas-renters-under-200.md": {
+	id: "small-living-room-ideas-renters-under-200.md";
+  slug: "small-living-room-ideas-renters-under-200";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
