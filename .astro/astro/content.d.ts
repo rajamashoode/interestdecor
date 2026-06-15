@@ -197,6 +197,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"white-terracotta-bedroom-ideas.md": {
+	id: "white-terracotta-bedroom-ideas.md";
+  slug: "white-terracotta-bedroom-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 };
 
 	};
