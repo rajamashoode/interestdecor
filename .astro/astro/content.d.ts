@@ -162,6 +162,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"deep-plum-kitchen-ideas.md": {
+	id: "deep-plum-kitchen-ideas.md";
+  slug: "deep-plum-kitchen-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "diy-dried-flower-arrangement-beginners-guide.md": {
 	id: "diy-dried-flower-arrangement-beginners-guide.md";
   slug: "diy-dried-flower-arrangement-beginners-guide";
