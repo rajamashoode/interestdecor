@@ -190,6 +190,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"olive-green-kitchen-ideas.md": {
+	id: "olive-green-kitchen-ideas.md";
+  slug: "olive-green-kitchen-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "sage-green-bedroom-ideas.md": {
 	id: "sage-green-bedroom-ideas.md";
   slug: "sage-green-bedroom-ideas";
