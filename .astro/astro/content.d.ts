@@ -155,6 +155,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"best-houseplants-for-living-room.md": {
+	id: "best-houseplants-for-living-room.md";
+  slug: "best-houseplants-for-living-room";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "bright-small-living-room-feel-bigger.md": {
 	id: "bright-small-living-room-feel-bigger.md";
   slug: "bright-small-living-room-feel-bigger";
