@@ -1531,3 +1531,22 @@ figure:hover [data-pin-do] {
   .article-shell { padding: 40px 16px; }
   .category-post-block { padding: 28px 20px; }
 }
+
+/* Pinterest Save Button */
+.blog-figure:hover .pinterest-save,
+.blog-image-wrap:hover .pinterest-save,
+figure:hover [data-pin-do] {
+  opacity: 1;
+}
+[data-pin-do] {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 10;
+}
+.blog-figure,
+.blog-image-wrap {
+  position: relative;
+}
