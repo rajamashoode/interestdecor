@@ -141,6 +141,13 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"blog": {
+"4th-of-july-decor-ideas.md": {
+	id: "4th-of-july-decor-ideas.md";
+  slug: "4th-of-july-decor-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "7-minimalist-living-room-ideas-that-feel-warm-not-cold.md": {
 	id: "7-minimalist-living-room-ideas-that-feel-warm-not-cold.md";
   slug: "7-minimalist-living-room-ideas-that-feel-warm-not-cold";
