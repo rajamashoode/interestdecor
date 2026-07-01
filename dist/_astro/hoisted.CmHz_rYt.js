@@ -1,1 +1,0 @@
-import"./hoisted.hb1hLWWy.js";document.querySelectorAll(".cat-feature-link").forEach(r=>{r.addEventListener("click",function(o){const t=this.getAttribute("href");if(!t?.startsWith("#"))return;const e=document.querySelector(t);e&&(o.preventDefault(),e.scrollIntoView({behavior:"smooth",block:"start"}),history.replaceState(null,"",t))})});

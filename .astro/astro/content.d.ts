@@ -211,6 +211,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"olive-green-living-room-ideas.md": {
+	id: "olive-green-living-room-ideas.md";
+  slug: "olive-green-living-room-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "room-decoration-ideas-small-spaces.md": {
 	id: "room-decoration-ideas-small-spaces.md";
   slug: "room-decoration-ideas-small-spaces";
