@@ -176,6 +176,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"butter-yellow-bedroom-ideas.md": {
+	id: "butter-yellow-bedroom-ideas.md";
+  slug: "butter-yellow-bedroom-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "deep-plum-kitchen-ideas.md": {
 	id: "deep-plum-kitchen-ideas.md";
   slug: "deep-plum-kitchen-ideas";

@@ -133,5 +133,17 @@
      <priority>0.8</priority>
    </url>
 
+   <url>
+     <loc>https://interestdecor.com/blog/olive-green-living-room-ideas/</loc>
+     <changefreq>yearly</changefreq>
+     <priority>0.8</priority>
+   </url>
+
+   <url>
+     <loc>https://interestdecor.com/blog/butter-yellow-bedroom-ideas/</loc>
+     <changefreq>yearly</changefreq>
+     <priority>0.8</priority>
+   </url>
+
  
 </urlset>
