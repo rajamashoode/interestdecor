@@ -155,6 +155,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"air-dry-clay-home-decor.md": {
+	id: "air-dry-clay-home-decor.md";
+  slug: "air-dry-clay-home-decor";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "apartment-herb-garden-windowsill-gardening.md": {
 	id: "apartment-herb-garden-windowsill-gardening.md";
   slug: "apartment-herb-garden-windowsill-gardening";
@@ -179,6 +186,13 @@ declare module 'astro:content' {
 "butter-yellow-bedroom-ideas.md": {
 	id: "butter-yellow-bedroom-ideas.md";
   slug: "butter-yellow-bedroom-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"decorative-plate-wall-ideas.md": {
+	id: "decorative-plate-wall-ideas.md";
+  slug: "decorative-plate-wall-ideas";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
