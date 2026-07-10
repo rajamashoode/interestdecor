@@ -91,6 +91,7 @@ const jsonLd = {
     btn.className = 'pinterest-save';
     btn.href = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&media=${encodeURIComponent(mediaSrc)}&description=${encodeURIComponent(desc)}`;
     btn.setAttribute('data-pin-do', 'buttonPin');
+    btn.setAttribute('data-pin-custom', 'true');
     btn.setAttribute('data-pin-media', mediaSrc);
     btn.setAttribute('data-pin-description', desc);
     btn.target = '_blank';
