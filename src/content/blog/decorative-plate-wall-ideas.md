@@ -401,5 +401,5 @@ A decorative plate wall offers something increasingly rare in home decor: a genu
 
 Start with the plates you already have, or take a first trip to a local thrift store with fresh eyes for pattern and color. Lay everything out, experiment with paper templates, and let the arrangement come together gradually. The most beloved plate walls are rarely finished quickly, they grow richer with every new piece added over time.
 
-For more handmade and budget-friendly decorating ideas see our guides on [Air Dry Clay Home Decor](/blog/air-dry-clay-home-decor/) and [DIY Home Decor Under Twenty Dollars](/blog/diy-home-decor-under-20-budget-craft-ideas/), which pair beautifully alongside a growing plate wall collection.
+For more handmade and budget-friendly decorating ideas see our guides on <a href="/blog/air-dry-clay-home-decor/">Air Dry Clay Home Decor</a> and <a href="/blog/diy-home-decor-under-20-budget-craft-ideas/">DIY Home Decor Under Twenty Dollars</a>, which pair beautifully alongside a growing plate wall collection.
 </section>

@@ -127,7 +127,7 @@ A collection of items arranged by height — a tall vase with flowers in the cen
 A wooden board or galvanized tray with fresh strawberries, blueberries, and white flowers arranged together. This edible centerpiece doubles as a snack and looks beautiful in patriotic colors.
 
 **The herb and flower centerpiece:**
-If you have a windowsill herb garden, cut fresh herbs and arrange with wildflowers for a fragrant patriotic centerpiece. Fresh basil, rosemary, and thyme alongside red and white flowers smell extraordinary and look beautiful. For more on growing herbs see our [Apartment Herb Garden Guide](/blog/apartment-herb-garden-windowsill-gardening/).
+If you have a windowsill herb garden, cut fresh herbs and arrange with wildflowers for a fragrant patriotic centerpiece. Fresh basil, rosemary, and thyme alongside red and white flowers smell extraordinary and look beautiful. For more on growing herbs see our <a href="/blog/apartment-herb-garden-windowsill-gardening/">Apartment Herb Garden Guide</a>.
 
 **Table linen foundation:** Whatever centerpiece you choose, a red and white striped tablecloth or runner under the arrangement creates the essential patriotic foundation. Linen or cotton feels far better than paper or plastic.
 </section>
@@ -286,7 +286,7 @@ Three mason jars side by side — one all red, one all white, one with blue hydr
 White flowers can be dyed blue by placing them in water with blue food dye for 24 hours. White carnations and white Queen Anne's lace absorb blue color beautifully. An easy way to get blue flowers if you cannot find them naturally.
 
 **Dried flower option:**
-If you prefer zero-maintenance arrangements, dried red pampas grass, dried white flowers, and blue-dyed dried elements create a patriotic arrangement that lasts beyond the holiday. See our [DIY Dried Flower Arrangement Guide](/blog/diy-dried-flower-arrangement-beginners-guide/) for full instructions.
+If you prefer zero-maintenance arrangements, dried red pampas grass, dried white flowers, and blue-dyed dried elements create a patriotic arrangement that lasts beyond the holiday. See our <a href="/blog/diy-dried-flower-arrangement-beginners-guide/">DIY Dried Flower Arrangement Guide</a> for full instructions.
 </section>
 
 <section class="article-section" id="tiered-tray">
@@ -338,7 +338,7 @@ The kitchen is the center of activity on the 4th of July. Burgers and hot dogs p
 
 **Drink station:** A large galvanized tub filled with ice, red cans of soda, and navy blue bottles of sparkling water. Styled with red white and blue striped paper straws, lemon slices, and a small American flag. This functional drink station is also a beautiful patriotic display.
 
-**Herb garden connection:** Fresh herbs growing on your windowsill become a patriotic kitchen detail when the pots are styled with a small American flag tucked alongside each one. If you grow basil, rosemary, and thyme, tie a red ribbon around each terracotta pot. Beautiful and fragrant. See our [Apartment Herb Garden Guide](/blog/apartment-herb-garden-windowsill-gardening/) for growing tips.
+**Herb garden connection:** Fresh herbs growing on your windowsill become a patriotic kitchen detail when the pots are styled with a small American flag tucked alongside each one. If you grow basil, rosemary, and thyme, tie a red ribbon around each terracotta pot. Beautiful and fragrant. See our <a href="/blog/apartment-herb-garden-windowsill-gardening/">Apartment Herb Garden Guide</a> for growing tips.
 
 **Red and white baking display:** Cookies, cupcakes, or fruit arranged on a white cake stand in patriotic colors — red strawberries, white whipped cream, blueberries — creates an edible patriotic centerpiece that disappears deliciously.
 
@@ -380,7 +380,7 @@ Items from home: $0
 DIY materials: $5
 Total: $25 for a fully decorated patriotic home.
 
-For more budget home decor inspiration see our [DIY Home Decor Under Twenty Dollars](/blog/diy-home-decor-under-20-budget-craft-ideas/) guide — many of those techniques apply beautifully to patriotic seasonal decor.
+For more budget home decor inspiration see our <a href="/blog/diy-home-decor-under-20-budget-craft-ideas/">DIY Home Decor Under Twenty Dollars</a> guide — many of those techniques apply beautifully to patriotic seasonal decor.
 </section>
 
 <section class="article-section" id="last-minute">
@@ -429,5 +429,5 @@ The 4th of July is one of the most joyful occasions to decorate for — and one 
 
 Start with your front porch and your dining table. Get those two spaces right and the rest of your home will follow naturally. Add fresh flowers, a few mason jars, some candles, and the American flag. By the time your guests arrive, your home will feel genuinely festive and welcoming — exactly what Independence Day deserves.
 
-For more home styling inspiration see our guides on [DIY Home Decor Under Twenty Dollars](/blog/diy-home-decor-under-20-budget-craft-ideas/), [DIY Dried Flower Arrangements](/blog/diy-dried-flower-arrangement-beginners-guide/), and [Apartment Herb Garden Guide](/blog/apartment-herb-garden-windowsill-gardening/) for the perfect fresh herb centerpiece.
+For more home styling inspiration see our guides on <a href="/blog/diy-home-decor-under-20-budget-craft-ideas/">DIY Home Decor Under Twenty Dollars</a>, <a href="/blog/diy-dried-flower-arrangement-beginners-guide/">DIY Dried Flower Arrangements</a>, and <a href="/blog/apartment-herb-garden-windowsill-gardening/">Apartment Herb Garden Guide</a> for the perfect fresh herb centerpiece.
 </section>

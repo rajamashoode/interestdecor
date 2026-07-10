@@ -350,7 +350,7 @@ Matching terracotta pots with wooden herb labels on a bright kitchen windowsill 
 
 The organic green of growing herbs against cream or sage cabinet colours is a combination that never fails to look beautiful. And the practical benefit — fresh herbs available whenever you're cooking — is something that genuinely improves your daily kitchen experience.
 
-**Best herbs for kitchen windowsills:** Basil, chives, mint (in its own pot), parsley, and thyme. All grow well in standard kitchen light conditions. For a complete guide to growing herbs indoors, see our [Apartment Herb Garden guide](/blog/apartment-herb-garden-windowsill-gardening/).
+**Best herbs for kitchen windowsills:** Basil, chives, mint (in its own pot), parsley, and thyme. All grow well in standard kitchen light conditions. For a complete guide to growing herbs indoors, see our <a href="/blog/apartment-herb-garden-windowsill-gardening/">Apartment Herb Garden guide</a>.
 
 **Styling tip:** Use matching terracotta pots of varying sizes with handwritten wooden labels. Group them at slightly different heights using small wooden risers. Add a small brass watering can at the end for the full Pinterest-worthy look.
 </section>

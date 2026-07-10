@@ -111,7 +111,7 @@ Not all herbs are equally suited to indoor growing. These are the best performer
 
 ### Tier 1 — Easiest (Start Here)
 
-**Basil:** The most rewarding windowsill herb. Grows fast, produces abundantly, and the kitchen uses are endless. Needs the most light of all herbs — south-facing window essential. Full growing guide in our [How to Grow Basil at Home](/blog/how-to-grow-basil-at-home-beginners-guide/) post.
+**Basil:** The most rewarding windowsill herb. Grows fast, produces abundantly, and the kitchen uses are endless. Needs the most light of all herbs — south-facing window essential. Full growing guide in our <a href="/blog/how-to-grow-basil-at-home-beginners-guide/">How to Grow Basil at Home</a> post.
 
 **Chives:** Almost indestructible. Tolerates lower light better than most herbs. Grow in a cluster and snip as needed — they regrow from the base like a haircut. Perfect for eggs, potatoes, salads, and soups.
 

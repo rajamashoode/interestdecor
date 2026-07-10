@@ -264,7 +264,7 @@ For homeowners who love deep plum but want a brighter overall kitchen, the plum 
 
 A surprising 2026 combination that designers are quietly embracing: deep plum and sage green. The cool muted sage green and the deep warm plum create an unexpected harmony that feels both bold and balanced.
 
-For more on sage green see our complete guide to [Sage Green Bedroom Ideas](/blog/sage-green-bedroom-ideas/) — sage is the calming counterpart to plum's drama.
+For more on sage green see our complete guide to <a href="/blog/sage-green-bedroom-ideas/">Sage Green Bedroom Ideas</a> — sage is the calming counterpart to plum's drama.
 
 **How to combine plum and sage in a kitchen:**
 
@@ -397,7 +397,7 @@ Lighting is what brings a deep plum kitchen to life. The wrong lighting makes pl
 
 Small kitchens absolutely can use deep plum successfully. In fact, the cocoon-like effect that plum creates can make small kitchens feel more intentional and luxurious rather than smaller.
 
-For more small kitchen ideas see our [Small Kitchen Ideas 2026](/blog/small-kitchen-ideas-2026/) guide for additional context.
+For more small kitchen ideas see our <a href="/blog/small-kitchen-ideas-2026/">Small Kitchen Ideas 2026</a> guide for additional context.
 
 **Tips for small deep plum kitchens:**
 
@@ -458,5 +458,5 @@ A deep plum kitchen in 2026 is a confident design statement. The choice to commi
 
 Start with one element. A plum island. Plum lower cabinets only. A plum accent on a butler's pantry. See how it transforms the space. Then commit further or stay exactly there. Either way, you've already created something genuinely beautiful — and timelessly current.
 
-For more 2026 kitchen inspiration see our [Small Kitchen Ideas 2026](/blog/small-kitchen-ideas-2026/) guide and [Sage Green Bedroom Ideas](/blog/sage-green-bedroom-ideas/) for the perfect calming counterpart room.
+For more 2026 kitchen inspiration see our <a href="/blog/small-kitchen-ideas-2026/">Small Kitchen Ideas 2026</a> guide and <a href="/blog/sage-green-bedroom-ideas/">Sage Green Bedroom Ideas</a> for the perfect calming counterpart room.
 </section>

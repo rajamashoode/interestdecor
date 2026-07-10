@@ -72,7 +72,7 @@ Before exploring specific ideas, it helps to understand why olive green has beco
 
 **It works at any scale.** Olive green works as a full wall color, a statement sofa, accent chairs, or simply through cushions and throws. You can commit fully or test the waters with small accents.
 
-This combination of warmth, versatility, and grounded sophistication is why olive green has become the defining living room color of 2026. If you already love an olive kitchen, see our [Olive Green Kitchen Ideas](/blog/olive-green-kitchen-ideas/) for continuity across your open-plan space.
+This combination of warmth, versatility, and grounded sophistication is why olive green has become the defining living room color of 2026. If you already love an olive kitchen, see our <a href="/blog/olive-green-kitchen-ideas/">Olive Green Kitchen Ideas</a> for continuity across your open-plan space.
 </section>
 
 <section class="article-section" id="olive-sofa">
@@ -192,7 +192,7 @@ Keep walls neutral if using an olive sofa, or use soft clay and warm neutral wal
 
 **Terracotta accent ideas:** Ceramic vases in terracotta tones. A terracotta and cream patterned rug. Rust velvet cushions. Burnt orange abstract art. Dried pampas grass in terracotta pots, the muted dried tones complement olive beautifully.
 
-**The dried botanical trick.** Dried botanicals like pampas grass and eucalyptus have muted, desaturated tones that act as a perfect complement to olive green, making the olive appear more vibrant. See our [DIY Dried Flower Arrangement Guide](/blog/diy-dried-flower-arrangement-beginners-guide/) for arrangements that pair beautifully with olive living rooms.
+**The dried botanical trick.** Dried botanicals like pampas grass and eucalyptus have muted, desaturated tones that act as a perfect complement to olive green, making the olive appear more vibrant. See our <a href="/blog/diy-dried-flower-arrangement-beginners-guide/">DIY Dried Flower Arrangement Guide</a> for arrangements that pair beautifully with olive living rooms.
 
 This warm, earthy palette feels organic and collected rather than overly designed, exactly the relaxed, character-filled mood that defines the best olive green living rooms.
 </section>
@@ -221,7 +221,7 @@ Walls in cream or soft greige. An olive green sofa as the anchor. Accessories in
 
 **Why it works for everyday living.** This botanical-inspired, tonal palette feels calm and layered. It works especially well in family rooms where softness and durability matter. The neutrals hide everyday wear while the olive adds enough personality to keep the space interesting.
 
-**Add greenery.** Real plants enhance this palette beautifully. The living green of houseplants echoes the olive tones and reinforces the organic, nature-connected feeling. See our [12 Best Houseplants for Your Living Room](/blog/best-houseplants-living-room/) for the perfect plants to complete this look.
+**Add greenery.** Real plants enhance this palette beautifully. The living green of houseplants echoes the olive tones and reinforces the organic, nature-connected feeling. See our <a href="/blog/best-houseplants-for-living-room/">12 Best Houseplants for Your Living Room</a> for the perfect plants to complete this look.
 
 This combination is the safest and most timeless way to use olive green. It will look beautiful for years and adapt easily as your style evolves.
 </section>
@@ -366,7 +366,7 @@ A common worry is that olive green will make a small living room feel dark or cr
 
 **Balance with light.** Pair olive green with light walls in cream or soft white. Add white trim, white curtains, and light wood furniture. The contrast keeps the room feeling open while olive adds essential warmth and depth.
 
-**Mirrors multiply light.** Place a large mirror opposite a window to reflect natural light and create the illusion of more space. A brass-framed mirror does double duty, adding both light and a warm metallic accent that complements olive. See our [Bright Small Living Room: 10 Ways to Make It Feel Bigger](/blog/bright-small-living-room-feel-bigger/) for more space-expanding techniques.
+**Mirrors multiply light.** Place a large mirror opposite a window to reflect natural light and create the illusion of more space. A brass-framed mirror does double duty, adding both light and a warm metallic accent that complements olive. See our <a href="/blog/bright-small-living-room-feel-bigger/">Bright Small Living Room: 10 Ways to Make It Feel Bigger</a> for more space-expanding techniques.
 
 **Lighter olive tints work best.** In small spaces, choose a lighter, muted olive, almost a sage with grey undertones, rather than a deep dark olive. The lighter tint adds color without absorbing too much light.
 
@@ -376,7 +376,7 @@ A common worry is that olive green will make a small living room feel dark or cr
 
 Olive green is versatile enough to work in any size living room. In small spaces, the key is balance, pairing it with light, reflection, and natural materials to keep the room feeling bright and open.
 
-For more small space styling see our [Room Decoration Ideas for Small Spaces](/blog/room-decoration-ideas-small-spaces/).
+For more small space styling see our <a href="/blog/room-decoration-ideas-small-spaces/">Room Decoration Ideas for Small Spaces</a>.
 </section>
 
 <section class="article-section" id="color-palette">
@@ -415,5 +415,5 @@ Olive green is more than a color trend. It represents a genuine shift toward war
 
 Start with one element. An olive sofa, an accent wall, or a pair of olive chairs. Then build outward with warm neutrals, natural wood, earthy accents, and brass. The result will be a living room that feels calm, grounded, and effortlessly luxurious, exactly the mood that defines the best interiors of 2026.
 
-For more color inspiration see our guides on [Olive Green Kitchen Ideas](/blog/olive-green-kitchen-ideas/), [Sage Green Bedroom Ideas](/blog/sage-green-bedroom-ideas/), and [12 Best Houseplants for Your Living Room](/blog/best-houseplants-living-room/) to complete your organic luxury home.
+For more color inspiration see our guides on <a href="/blog/olive-green-kitchen-ideas/">Olive Green Kitchen Ideas</a>, <a href="/blog/sage-green-bedroom-ideas/">Sage Green Bedroom Ideas</a>, and <a href="/blog/best-houseplants-for-living-room/">12 Best Houseplants for Your Living Room</a> to complete your organic luxury home.
 </section>

@@ -205,7 +205,7 @@ Butter yellow and sage green is a beautifully natural pairing, evoking the color
 
 **Why this pairing works.** Sage green's muted, earthy quality keeps butter yellow from feeling too sweet or saturated. In return, butter yellow brings warmth and brightness to sage green, which can sometimes feel cool or muted on its own.
 
-**Building the combination.** Butter yellow walls or bedding as the primary color. Sage green introduced through cushions, a throw blanket, or a single accent chair. Real plants reinforcing the green tones and adding life to the room. See our [Sage Green Bedroom Ideas](/blog/sage-green-bedroom-ideas/) for more on working with this color if you want to explore a sage-led version of this palette.
+**Building the combination.** Butter yellow walls or bedding as the primary color. Sage green introduced through cushions, a throw blanket, or a single accent chair. Real plants reinforcing the green tones and adding life to the room. See our <a href="/blog/sage-green-bedroom-ideas/">Sage Green Bedroom Ideas</a> for more on working with this color if you want to explore a sage-led version of this palette.
 
 **The 70-30 approach.** Let one color lead. Either butter yellow dominates with sage as a supporting accent, or sage green leads with butter yellow as the warm pop. Splitting the two colors evenly can feel less resolved than committing to one as primary.
 
@@ -234,7 +234,7 @@ Butter yellow and terracotta share a warm, sun-drenched quality that makes them 
 
 **Building the look.** A butter yellow wall or bedding base. Terracotta introduced through a ceramic lamp base, a clay-toned throw, or accent cushions. Natural wood furniture bridging both colors with its own warm undertone.
 
-**The pottery connection.** Terracotta's connection to handmade clay pottery pairs beautifully with butter yellow's soft, organic quality. Ceramic vases, ceramic lamp bases, and ceramic bowls in terracotta tones feel like natural accessories in this palette. Our [White and Terracotta Bedroom Ideas](/blog/white-terracotta-bedroom-ideas/) guide has more on working with terracotta tones if you want a terracotta-led approach.
+**The pottery connection.** Terracotta's connection to handmade clay pottery pairs beautifully with butter yellow's soft, organic quality. Ceramic vases, ceramic lamp bases, and ceramic bowls in terracotta tones feel like natural accessories in this palette. Our <a href="/blog/white-terracotta-bedroom-ideas/">White and Terracotta Bedroom Ideas</a> guide has more on working with terracotta tones if you want a terracotta-led approach.
 
 **Balance is essential.** Because both colors are warm and saturated, balance them with generous cream or white space. Too much butter yellow and terracotta together without a neutral buffer can feel overwhelming rather than warm.
 
@@ -346,7 +346,7 @@ Small bedrooms can absolutely embrace butter yellow, but the approach requires a
 
 **Maximize reflected light.** A large mirror positioned opposite a window bounces natural light around the room, which is especially valuable in a butter yellow space, since more light means the color glows rather than feels flat.
 
-**Keep furniture light and low.** Light wood furniture with visible legs, rather than bulky solid pieces, keeps a small butter yellow bedroom feeling airy. See our [Room Decoration Ideas for Small Spaces](/blog/room-decoration-ideas-small-spaces/) for more small-space furniture strategies.
+**Keep furniture light and low.** Light wood furniture with visible legs, rather than bulky solid pieces, keeps a small butter yellow bedroom feeling airy. See our <a href="/blog/room-decoration-ideas-small-spaces/">Room Decoration Ideas for Small Spaces</a> for more small-space furniture strategies.
 
 **White trim for definition.** Crisp white trim and ceiling against butter yellow walls create a clear boundary that helps the room read as organized and intentional rather than enclosed by a single overwhelming color.
 
@@ -391,5 +391,5 @@ Butter yellow is more than a passing trend. It represents a genuine shift toward
 
 Start with one element, a throw, an accent wall, or a full bedding refresh, then build outward with cream, natural wood, and warm lighting. The result will be a bedroom that feels genuinely cheerful, calm, and deeply inviting, exactly the mood that makes butter yellow the color everyone is falling for right now.
 
-For more bedroom color inspiration see our guides on [Sage Green Bedroom Ideas](/blog/sage-green-bedroom-ideas/), [White and Terracotta Bedroom Ideas](/blog/white-terracotta-bedroom-ideas/), and [Room Decoration Ideas for Small Spaces](/blog/room-decoration-ideas-small-spaces/).
+For more bedroom color inspiration see our guides on <a href="/blog/sage-green-bedroom-ideas/">Sage Green Bedroom Ideas</a>, <a href="/blog/white-terracotta-bedroom-ideas/">White and Terracotta Bedroom Ideas</a>, and <a href="/blog/room-decoration-ideas-small-spaces/">Room Decoration Ideas for Small Spaces</a>.
 </section>

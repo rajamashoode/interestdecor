@@ -329,7 +329,7 @@ Sage green sits in the cool side of warm earthy tones. Terracotta sits firmly in
 - Aged brass hardware
 - Jute or wool rug
 
-If you're interested in a fully terracotta-focused bedroom, our complete [White and Terracotta Bedroom Guide](/blog/white-and-terracotta-bedroom-ideas/) covers the pairing in detail.
+If you're interested in a fully terracotta-focused bedroom, our complete <a href="/blog/white-terracotta-bedroom-ideas/">White and Terracotta Bedroom Guide</a> covers the pairing in detail.
 </section>
 
 <section class="article-section" id="sage-cream">

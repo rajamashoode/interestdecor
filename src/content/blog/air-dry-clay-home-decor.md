@@ -393,5 +393,5 @@ Air dry clay offers something increasingly rare in home decor: the ability to cr
 
 Start small. Make one ring dish or one set of coasters. Once you feel the satisfaction of a finished piece that you shaped yourself, it becomes very easy to understand why this humble material has become one of the defining crafts of the year.
 
-For more budget-friendly DIY inspiration see our guides on [DIY Home Decor Under Twenty Dollars](/blog/diy-home-decor-under-20-budget-craft-ideas/) and [DIY Dried Flower Arrangements](/blog/diy-dried-flower-arrangement-beginners-guide/), which pair beautifully with your new handmade clay vases and trays.
+For more budget-friendly DIY inspiration see our guides on <a href="/blog/diy-home-decor-under-20-budget-craft-ideas/">DIY Home Decor Under Twenty Dollars</a> and <a href="/blog/diy-dried-flower-arrangement-beginners-guide/">DIY Dried Flower Arrangements</a>, which pair beautifully with your new handmade clay vases and trays.
 </section>

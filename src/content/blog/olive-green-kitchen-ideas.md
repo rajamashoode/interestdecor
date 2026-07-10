@@ -405,7 +405,7 @@ Lighting is what brings an olive green kitchen to life. The wrong lighting makes
 
 Small kitchens absolutely can use olive green successfully. In fact, the grounding quality that olive provides can make small kitchens feel more intentional and luxurious rather than smaller.
 
-For more small kitchen design ideas see our complete guide to [Small Kitchen Ideas 2026](/blog/small-kitchen-ideas-2026/) for additional context.
+For more small kitchen design ideas see our complete guide to <a href="/blog/small-kitchen-ideas-2026/">Small Kitchen Ideas 2026</a> for additional context.
 
 **Tips for small olive green kitchens:**
 
@@ -468,5 +468,5 @@ An olive green kitchen in 2026 is a confident design statement. The choice to co
 
 Start with one element. An olive island. Olive lower cabinets only. An olive accent on a butler's pantry. See how it transforms the space. Then commit further or stay exactly there. Either way, you've already created something genuinely beautiful and timelessly current.
 
-For more 2026 kitchen inspiration see our [Small Kitchen Ideas 2026](/blog/small-kitchen-ideas-2026/) guide and [Deep Plum Kitchen Ideas](/blog/deep-plum-kitchen-ideas/) for the perfect moody alternative. For matching bedroom inspiration see our [Sage Green Bedroom Ideas](/blog/sage-green-bedroom-ideas/) — sage's calming bedroom version of olive's grounded kitchen energy.
+For more 2026 kitchen inspiration see our <a href="/blog/small-kitchen-ideas-2026/">Small Kitchen Ideas 2026</a> guide and <a href="/blog/deep-plum-kitchen-ideas/">Deep Plum Kitchen Ideas</a> for the perfect moody alternative. For matching bedroom inspiration see our <a href="/blog/sage-green-bedroom-ideas/">Sage Green Bedroom Ideas</a> — sage's calming bedroom version of olive's grounded kitchen energy.
 </section>

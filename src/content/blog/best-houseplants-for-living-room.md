@@ -317,7 +317,7 @@ The peace lily is unusual on this list because it flowers indoors. Elegant white
 
 Small living rooms can absolutely benefit from plants. The trick is choosing the right plants and placing them strategically rather than crowding the space.
 
-For more small living room ideas see our complete guide on [Bright Small Living Room Tips](/blog/bright-small-living-room-feel-bigger/) for additional context.
+For more small living room ideas see our complete guide on <a href="/blog/bright-small-living-room-feel-bigger/">Bright Small Living Room Tips</a> for additional context.
 
 **Best plants for small living rooms:**
 
@@ -411,4 +411,4 @@ Final guidance — the most common mistakes that make living room plants struggl
 
 Plants are the easiest, most cost-effective way to elevate any living room from styled to truly alive. Start with one beginner-friendly choice — a snake plant or a pothos — and notice how much warmth and life it brings to your space. Then add another. Within a year you will have a living room that feels like a sanctuary.
 
-For matching home decor ideas see our [Bright Small Living Room Guide](/blog/bright-small-living-room-feel-bigger/) and [Olive Green Kitchen Ideas](/blog/olive-green-kitchen-ideas/) to bring earthy 2026 design throughout your home.
+For matching home decor ideas see our <a href="/blog/bright-small-living-room-feel-bigger/">Bright Small Living Room Guide</a> and <a href="/blog/olive-green-kitchen-ideas/">Olive Green Kitchen Ideas</a> to bring earthy 2026 design throughout your home.
