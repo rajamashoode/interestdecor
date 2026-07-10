@@ -1448,16 +1448,25 @@ ul, ol { list-style: none; }
 /* ── Pinterest Save Button ───────────────────────────────── */
 .blog-hero-img-outer { position: relative; }
 
+.blog-image-wrap,
+.blog-hero-image-wrap {
+  position: relative !important;
+  overflow: hidden !important;
+  cursor: pointer;
+}
+
 [data-pin-do],
 .pinterest-save,
 a[data-pin-do="buttonPin"] {
   opacity: 0 !important;
   position: absolute !important;
-  top: 12px !important;
-  left: 12px !important;
-  z-index: 10 !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
   bottom: auto !important;
-  transition: opacity 0.25s ease !important;
+  right: auto !important;
+  z-index: 20 !important;
+  transition: opacity 0.25s ease, transform 0.25s ease !important;
   display: inline-flex !important;
   align-items: center !important;
   gap: 5px !important;
@@ -1470,21 +1479,50 @@ a[data-pin-do="buttonPin"] {
   font-weight: 600 !important;
   letter-spacing: .04em !important;
   text-decoration: none !important;
-  pointer-events: none !important;
+  pointer-events: auto !important;
 }
 
-.blog-figure:hover [data-pin-do],
-.blog-figure:hover .pinterest-save,
-.blog-figure:hover a[data-pin-do="buttonPin"],
 .blog-image-wrap:hover [data-pin-do],
-.blog-image-wrap:hover .pinterest-save,
-.blog-image-wrap:hover a[data-pin-do="buttonPin"],
+.blog-image-wrap.pin-active [data-pin-do],
 .blog-hero-image-wrap:hover [data-pin-do],
-.blog-hero-image-wrap:hover .pinterest-save,
-.blog-hero-img-outer:hover .pinterest-save,
-figure:hover [data-pin-do] {
+.blog-hero-image-wrap.pin-active [data-pin-do] {
+  transform: translate(-50%, -50%) scale(1.05) !important;
+}
+
+.blog-image-wrap::after,
+.blog-hero-image-wrap::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0);
+  transition: background 0.25s ease;
+  pointer-events: none;
+  z-index: 10;
+}
+
+@media (hover: hover) {
+  .blog-image-wrap:hover::after,
+  .blog-hero-image-wrap:hover::after {
+    background: rgba(0, 0, 0, 0.25);
+  }
+  .blog-image-wrap:hover [data-pin-do],
+  .blog-image-wrap:hover .pinterest-save,
+  .blog-hero-image-wrap:hover [data-pin-do],
+  .blog-hero-image-wrap:hover .pinterest-save {
+    opacity: 1 !important;
+  }
+}
+
+.blog-image-wrap.pin-active::after,
+.blog-hero-image-wrap.pin-active::after {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.blog-image-wrap.pin-active [data-pin-do],
+.blog-image-wrap.pin-active .pinterest-save,
+.blog-hero-image-wrap.pin-active [data-pin-do],
+.blog-hero-image-wrap.pin-active .pinterest-save {
   opacity: 1 !important;
-  pointer-events: auto !important;
 }
 
 /* ── Responsive ──────────────────────────────────────────── */
@@ -1532,21 +1570,3 @@ figure:hover [data-pin-do] {
   .category-post-block { padding: 28px 20px; }
 }
 
-/* Pinterest Save Button */
-.blog-figure:hover .pinterest-save,
-.blog-image-wrap:hover .pinterest-save,
-figure:hover [data-pin-do] {
-  opacity: 1;
-}
-[data-pin-do] {
-  opacity: 0;
-  transition: opacity 0.2s ease;
-  position: absolute;
-  top: 12px;
-  left: 12px;
-  z-index: 10;
-}
-.blog-figure,
-.blog-image-wrap {
-  position: relative;
-}

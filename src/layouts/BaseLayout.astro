@@ -195,6 +195,30 @@ const currentPath = Astro.url.pathname;
     }
   });
 
+  // Pinterest mobile tap: show Save button on first tap, dismiss on second image tap
+  const pinWraps = document.querySelectorAll('.blog-image-wrap, .blog-hero-image-wrap');
+  if (pinWraps.length) {
+    pinWraps.forEach((wrap) => {
+      wrap.addEventListener('click', (e) => {
+        const isTouch = window.matchMedia('(hover: none)').matches;
+        const clickedPinButton = (e.target as Element).closest('[data-pin-do], .pinterest-save');
+        if (isTouch && !clickedPinButton) {
+          const alreadyActive = wrap.classList.contains('pin-active');
+          pinWraps.forEach((w) => w.classList.remove('pin-active'));
+          if (!alreadyActive) {
+            e.preventDefault();
+            wrap.classList.add('pin-active');
+          }
+        }
+      });
+    });
+    document.addEventListener('click', (e) => {
+      if (!(e.target as Element).closest('.blog-image-wrap, .blog-hero-image-wrap')) {
+        pinWraps.forEach((w) => w.classList.remove('pin-active'));
+      }
+    });
+  }
+
   // Fade-in cards on scroll
   const faders = document.querySelectorAll('.post-card, .cat-card, .cat-feature');
   if ('IntersectionObserver' in window) {
