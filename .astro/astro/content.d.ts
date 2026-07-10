@@ -218,6 +218,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"eucalyptus-home-decor-ideas.md": {
+	id: "eucalyptus-home-decor-ideas.md";
+  slug: "eucalyptus-home-decor-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "how-to-grow-basil-at-home-beginners-guide.md": {
 	id: "how-to-grow-basil-at-home-beginners-guide.md";
   slug: "how-to-grow-basil-at-home-beginners-guide";

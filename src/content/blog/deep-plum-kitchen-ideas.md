@@ -4,8 +4,8 @@ description: "Discover 12 stunning deep plum kitchen ideas for 2026. The best pl
 excerpt: "Deep plum is the bold kitchen color of 2026. Moody, atmospheric, and undeniably sophisticated, plum kitchens feel like the design statement of the year."
 category: "Home Decor"
 categorySlug: "home-decor"
-date: 2026-07-18
-displayDate: "Jul 18, 2026"
+date: 2026-07-13
+displayDate: "Jul 13, 2026"
 readTime: "11 min read"
 heroImage: "/images/blog-11-deep-plum-kitchen/hero.webp"
 heroAlt: "Deep plum kitchen cabinets with aged brass hardware and white marble counters creating a moody sophisticated 2026 kitchen"
