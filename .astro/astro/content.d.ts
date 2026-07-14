@@ -253,6 +253,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"sage-green-bathroom-ideas.md": {
+	id: "sage-green-bathroom-ideas.md";
+  slug: "sage-green-bathroom-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "sage-green-bedroom-ideas.md": {
 	id: "sage-green-bedroom-ideas.md";
   slug: "sage-green-bedroom-ideas";
