@@ -267,6 +267,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"small-bathroom-ideas.md": {
+	id: "small-bathroom-ideas.md";
+  slug: "small-bathroom-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "small-kitchen-ideas-2026.md": {
 	id: "small-kitchen-ideas-2026.md";
   slug: "small-kitchen-ideas-2026";
