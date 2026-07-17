@@ -1,0 +1,30 @@
+---
+import RoomHubLayout from '../../layouts/RoomHubLayout.astro';
+import { getLivePosts } from '../../lib/posts';
+import { roomHubs } from '../../lib/roomHubs';
+
+const hub = roomHubs.find((h) => h.slug === 'living-room-ideas')!;
+const livePosts = await getLivePosts();
+const slugSet = new Set(hub.postSlugs);
+const posts = livePosts.filter((p) => slugSet.has(p.slug));
+
+const relatedHubs = hub.relatedHubSlugs
+  .map((slug) => roomHubs.find((h) => h.slug === slug))
+  .filter((h): h is NonNullable<typeof h> => Boolean(h))
+  .map((h) => ({
+    slug: h.slug,
+    title: h.title,
+    icon: h.icon,
+    iconClass: h.iconClass,
+    tagline: h.intro.split('. ')[0] + '.',
+  }));
+---
+<RoomHubLayout
+  title={hub.title}
+  icon={hub.icon}
+  seoTitle={hub.seoTitle}
+  metaDescription={hub.metaDescription}
+  intro={hub.intro}
+  posts={posts}
+  relatedHubs={relatedHubs}
+/>

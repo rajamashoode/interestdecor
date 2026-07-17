@@ -14,6 +14,42 @@
   </url>
 
   <url>
+    <loc>https://interestdecor.com/rooms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://interestdecor.com/rooms/bedroom-decor/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://interestdecor.com/rooms/bathroom-decor/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://interestdecor.com/rooms/kitchen-decor/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://interestdecor.com/rooms/living-room-ideas/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://interestdecor.com/rooms/small-space-living/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://interestdecor.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

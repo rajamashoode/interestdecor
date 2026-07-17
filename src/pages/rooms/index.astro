@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { roomHubs } from '../../lib/roomHubs';
+import { getLivePosts } from '../../lib/posts';
+
+const livePosts = await getLivePosts();
+
+const hubs = roomHubs.map((hub) => {
+  const slugSet = new Set(hub.postSlugs);
+  const count = livePosts.filter((p) => slugSet.has(p.slug)).length;
+  return { ...hub, count };
+});
+---
+<BaseLayout
+  title="Shop Ideas by Room | InterestDecor"
+  description="Browse InterestDecor's decorating guides organized by room: bedroom, bathroom, kitchen, living room, and small space living."
+>
+
+  <div class="page-hero">
+    <p class="page-hero-eyebrow">Browse by Room</p>
+    <h1 class="page-hero-title">Find ideas for <em>every room</em></h1>
+    <p class="page-hero-desc">Every guide on InterestDecor organized by the room you are actually decorating, so you can go straight to the color palettes, layouts, and styling tips that apply to your space.</p>
+  </div>
+
+  <section class="cats-page">
+    <div class="container">
+      <div class="cats-grid cats-grid-5">
+        {hubs.map((hub) => (
+          <a
+            class="cat-card"
+            href={`/rooms/${hub.slug}/`}
+            aria-label={`Browse ${hub.title}, ${hub.count} article${hub.count === 1 ? '' : 's'}`}
+          >
+            <div class={`cat-icon ${hub.iconClass}`} aria-hidden="true">{hub.icon}</div>
+            <h2 class="cat-name">{hub.title}</h2>
+            <p class="cat-count">
+              {hub.count > 0 ? `${hub.count} Article${hub.count === 1 ? '' : 's'}` : 'Coming Soon'}
+            </p>
+          </a>
+        ))}
+      </div>
+
+      <div style="margin-top:56px; text-align:center;">
+        <a href="/categories/" class="back-link">Browse all categories instead</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

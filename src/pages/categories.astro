@@ -1,11 +1,9 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
+import { getLivePosts } from '../lib/posts';
 
-const allPosts = (await getCollection('blog')).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
-);
+const allPosts = await getLivePosts();
 
 const categories = [
   { slug: 'home-decor',          name: 'Home Decor',          icon: '🏠', image: '/images/cat-home-decor.jpg'  },

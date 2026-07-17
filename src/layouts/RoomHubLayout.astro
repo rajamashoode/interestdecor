@@ -1,0 +1,85 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface RelatedHub {
+  slug: string;
+  title: string;
+  icon: string;
+  iconClass: string;
+  tagline: string;
+}
+
+interface Props {
+  title: string;
+  icon: string;
+  seoTitle: string;
+  metaDescription: string;
+  intro: string;
+  posts: CollectionEntry<'blog'>[];
+  relatedHubs: RelatedHub[];
+}
+
+const { title, icon, seoTitle, metaDescription, intro, posts, relatedHubs } = Astro.props;
+const [featured, ...rest] = posts;
+---
+<BaseLayout title={seoTitle} description={metaDescription}>
+
+  <div class="page-hero">
+    <p class="page-hero-eyebrow">Room Guide</p>
+    <h1 class="page-hero-title">{icon} <em>{title}</em></h1>
+    <p class="page-hero-desc">{intro}</p>
+  </div>
+
+  <section class="cats-page">
+    <div class="container">
+      <a href="/rooms/" class="back-link">Back to Rooms</a>
+
+      {featured && (
+        <div style="margin-top:40px;">
+          <header class="section-header">
+            <p class="section-tag">Start Here</p>
+            <h2 class="section-title">Our featured <em>guide</em></h2>
+            <div class="section-divider" aria-hidden="true"></div>
+          </header>
+          <div class="posts-grid">
+            <PostCard post={featured} />
+          </div>
+        </div>
+      )}
+
+      {rest.length > 0 && (
+        <div style="margin-top:72px;">
+          <header class="section-header">
+            <p class="section-tag">More {title}</p>
+            <h2 class="section-title">Explore the <em>collection</em></h2>
+            <div class="section-divider" aria-hidden="true"></div>
+          </header>
+          <div class="posts-grid">
+            {rest.map((post) => <PostCard post={post} />)}
+          </div>
+        </div>
+      )}
+
+      {relatedHubs.length > 0 && (
+        <div style="margin-top:72px;">
+          <header class="section-header">
+            <p class="section-tag">Keep Exploring</p>
+            <h2 class="section-title">Related <em>rooms</em></h2>
+            <div class="section-divider" aria-hidden="true"></div>
+          </header>
+          <div class="cats-grid">
+            {relatedHubs.map((hub) => (
+              <a class="cat-card" href={`/rooms/${hub.slug}/`} aria-label={`Explore ${hub.title}`}>
+                <div class={`cat-icon ${hub.iconClass}`} aria-hidden="true">{hub.icon}</div>
+                <h2 class="cat-name">{hub.title}</h2>
+                <p class="cat-count">{hub.tagline}</p>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>

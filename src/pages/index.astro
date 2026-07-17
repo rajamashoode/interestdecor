@@ -1,11 +1,10 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
+import { getLivePosts } from '../lib/posts';
+import { roomHubs } from '../lib/roomHubs';
 
-const allPosts = (await getCollection('blog')).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
-);
+const allPosts = await getLivePosts();
 
 const categories = [
   { slug: 'home-decor',          name: 'Home Decor',          icon: '🏠', class: 'ci-1' },
@@ -17,6 +16,11 @@ const categories = [
 function countFor(slug: string) {
   return allPosts.filter(p => p.data.categorySlug === slug).length;
 }
+
+const roomCounts = roomHubs.map((hub) => {
+  const slugSet = new Set(hub.postSlugs);
+  return { ...hub, count: allPosts.filter((p) => slugSet.has(p.slug)).length };
+});
 ---
 <BaseLayout>
 
@@ -76,6 +80,28 @@ function countFor(slug: string) {
               {countFor(cat.slug) > 0
                 ? `${countFor(cat.slug)} article${countFor(cat.slug) > 1 ? 's' : ''}`
                 : 'Coming Soon'}
+            </p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- EXPLORE BY ROOM -->
+  <section class="categories-strip" aria-label="Explore by room">
+    <div class="container">
+      <header class="section-header">
+        <p class="section-tag">Shop by Space</p>
+        <h2 class="section-title">Explore by <em>room</em></h2>
+        <div class="section-divider" aria-hidden="true"></div>
+      </header>
+      <div class="cats-grid cats-grid-5">
+        {roomCounts.map((hub) => (
+          <a class="cat-card" href={`/rooms/${hub.slug}/`} aria-label={`Browse ${hub.title}`}>
+            <div class={`cat-icon ${hub.iconClass}`} aria-hidden="true">{hub.icon}</div>
+            <h2 class="cat-name">{hub.title}</h2>
+            <p class="cat-count">
+              {hub.count > 0 ? `${hub.count} article${hub.count === 1 ? '' : 's'}` : 'Coming Soon'}
             </p>
           </a>
         ))}

@@ -3,14 +3,11 @@ const { post } = Astro.props;
 const p = post.data;
 const url = `/blog/${post.slug}/`;
 ---
-<article
+<a
+  href={url}
   class="post-card post-card-link"
   itemscope
   itemtype="https://schema.org/BlogPosting"
-  role="link"
-  tabindex="0"
-  onclick={`window.location.href='${url}'`}
-  onkeydown={`if(event.key==='Enter'||event.key===' ')window.location.href='${url}'`}
 >
   <div class="post-thumb">
     <img class="post-thumb-img" src={p.heroImage} alt={p.heroAlt || p.title} loading="lazy" />
@@ -31,4 +28,4 @@ const url = `/blog/${post.slug}/`;
       </svg>
     </span>
   </div>
-</article>
+</a>
