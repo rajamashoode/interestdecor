@@ -11,6 +11,9 @@ heroImage: "/images/blog-17-butter-yellow-bedroom/hero.webp"
 heroAlt: "Butter yellow bedroom with soft yellow walls, cream linen bedding, natural wood furniture, and warm morning light in 2026"
 author: "Mashood Elahi"
 keywords: "butter yellow bedroom, butter yellow bedroom ideas, butter yellow paint colors, butter yellow bedroom walls, yellow bedroom aesthetic, yellow bedroom decor, light yellow bedroom, soft yellow bedroom, yellow and cream bedroom, butter yellow bedding, warm yellow bedroom, what colors go with butter yellow"
+relatedPost:
+  slug: "sage-green-bedroom-ideas"
+  hook: "Prefer a cooler palette? Sage green brings the same calming warmth to a bedroom."
 toc:
   - label: "Why Butter Yellow Works"
     href: "#why-butter-yellow"

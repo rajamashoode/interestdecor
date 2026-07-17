@@ -11,6 +11,9 @@ heroImage: "/images/blog-11-deep-plum-kitchen/hero.webp"
 heroAlt: "Deep plum kitchen cabinets with aged brass hardware and white marble counters creating a moody sophisticated 2026 kitchen"
 author: "Mashood Elahi"
 keywords: "deep plum kitchen ideas, plum kitchen ideas 2026, aubergine kitchen ideas, dark plum kitchen, deep plum kitchen cabinets, plum kitchen cabinets with brass, aubergine kitchen cabinets, moody kitchen ideas 2026, plum and cream kitchen, plum and walnut kitchen, small plum kitchen, plum kitchen paint colors, burgundy kitchen ideas, deep purple kitchen"
+relatedPost:
+  slug: "olive-green-kitchen-ideas"
+  hook: "Prefer an earthy tone? Olive green is another moody kitchen color to consider."
 toc:
   - label: "Why Deep Plum Wins 2026"
     href: "#why-plum"

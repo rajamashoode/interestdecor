@@ -11,6 +11,9 @@ heroImage: "/images/blog-16-olive-green-living-room/hero.webp"
 heroAlt: "Olive green living room with olive sofa, warm neutral walls, terracotta accents, and natural wood for an organic luxury look in 2026"
 author: "Mashood Elahi"
 keywords: "olive green living room, olive green living room ideas, olive green sofa, olive green color palette, olive green living room decor, olive green walls living room, olive green and terracotta, green living room ideas 2026, olive green aesthetic, organic luxury living room, olive green couch decorating ideas, what colors go with olive green"
+relatedPost:
+  slug: "7-minimalist-living-room-ideas-that-feel-warm-not-cold"
+  hook: "Love a calmer palette? This minimalist living room guide feels just as warm."
 toc:
   - label: "Why Olive Green Works"
     href: "#why-olive-green"

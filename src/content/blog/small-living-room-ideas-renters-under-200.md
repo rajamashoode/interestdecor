@@ -11,6 +11,9 @@ heroImage: "/images/blog-5-renter-living-room/hero.webp"
 heroAlt: "Beautiful small renter-friendly living room transformation under $200"
 author: "Mashood Elahi"
 keywords: "small living room ideas for renters, renter friendly decorating ideas, apartment living room ideas on a budget, renter friendly living room 2026, no damage wall decor, small apartment decor under $200, landlord friendly decorating, removable wallpaper rental, damage free wall decor, security deposit safe decor"
+relatedPost:
+  slug: "olive-green-living-room-ideas"
+  hook: "Ready to add color? See how olive green transforms a rental-friendly living room."
 toc:
   - { label: "Budget Breakdown", href: "#budget" }
   - { label: "No-Damage Wall Solutions", href: "#walls" }

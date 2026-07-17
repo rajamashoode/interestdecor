@@ -16,6 +16,12 @@ const blog = defineCollection({
     author: z.string().default('Mashood Elahi'),
     keywords: z.string().optional(),
     toc: z.array(z.object({ label: z.string(), href: z.string() })).default([]),
+    relatedPost: z
+      .object({
+        slug: z.string(),
+        hook: z.string(),
+      })
+      .optional(),
   }),
 });
 

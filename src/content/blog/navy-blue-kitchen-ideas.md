@@ -11,6 +11,9 @@ heroImage: "/images/blog-23-navy-blue-kitchen-ideas/hero.webp"
 heroAlt: "Navy blue kitchen with brass hardware, warm wood open shelving, and marble countertops in bright natural light"
 author: "Mashood Elahi"
 keywords: "navy blue kitchen ideas, navy kitchen cabinets, navy blue kitchen decor, navy kitchen ideas 2026, dark blue kitchen cabinets, navy kitchen island, navy kitchen hardware, north facing kitchen paint colors, navy blue kitchen small space, navy kitchen backsplash ideas, bold kitchen color ideas, expensive looking kitchen"
+relatedPost:
+  slug: "small-kitchen-ideas-2026"
+  hook: "More ideas for making any kitchen, large or small, feel more expensive."
 toc:
   - label: "Why Navy Works in a Kitchen"
     href: "#why-navy-works"

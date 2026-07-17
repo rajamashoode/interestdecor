@@ -11,6 +11,9 @@ heroImage: "/images/blog-2-basil/Blog2-Image1-Hero.webp"
 heroAlt: "Fresh homegrown basil in a pot on a sunny windowsill"
 author: "Mashood Elahi"
 keywords: "grow basil at home, indoor basil, basil care, herb garden, kitchen gardening"
+relatedPost:
+  slug: "apartment-herb-garden-windowsill-gardening"
+  hook: "See how basil fits into a full windowsill herb garden setup."
 toc:
   - { label: "Why Grow Basil?", href: "#why-grow" }
   - { label: "Types of Basil", href: "#types" }

@@ -11,6 +11,9 @@ heroImage: "/images/blog-19-decorative-plate-wall/hero.webp"
 heroAlt: "Decorative plate wall in a dining room with mismatched vintage plates arranged in an organic cluster pattern"
 author: "Mashood Elahi"
 keywords: "decorative plate wall, plate wall ideas, how to hang plates on wall, plate wall decor, plate gallery wall, vintage plate wall, kitchen plate wall, dining room plate wall, plate hangers, plate wall arrangement ideas, thrifted plate wall, plate wall layout"
+relatedPost:
+  slug: "diy-home-decor-under-20-budget-craft-ideas"
+  hook: "More budget-friendly craft ideas that look far more expensive than they cost."
 toc:
   - label: "Why Plate Walls Are Back"
     href: "#why-plate-walls"

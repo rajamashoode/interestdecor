@@ -11,6 +11,9 @@ heroImage: "/images/blog-22-small-bathroom-ideas/hero.webp"
 heroAlt: "Small bright bathroom with sage green walls, a round mirror, floating vanity, and warm layered lighting making the space feel open"
 author: "Mashood Elahi"
 keywords: "small bathroom ideas, small bathroom decor, small bathroom makeover, small bathroom storage ideas, small bathroom paint colors, small bathroom mirror ideas, small bathroom lighting, small bathroom tile ideas, tiny bathroom ideas, small bathroom layout, small bathroom vanity ideas, how to make a small bathroom look bigger"
+relatedPost:
+  slug: "sage-green-bathroom-ideas"
+  hook: "See how sage green brings warmth and calm to a small bathroom."
 toc:
   - label: "Why Small Bathrooms Feel Small"
     href: "#why-small-feels-small"

@@ -11,6 +11,9 @@ heroImage: "/images/blog-7-small-kitchen/hero.webp"
 heroAlt: "Beautiful small kitchen ideas 2026 showing a stylish compact kitchen with smart storage and warm neutral design"
 author: "Mashood Elahi"
 keywords: "small kitchen ideas 2026, small kitchen ideas apartment, small kitchen storage ideas, tiny kitchen ideas, small kitchen on a budget, apartment kitchen ideas, small kitchen design, small kitchen layout ideas, small kitchen decor, small kitchen remodel ideas, small kitchen cabinet ideas, kitchen ideas small space"
+relatedPost:
+  slug: "deep-plum-kitchen-ideas"
+  hook: "Ready for a bolder look? See how deep plum makes a kitchen feel rich."
 toc:
   - { label: "Why Small Kitchens Win", href: "#why-small" }
   - { label: "1. Go Vertical With Storage", href: "#vertical" }

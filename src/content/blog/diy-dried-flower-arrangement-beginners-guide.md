@@ -11,6 +11,9 @@ heroImage: "/images/blog-3-dried-flowers/hero.webp"
 heroAlt: "Beautiful DIY dried flower arrangement in a neutral vase on a shelf"
 author: "Mashood Elahi"
 keywords: "dried flower arrangement, DIY dried flowers, how to make dried flowers, dried flower decor"
+relatedPost:
+  slug: "eucalyptus-home-decor-ideas"
+  hook: "Eucalyptus is one of the easiest greens to dry and display using this method."
 toc:
   - { label: "Why Dried Flowers?", href: "#why-dried" }
   - { label: "Best Flowers to Dry", href: "#best-flowers" }

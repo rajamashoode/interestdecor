@@ -12,6 +12,9 @@ heroImage: "/images/blog-9-white-terracotta-bedroom/hero.webp"
 heroAlt: "Warm white and terracotta bedroom with cream bedding, clay accents, oak furniture, and soft natural light"
 author: "Mashood Elahi"
 keywords: "white and terracotta bedroom ideas, terracotta bedroom ideas, cream and terracotta bedroom, warm earthy bedroom ideas, terracotta bedroom decor, white terracotta bedroom 2026, warm bedroom colour ideas, terracotta bedroom colour palette"
+relatedPost:
+  slug: "butter-yellow-bedroom-ideas"
+  hook: "Craving more warmth? Butter yellow is another cozy bedroom color to try."
 toc:
 
 - { label: "Why White and Terracotta Works", href: "#why-it-works" }

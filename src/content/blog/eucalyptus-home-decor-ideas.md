@@ -11,6 +11,9 @@ heroImage: "/images/blog-20-eucalyptus-home-decor/hero.webp"
 heroAlt: "Eucalyptus garland draped across a mantel with candles and ceramics in a warm neutral living room"
 author: "Mashood Elahi"
 keywords: "eucalyptus home decor, eucalyptus decor ideas, eucalyptus garland, eucalyptus wreath, how to decorate with eucalyptus, eucalyptus in shower, eucalyptus arrangement, dried eucalyptus decor, eucalyptus mantel decor, preserved eucalyptus, eucalyptus centerpiece"
+relatedPost:
+  slug: "diy-dried-flower-arrangement-beginners-guide"
+  hook: "Learn the basics of drying and arranging flowers to pair with your eucalyptus."
 toc:
   - label: "Why Eucalyptus Works in Every Room"
     href: "#why-eucalyptus"
@@ -403,5 +406,5 @@ Eucalyptus offers a rare combination in home decor: genuine sensory pleasure, ef
 
 Start small, a single bunch in a vase, or a simple shower bundle, and let your confidence with this forgiving material grow from there. Whether you keep it perpetually fresh, let it transition naturally into a dried display, or invest in a preserved arrangement built to last for years, eucalyptus rewards even minimal effort with a genuinely elevated result.
 
-For more botanical styling inspiration see our guides on <a href="/blog/diy-dried-flower-arrangement-beginners-guide/">DIY Dried Flower Arrangements</a> and <a href="/blog/olive-green-living-room-ideas/">Olive Green Living Room Ideas</a>, both of which pair beautifully alongside a fresh or dried eucalyptus display.
+For more botanical styling inspiration see our guides on [DIY Dried Flower Arrangements](/blog/diy-dried-flower-arrangement-beginners-guide/) and [Olive Green Living Room Ideas](/blog/olive-green-living-room-ideas/), both of which pair beautifully alongside a fresh or dried eucalyptus display.
 </section>

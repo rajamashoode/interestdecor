@@ -1,0 +1,230 @@
+---
+interface Props {
+  title: string;
+  url: string;
+  hook: string;
+  image: string;
+  imageAlt: string;
+}
+
+const { title, url, hook, image, imageAlt } = Astro.props;
+---
+
+<aside class="related-post-card" id="relatedPostCard" aria-live="polite">
+  <button type="button" class="related-post-close" id="relatedPostClose" aria-label="Close related post suggestion">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <line x1="5" y1="5" x2="19" y2="19"></line>
+      <line x1="19" y1="5" x2="5" y2="19"></line>
+    </svg>
+  </button>
+  <a class="related-post-link" href={url}>
+    <span class="related-post-thumb">
+      <img src={image} alt={imageAlt} loading="lazy" width="88" height="88" />
+    </span>
+    <span class="related-post-body">
+      <span class="related-post-label">You might also like</span>
+      <span class="related-post-title">{title}</span>
+      <span class="related-post-hook">{hook}</span>
+    </span>
+  </a>
+</aside>
+
+<style>
+  .related-post-card {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 60;
+    width: min(340px, calc(100vw - 40px));
+    max-height: 15vh;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 16px;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(14px);
+    transition: opacity .35s ease, transform .35s ease, visibility 0s linear .35s;
+    pointer-events: none;
+  }
+
+  .related-post-card.is-visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    transition: opacity .35s ease, transform .35s ease;
+    pointer-events: auto;
+  }
+
+  .related-post-close {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    cursor: pointer;
+    transition: color var(--transition);
+  }
+
+  .related-post-close:hover {
+    color: var(--rose);
+  }
+
+  .related-post-link {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+    min-width: 0;
+  }
+
+  .related-post-thumb {
+    flex-shrink: 0;
+    width: 56px;
+    height: 56px;
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .related-post-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .related-post-body {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    min-width: 0;
+  }
+
+  .related-post-label {
+    font-size: .62rem;
+    font-weight: 600;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--rose);
+  }
+
+  .related-post-title {
+    font-family: var(--ff-display);
+    font-size: .95rem;
+    font-weight: 500;
+    color: var(--dark);
+    line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .related-post-hook {
+    font-size: .74rem;
+    color: var(--muted);
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  @media (max-width: 640px) {
+    .related-post-card {
+      left: 0;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+      max-height: 18vh;
+      border-radius: 2px 2px 0 0;
+      border-left: none;
+      border-right: none;
+      border-bottom: none;
+      padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+      transform: translateY(100%);
+    }
+
+    .related-post-card.is-visible {
+      transform: translateY(0);
+    }
+
+    .related-post-thumb {
+      width: 48px;
+      height: 48px;
+    }
+
+    .related-post-title {
+      font-size: .88rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .related-post-card {
+      transition: opacity .01ms linear, visibility 0s linear;
+    }
+
+    .related-post-card.is-visible {
+      transition: opacity .01ms linear;
+    }
+  }
+</style>
+
+<script>
+  const card = document.getElementById('relatedPostCard');
+  const closeBtn = document.getElementById('relatedPostClose');
+  const sentinel = document.getElementById('related-post-sentinel');
+
+  if (card && closeBtn && sentinel && 'IntersectionObserver' in window) {
+    let autoHideTimer: ReturnType<typeof setTimeout> | undefined;
+    let dismissed = false;
+
+    const onKeydown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') hide();
+    };
+
+    function show() {
+      if (dismissed) return;
+      card!.classList.add('is-visible');
+      document.addEventListener('keydown', onKeydown);
+      autoHideTimer = setTimeout(hide, 9000);
+    }
+
+    function hide() {
+      if (dismissed) return;
+      dismissed = true;
+      card!.classList.remove('is-visible');
+      if (autoHideTimer) clearTimeout(autoHideTimer);
+      document.removeEventListener('keydown', onKeydown);
+    }
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          show();
+          observer.disconnect();
+        }
+      });
+    }, { threshold: 0 });
+
+    observer.observe(sentinel);
+    closeBtn.addEventListener('click', hide);
+
+    window.addEventListener('pagehide', () => {
+      observer.disconnect();
+      if (autoHideTimer) clearTimeout(autoHideTimer);
+      document.removeEventListener('keydown', onKeydown);
+    }, { once: true });
+  }
+</script>

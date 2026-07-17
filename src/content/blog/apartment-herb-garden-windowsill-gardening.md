@@ -11,6 +11,9 @@ heroImage: "/images/blog-6-apartment-herbs/hero.webp"
 heroAlt: "Beautiful apartment herb garden on a kitchen windowsill with multiple herbs in terracotta pots"
 author: "Mashood Elahi"
 keywords: "apartment herb garden, windowsill herb garden, indoor herb garden, small space herb garden, grow herbs indoors, kitchen herb garden, herb garden for beginners, herb garden ideas apartment, container herb garden, urban gardening indoors, kitchen windowsill garden, indoor herbs kitchen"
+relatedPost:
+  slug: "how-to-grow-basil-at-home-beginners-guide"
+  hook: "Basil is one of the easiest herbs to start with on a windowsill garden."
 toc:
   - { label: "Why Windowsill Gardens Work", href: "#why-windowsill" }
   - { label: "Light Requirements", href: "#light" }

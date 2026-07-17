@@ -11,6 +11,9 @@ heroImage: "/images/blog-8-bright-living-room/hero.webp"
 heroAlt: "Bright small living room that feels bigger with smart design tricks and light neutral colours"
 author: "Mashood Elahi"
 keywords: "bright small living room ideas 2026, small living room ideas to make it feel bigger, tiny living room ideas 2026, space saving living room ideas"
+relatedPost:
+  slug: "small-living-room-ideas-renters-under-200"
+  hook: "More budget-friendly tricks for making a small living room feel bigger."
 toc:
   - { label: "Psychology of Small Spaces", href: "#psychology" }
   - { label: "1. Light Colours", href: "#light-colours" }

@@ -11,6 +11,9 @@ heroImage: "/images/blog-1-minimalist-living-room/hero-1600.webp"
 heroAlt: "Minimalist living room with warm neutral decor and natural light"
 author: "Mashood Elahi"
 keywords: "minimalist living room, warm minimalism, small living room ideas, neutral decor"
+relatedPost:
+  slug: "best-houseplants-for-living-room"
+  hook: "Warm up your minimalist living room with a few easy-care plants."
 toc:
   - { label: "Light & Colour Palette", href: "#light-palette" }
   - { label: "Multifunctional Furniture", href: "#furniture" }

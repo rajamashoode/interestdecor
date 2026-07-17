@@ -4,13 +4,16 @@ description: "Discover 12 beautiful sage green bedroom ideas for 2026. The best 
 excerpt: "Sage green is the bedroom color of 2026. Calm, grounded, and timelessly beautiful. Here are 12 ways to design a sage green bedroom that feels like a sanctuary."
 category: "Home Decor"
 categorySlug: "home-decor"
-date: 2026-07-15
-displayDate: "Jul 15, 2026"
+date: 2026-07-16
+displayDate: "Jul 16, 2026"
 readTime: "11 min read"
 heroImage: "/images/blog-10-sage-green-bedroom/hero.webp"
 heroAlt: "Beautiful sage green bedroom with cream bedding and warm wood furniture creating a calming sanctuary"
 author: "Mashood Elahi"
 keywords: "sage green bedroom ideas, sage green bedroom decor, sage green bedroom 2026, sage green bedroom walls, sage green bedroom paint color, sage green and cream bedroom, sage green bedroom aesthetic"
+relatedPost:
+  slug: "white-terracotta-bedroom-ideas"
+  hook: "See how terracotta pairs with sage for an equally calming bedroom look."
 toc:
   - label: "Why Sage Green Wins 2026"
     href: "#why-sage"
@@ -329,7 +332,7 @@ Sage green sits in the cool side of warm earthy tones. Terracotta sits firmly in
 - Aged brass hardware
 - Jute or wool rug
 
-If you're interested in a fully terracotta-focused bedroom, our complete <a href="/blog/white-terracotta-bedroom-ideas/">White and Terracotta Bedroom Guide</a> covers the pairing in detail.
+If you're interested in a fully terracotta-focused bedroom, our complete [White and Terracotta Bedroom Guide](/blog/white-terracotta-bedroom-ideas/) covers the pairing in detail.
 </section>
 
 <section class="article-section" id="sage-cream">

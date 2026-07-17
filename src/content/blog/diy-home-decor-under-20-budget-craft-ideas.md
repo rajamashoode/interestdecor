@@ -11,6 +11,9 @@ heroImage: "/images/blog-4-diy-decor/hero.webp"
 heroAlt: "Beautiful DIY home decor projects displayed on a shelf under $20"
 author: "Mashood Elahi"
 keywords: "DIY home decor cheap, budget DIY projects, easy DIY crafts, affordable home decor under $20"
+relatedPost:
+  slug: "air-dry-clay-home-decor"
+  hook: "Add air dry clay projects to your list of low-cost handmade decor ideas."
 toc:
   - { label: "Why DIY Decor?", href: "#why-diy" }
   - { label: "Budget Materials", href: "#materials" }

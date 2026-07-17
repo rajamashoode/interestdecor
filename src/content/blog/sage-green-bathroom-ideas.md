@@ -11,6 +11,9 @@ heroImage: "/images/blog-21-sage-green-bathroom/hero.webp"
 heroAlt: "Sage green bathroom with zellige tile shower, terracotta floor, and brushed brass fixtures in warm natural light"
 author: "Mashood Elahi"
 keywords: "sage green bathroom, sage green bathroom ideas, sage green bathroom tile, sage green and terracotta bathroom, small sage green bathroom, sage green bathroom vanity, sage green bathroom paint colors, green bathroom ideas 2026, sage green bathroom with brass"
+relatedPost:
+  slug: "small-bathroom-ideas"
+  hook: "More layout and lighting tricks for making any small bathroom feel bigger."
 toc:
   - label: "Why Sage Ended Up in the Bathroom"
     href: "#why-sage-bathroom"

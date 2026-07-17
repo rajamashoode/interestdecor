@@ -1,7 +1,25 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
+import RelatedPostCard from '../components/RelatedPostCard.astro';
 const { post } = Astro.props;
 const p = post.data;
+
+let relatedPost = null;
+if (p.relatedPost?.slug && p.relatedPost.slug !== post.slug) {
+  const allPosts = await getCollection('blog');
+  const match = allPosts.find((entry) => entry.slug === p.relatedPost.slug);
+  if (match) {
+    relatedPost = {
+      title: match.data.title,
+      url: `/blog/${match.slug}/`,
+      image: match.data.heroImage,
+      imageAlt: match.data.heroAlt || match.data.title,
+      hook: p.relatedPost.hook,
+    };
+  }
+}
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
@@ -74,8 +92,19 @@ const jsonLd = {
     </nav>
     <article class="article-content">
       <slot />
+      <div id="related-post-sentinel"></div>
     </article>
   </div>
+
+  {relatedPost && (
+    <RelatedPostCard
+      title={relatedPost.title}
+      url={relatedPost.url}
+      hook={relatedPost.hook}
+      image={relatedPost.image}
+      imageAlt={relatedPost.imageAlt}
+    />
+  )}
 <script>
   const pageUrl = window.location.href;
   document.querySelectorAll('.article-content figure.blog-figure').forEach((figure) => {

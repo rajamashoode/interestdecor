@@ -11,6 +11,9 @@ heroImage: "/images/blog-18-air-dry-clay-decor/hero.webp"
 heroAlt: "Collection of handmade air dry clay home decor pieces including a ring dish, candle holders, and a trinket tray in warm neutral tones"
 author: "Mashood Elahi"
 keywords: "air dry clay, air dry clay ideas, air dry clay home decor, air dry clay projects, diy clay ring dish, air dry clay candle holder, clay trinket dish, air dry clay vase, diy home decor crafts, easy clay crafts for beginners, air dry clay wall art, how to use air dry clay"
+relatedPost:
+  slug: "decorative-plate-wall-ideas"
+  hook: "Another easy handmade project for filling wall space with personality."
 toc:
   - label: "Why Air Dry Clay Is Perfect for Beginners"
     href: "#why-air-dry-clay"

@@ -11,6 +11,9 @@ heroImage: "/images/blog-13-houseplants-living-room/hero.webp"
 heroAlt: "Beautiful living room with fiddle leaf fig and trailing pothos plants creating warm green indoor jungle vibe"
 author: "Mashood Elahi"
 keywords: "best houseplants for living room, indoor plants for living room, living room plants ideas, low light houseplants, easy houseplants for beginners, pet safe houseplants, trailing plants living room, tall floor plants indoor, snake plant care, fiddle leaf fig living room, monstera living room, pothos care living room"
+relatedPost:
+  slug: "bright-small-living-room-feel-bigger"
+  hook: "See how the right layout makes a plant-filled living room feel even bigger."
 toc:
   - label: "Why Living Rooms Need Plants"
     href: "#why-plants"
