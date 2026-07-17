@@ -206,7 +206,7 @@ A vanity that touches the floor blocks your view of it entirely, and that missin
 
 **Pair a floating vanity with open shelving for lost storage.** If you move to a floating or pedestal style and lose cabinet storage, a slim open shelf nearby recovers some of that function without adding back the visual bulk.
 
-This swap pairs especially well with the storage ideas later in this guide, since floating vanities almost always require rethinking where everyday items live.
+This swap pairs especially well with the storage ideas later in this guide, since floating vanities almost always require rethinking where everyday items live. These same space-opening principles apply just as well in the kitchen. See our guide to [small kitchen ideas](/blog/small-kitchen-ideas-2026/).
 </section>
 
 <section class="article-section" id="lighting">
@@ -250,7 +250,7 @@ Lighting delivers one of the best returns on this entire list relative to what i
 
 A small bathroom can absolutely have color, just not many of them competing at once in a room this size.
 
-**Pick one main tone and build around it.** Whether that is sage, warm white, or soft terracotta, let towels, a bath mat, and any small decor stay within a few shades of that single color family.
+**Pick one main tone and build around it.** Whether that is sage, warm white, or soft terracotta, let towels, a bath mat, and any small decor stay within a few shades of that single color family. If you love this warm neutral approach, see how it plays out in a bedroom in our [white and terracotta bedroom ideas](/blog/white-terracotta-bedroom-ideas/).
 
 **Limit yourself to two or three colors total.** Three or four unrelated colors in a 30 square foot room reads as visual noise even when every individual object is clean and well kept.
 

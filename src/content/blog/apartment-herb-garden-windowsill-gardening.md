@@ -174,7 +174,7 @@ The right container makes a significant difference in how well your herbs grow �
 
 ### Best Container Materials
 
-**Terracotta (top recommendation):** Breathable clay allows air and moisture exchange through the pot walls. Prevents overwatering by allowing soil to dry evenly. Looks beautiful on a windowsill. Gets heavier when wet — good stability indicator.
+**Terracotta (top recommendation):** Breathable clay allows air and moisture exchange through the pot walls. Prevents overwatering by allowing soil to dry evenly. Looks beautiful on a windowsill. Gets heavier when wet — good stability indicator. If you want to personalize your pots even further, see our guide to [painted terracotta pot projects](/blog/diy-home-decor-under-20-budget-craft-ideas/) for an easy weekend craft.
 
 **Ceramic:** Glazed ceramic retains moisture longer than terracotta. Good for moisture-loving herbs like basil and mint. Beautiful options available at every price point.
 
@@ -389,9 +389,13 @@ A well-styled windowsill herb garden is genuinely beautiful — not just functio
 
 **Seasonal accessories:** A small dried lavender bundle tied with twine beside the pots, or a small linen tag tied to a pot with the herb name — these small details elevate a functional herb garden into a genuine home decor feature.
 
+For more ways to make a compact kitchen feel bigger and more beautiful, see our guide to [small kitchen ideas](/blog/small-kitchen-ideas-2026/).
+
 ---
 
 An apartment herb garden on your windowsill is one of those rare home projects that genuinely improves your daily life in a tangible way. Better food, less waste, a living green element in your kitchen, and the quiet satisfaction of growing something yourself.
 
 Start with three herbs — basil, chives, and mint — positioned on your best window. See how they do for four weeks. Then add more. Before long you'll have a complete kitchen herb collection that costs almost nothing to maintain and gives back every single time you cook.
+
+For more small-space styling ideas beyond the kitchen, see our guide to [room decoration ideas for small spaces](/blog/room-decoration-ideas-small-spaces/).
 </section>

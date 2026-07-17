@@ -110,6 +110,8 @@ The most landlord-friendly wall solution of all: lean things against the wall in
 - A decorative blanket ladder in the corner
 
 No holes. No damage. No questions from your landlord.
+
+For more renter-friendly styling tricks beyond the living room, see our guide to [room decoration ideas for small spaces](/blog/room-decoration-ideas-small-spaces/).
 </section>
 
 <section class="article-section" id="furniture">
@@ -234,7 +236,7 @@ For a small rental living room, warm neutrals work best — they make spaces fee
 - **Main colour:** Dusty rose, sage green, or warm terracotta
 - **Accent:** A deeper shade of your main colour, or warm gold
 
-Stick to three colours maximum. More than three starts looking chaotic in a small space.
+Stick to three colours maximum. More than three starts looking chaotic in a small space. Once your palette is set, see our guide to [bright small living room ideas](/blog/bright-small-living-room-feel-bigger/) for more ways to make the space feel bigger.
 
 ### Textiles That Instantly Transform a Room
 
@@ -299,7 +301,7 @@ With a $200 budget, knowing what to make yourself and what to buy saves signific
 ### DIY Instead (Easy & Saves Money):
 - **Wall art** — print free art from Pinterest, frame from dollar store ($3 vs $40)
 - **Cushion covers** — basic sewing or no-sew hem tape; fabric from charity shops
-- **Rope baskets** — as covered in our DIY decor guide (under $10 vs $30 retail)
+- **Rope baskets** — as covered in our [DIY home decor guide](/blog/diy-home-decor-under-20-budget-craft-ideas/) (under $10 vs $30 retail)
 - **Plant pots** — paint cheap terracotta pots to match your palette
 - **Candle holders** — mason jars wrapped in twine (free from recycling)
 
@@ -352,4 +354,6 @@ Use this checklist to track your small living room makeover from start to finish
 The most important thing to understand about renter-friendly decorating is this: the limitations are smaller than you think. Peel-and-stick wallpaper, Command strips, plug-in lights, leaning mirrors, and freestanding storage solve almost every problem renters face — and all of it comes with you when you move.
 
 Your home is where you live right now. Not when you eventually buy. Not when you get a bigger place. Right now. And it deserves to feel like yours.
+
+Ready to add more color once the basics are in place? See our [olive green living room ideas](/blog/olive-green-living-room-ideas/) for a warm, grounded next step.
 </section>

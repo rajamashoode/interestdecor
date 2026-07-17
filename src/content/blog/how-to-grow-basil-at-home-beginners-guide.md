@@ -52,7 +52,7 @@ Before we dive into the how-to, let's talk about why growing basil at home is ac
 
 **It's therapeutic** — There's something peaceful about pinching off basil leaves for dinner, knowing you grew them yourself.
 
-**Space-efficient** — A single basil plant thrives in a 6-inch pot on a windowsill. Perfect for apartments and small spaces.
+**Space-efficient** — A single basil plant thrives in a 6-inch pot on a windowsill. Perfect for apartments and small spaces. Basil is just one part of a full windowsill setup. See our complete guide to building an [apartment herb garden](/blog/apartment-herb-garden-windowsill-gardening/) for pairing it with other herbs.
 </section>
 
 <section class="article-section" id="types">
@@ -87,7 +87,7 @@ Not all basil is the same. Let's talk about the different varieties so you can p
 
 **Container size:** At least 6 inches wide and 6 inches deep. Drainage holes are non-negotiable — without them, your basil will rot.
 
-**Material:** Terracotta is ideal (breathable, dries evenly). Plastic and ceramic both work fine.
+**Material:** Terracotta is ideal (breathable, dries evenly). Plastic and ceramic both work fine. If you'd like to personalize your containers, see our guide to [painted terracotta pot projects](/blog/diy-home-decor-under-20-budget-craft-ideas/) for an easy weekend craft.
 
 **Soil:** Use potting mix, not garden soil. Garden soil is too dense for containers. Look for a quality potting mix or make your own: 50% potting soil + 30% peat moss + 20% perlite.
 
@@ -238,6 +238,8 @@ Once you've mastered basil, you might want to expand your herb garden. Here's wh
 **Great companions:** Parsley, oregano, thyme (all prefer similar conditions).
 
 **Keep separate:** Mint (spreads aggressively — give it its own pot), rosemary and sage (prefer drier soil).
+
+If you're setting up a full herb station in a compact kitchen, see our guide to [small kitchen ideas](/blog/small-kitchen-ideas-2026/) for more space-savvy styling tips.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">

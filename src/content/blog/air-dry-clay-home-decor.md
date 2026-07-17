@@ -270,7 +270,7 @@ Wall hangings take air dry clay beyond the tabletop, creating sculptural pieces 
 
 **Grouping for impact.** A cluster of three or five wall hanging pieces in varying sizes and organic shapes creates a striking, gallery-style arrangement above a sofa, bed, or console table.
 
-This project takes air dry clay from simple functional objects into genuine wall art, proving how versatile this humble material really is.
+This project takes air dry clay from simple functional objects into genuine wall art, proving how versatile this humble material really is. If you love displaying handmade pieces, see our guide to [decorative plate wall ideas](/blog/decorative-plate-wall-ideas/) for another beautiful gallery display technique.
 </section>
 
 <section class="article-section" id="drying-tips">
@@ -357,7 +357,7 @@ Once you have a small collection of handmade pieces, how you style them determin
 
 **Rotate and refresh.** Since these pieces are inexpensive and quick to make, feel free to rotate your collection seasonally, swapping in new colors or shapes as your decor evolves.
 
-The goal is for these handmade pieces to feel like they were always meant to be there, adding warmth and personality precisely because they carry the visible mark of having been made by hand.
+The goal is for these handmade pieces to feel like they were always meant to be there, adding warmth and personality precisely because they carry the visible mark of having been made by hand. For more ideas on styling handmade and natural decor together, see our guide to [room decoration ideas for small spaces](/blog/room-decoration-ideas-small-spaces/).
 </section>
 
 <section class="article-section" id="mistakes">

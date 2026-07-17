@@ -95,7 +95,7 @@ A bright blue-white can make terracotta look harsh and almost too orange. A warm
 
 Avoid brilliant white if the rest of the room is warm. It can create too much contrast against terracotta, wood, jute, and brass. A softer white allows everything to blend together naturally.
 
-If you are renting and cannot paint, use the warm white base through bedding, curtains, rugs, lampshades, and large fabric pieces. A warm white duvet, cream curtains, and an oat rug can shift the room even if the wall colour stays exactly the same.
+If you are renting and cannot paint, use the warm white base through bedding, curtains, rugs, lampshades, and large fabric pieces. A warm white duvet, cream curtains, and an oat rug can shift the room even if the wall colour stays exactly the same. If you'd rather lean into a warmer, sunnier palette altogether, see our [butter yellow bedroom ideas](/blog/butter-yellow-bedroom-ideas/).
 
 The easiest formula is simple: keep the largest surfaces light, then let terracotta appear in smaller, richer moments. That way the bedroom still feels open, but it has warmth and personality.
 
@@ -131,7 +131,7 @@ The most beautiful terracotta bedroom shades are the ones that feel aged, muted,
 
 The shade you choose will decide the entire mood of the bedroom. A pale clay tone feels calm and airy. A rust tone feels cosy and autumnal. A brick tone feels romantic and vintage. A cinnamon tone feels rich and grounded.
 
-The key is to choose a terracotta that looks like natural clay, not a bright pumpkin orange. If the colour feels like pottery, earth, or dried flowers, it will usually work beautifully in a bedroom.
+The key is to choose a terracotta that looks like natural clay, not a bright pumpkin orange. If the colour feels like pottery, earth, or dried flowers, it will usually work beautifully in a bedroom. For the cooler, greener take on this same warmth, see our [sage green bedroom ideas](/blog/sage-green-bedroom-ideas/).
 
 </section>
 
@@ -319,7 +319,7 @@ Use green as an accent, not the main colour. In a white and terracotta bedroom, 
 
 The best ratio is simple: mostly white and cream, a clear amount of terracotta, and just a small touch of green. A plant, one cushion, or a vase with eucalyptus is usually enough.
 
-Avoid bright emerald, neon green, or very blue-green tones if you want the room to stay warm. Soft sage and olive work better because they still feel earthy. They sit naturally beside terracotta, jute, oak, and cream without stealing attention.
+Avoid bright emerald, neon green, or very blue-green tones if you want the room to stay warm. Soft sage and olive work better because they still feel earthy. They sit naturally beside terracotta, jute, oak, and cream without stealing attention. For ideas on creating your own dried arrangements like these, see our [DIY dried flower arrangement guide](/blog/diy-dried-flower-arrangement-beginners-guide/).
 
 </section>
 
@@ -467,5 +467,7 @@ If your bedroom feels cold or unfinished right now, this combination is one of t
 Start small if you are not sure. A terracotta cushion, cream linen bedding, and a warmer bulb in the bedside lamp will shift the whole room. Once that feels right, add texture and wood at your own pace.
 
 A bedroom that has been decorated is not the same as one that feels settled. White and terracotta gets you there by doing something simple, giving you brightness and warmth in the same room, without asking you to choose.
+
+For more small bedroom styling tricks that pair well with this palette, see our guide to [room decoration ideas for small spaces](/blog/room-decoration-ideas-small-spaces/).
 
 </section>

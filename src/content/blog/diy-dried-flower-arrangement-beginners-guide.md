@@ -52,6 +52,8 @@ Before we get into the how, let's talk about why dried flower arrangements deser
 **Endlessly customisable.** Mix textures, colours, and shapes however you like. No two arrangements are ever the same.
 
 **Deeply on trend.** The cottagecore, boho, and Scandinavian decor movements have all embraced dried florals. They're timeless but feel very current.
+
+If you love this look, our guide to [eucalyptus home decor ideas](/blog/eucalyptus-home-decor-ideas/) shows another beautifully low-maintenance botanical to dry and display.
 </section>
 
 <section class="article-section" id="best-flowers">
@@ -181,7 +183,7 @@ Once your flowers are dried, the arranging begins. A few simple principles make 
   <figcaption>Three layers: tall statement stems at the back, mid-height filler, and low accent flowers at the front.</figcaption>
 </figure>
 
-**Colour palette:** Stick to 3–4 colours maximum. For a classic, neutral look try: cream, dusty pink, sage green, and wheat tones. For bolder arrangements: terracotta, burgundy, mustard, and dark green.
+**Colour palette:** Stick to 3–4 colours maximum. For a classic, neutral look try: cream, dusty pink, sage green, and wheat tones. For bolder arrangements: terracotta, burgundy, mustard, and dark green. For a bedroom that pairs beautifully with this warm palette, see our [white and terracotta bedroom ideas](/blog/white-terracotta-bedroom-ideas/).
 
 **Three layers of height:**
 - **Back/tall:** Pampas grass, wheat, tall dried grasses
@@ -256,7 +258,7 @@ The container is part of the design. Here's what works beautifully with dried fl
   <figcaption>Terracotta, glass, rattan, and ceramic all work beautifully with dried florals.</figcaption>
 </figure>
 
-**Terracotta pots** — Earthy and warm. Perfect for boho and cottagecore styles. The texture complements dried flowers naturally.
+**Terracotta pots** — Earthy and warm. Perfect for boho and cottagecore styles. The texture complements dried flowers naturally. If you enjoy handmade containers, our guide to [air dry clay home decor](/blog/air-dry-clay-home-decor/) shows how to make your own small vases for arrangements like these.
 
 **Glass vases** — Simple and clean. A wide-mouthed glass vase lets stems spread naturally for an effortless look.
 
@@ -302,4 +304,6 @@ Dried flowers are low maintenance, but a few simple habits will keep them lookin
 Dried flower arranging is one of those crafts that looks impressive but is genuinely accessible for complete beginners. The materials are affordable, the process is meditative, and the results are lasting.
 
 Start with something simple — a handful of lavender tied with twine and placed in a terracotta pot. Then experiment. Layer in roses. Add some pampas grass. See what you love. The best arrangement is the one that feels like you.
+
+Looking for more handmade, budget-friendly decor projects? See our guides to [DIY home decor under $20](/blog/diy-home-decor-under-20-budget-craft-ideas/) and [decorative plate wall ideas](/blog/decorative-plate-wall-ideas/).
 </section>

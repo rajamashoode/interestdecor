@@ -83,7 +83,7 @@ Using light neutral colors like white, beige, and soft grey instantly makes a sm
 
 **Pale greige (grey-beige):** A sophisticated neutral that works in both warm and cool light conditions. Particularly effective in north-facing rooms that don't get direct sunlight.
 
-**Soft sage green:** One of the biggest trends of 2026. Lighter sage tones (not dark forest green) feel fresh and airy while adding colour interest.
+**Soft sage green:** One of the biggest trends of 2026. Lighter sage tones (not dark forest green) feel fresh and airy while adding colour interest. This same soft sage tone works just as well in other rooms. See our [sage green bedroom ideas](/blog/sage-green-bedroom-ideas/) for the bedroom version of this palette.
 
 **The monochromatic approach:** Using the same colour family (slightly varied tones) on walls, ceiling, and large furniture pieces reduces visual contrast and makes the room feel seamlessly larger. When nothing feels separate, everything speaks the same language. In small homes, that continuity is key — it makes the entire space feel like one thoughtful, well-designed moment.
 
@@ -263,7 +263,7 @@ In a small living room floor space is limited but vertical space is often comple
 
 **Vertical artwork:** Portrait-format artwork rather than landscape draws the eye upward. A tall narrow artwork or a vertical gallery wall emphasises ceiling height.
 
-**Tall plants:** A fiddle leaf fig, snake plant, or tall monstera in a corner draws the eye upward and adds organic height to the room. Plants at different heights — tall in one corner, medium on a shelf, trailing on another shelf — create a sense of layered vertical dimension.
+**Tall plants:** A fiddle leaf fig, snake plant, or tall monstera in a corner draws the eye upward and adds organic height to the room. Plants at different heights — tall in one corner, medium on a shelf, trailing on another shelf — create a sense of layered vertical dimension. For specific plant recommendations, see our guide to the [best houseplants for your living room](/blog/best-houseplants-for-living-room/).
 
 **Floating shelves above eye level:** Shelves mounted higher than standard (above 170cm) encourage the eye to travel upward. Even empty floating shelves with a few carefully chosen objects add height to a room.
 
@@ -358,6 +358,8 @@ The final idea ties everything together. Clutter is the enemy of a bright, spaci
 
 **Woven storage baskets:** Baskets on shelves or under console tables provide hidden storage that looks decorative rather than functional. The organic texture also adds warmth and softness to a room.
 
+If you're renting rather than owning, pair these ideas with our [small living room ideas for renters](/blog/small-living-room-ideas-renters-under-200/) for more no-damage solutions.
+
 ---
 
 A bright, spacious-feeling small living room in 2026 is less about square footage and more about intention. When a room is balanced, it just feels expensive in the calmest way possible.
@@ -365,4 +367,6 @@ A bright, spacious-feeling small living room in 2026 is less about square footag
 Start with the idea that addresses your biggest frustration — if it's darkness, change the colour and add mirrors. If it's clutter, edit ruthlessly before buying anything new. If it's feeling cramped, float the furniture away from the walls.
 
 One well-executed change often makes three others unnecessary. And sometimes the most powerful transformation costs absolutely nothing at all.
+
+For more ways to make a compact room work harder, see our guide to [room decoration ideas for small spaces](/blog/room-decoration-ideas-small-spaces/).
 </section>

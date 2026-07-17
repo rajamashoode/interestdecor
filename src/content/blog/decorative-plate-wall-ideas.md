@@ -266,13 +266,13 @@ Following this sequence, rather than hanging plates in a rush, is what ensures t
 
 While plate walls are traditionally associated with dining rooms, this decorating style translates beautifully across nearly every room in a home.
 
-**Kitchen.** A plate wall above a stretch of counter or beside open shelving reinforces a collected, lived-in kitchen aesthetic, particularly effective in farmhouse and cottage-style spaces. Smaller clusters near a breakfast nook also work beautifully.
+**Kitchen.** A plate wall above a stretch of counter or beside open shelving reinforces a collected, lived-in kitchen aesthetic, particularly effective in farmhouse and cottage-style spaces. Smaller clusters near a breakfast nook also work beautifully. For more small kitchen styling ideas, see our guide to [small kitchen ideas](/blog/small-kitchen-ideas-2026/).
 
 **Dining room.** The classic setting for plate walls, dining rooms suit larger, fuller clusters that can serve as the room's primary art statement, often centered above a sideboard or buffet.
 
 **Hallway.** A narrow, elongated cluster running along a hallway wall transforms an often-overlooked transitional space into a genuine gallery moment, ideal for smaller plates given typically tighter hallway widths.
 
-**Bedroom.** An unexpected but increasingly popular placement, a soft, small cluster of delicate plates above a bed or dresser adds warmth and personality without the visual weight of larger framed art.
+**Bedroom.** An unexpected but increasingly popular placement, a soft, small cluster of delicate plates above a bed or dresser adds warmth and personality without the visual weight of larger framed art. For a full bedroom color story to pair with a delicate plate cluster, see our [sage green bedroom ideas](/blog/sage-green-bedroom-ideas/).
 
 **Entryway.** A modest arrangement near the front door creates a memorable first impression and works particularly well with plates that hold personal or sentimental meaning, setting a warm tone as guests enter.
 

@@ -71,6 +71,8 @@ Sage green is grounded and reassuring, with a timeless quality that makes bedroo
 **Sophisticated without being bold.** Sage green is statement enough to look intentional but soft enough to never feel overwhelming. It's the colour that makes a bedroom look professionally designed without trying too hard.
 
 **Timeless.** Unlike fast-moving colour trends, sage green has a quietly classic quality. Sage bedrooms from 2026 will still look beautiful in 2036.
+
+If you love this palette, see how it translates into our [sage green bathroom ideas](/blog/sage-green-bathroom-ideas/) for a coordinated home.
 </section>
 
 <section class="article-section" id="paint-shades">
@@ -500,7 +502,7 @@ Stark white competes with sage rather than supporting it. Choose cream, oat, or 
 Sage works beautifully with ONE additional accent (terracotta OR blush OR black). Trying to combine sage with multiple accent colours creates a confused look.
 
 **Mistake 10 — Forgetting plants:**
-A sage green bedroom without any living green plant looks one-dimensional. Add ONE small live plant — a snake plant, pothos, or peace lily — to bridge the painted sage with organic green.
+A sage green bedroom without any living green plant looks one-dimensional. Add ONE small live plant — a snake plant, pothos, or peace lily — to bridge the painted sage with organic green. For more easy-care plant recommendations, see our guide to the [best houseplants for your living room](/blog/best-houseplants-for-living-room/).
 
 ---
 
@@ -509,4 +511,6 @@ A beautiful sage green bedroom in 2026 is less about following rules and more ab
 Start with the right paint shade for your specific light. Layer cream linens and natural textures. Add aged brass for warm metallic glow. Bring in one accent colour you genuinely love. Light it warmly.
 
 Done well, a sage green bedroom isn't just a beautiful room — it's a genuine sanctuary you'll look forward to retreating to every single night.
+
+For another warm, calming bedroom color trend, see our [butter yellow bedroom ideas](/blog/butter-yellow-bedroom-ideas/).
 </section>

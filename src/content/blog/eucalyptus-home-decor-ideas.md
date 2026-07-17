@@ -297,9 +297,9 @@ Eucalyptus is unusual among decorative greenery in how naturally it translates a
 
 **Living room.** A mantel garland, a tall vase arrangement on a console table, or eucalyptus tucked into an existing bookshelf styling all bring the living room's warm, gathering-focused energy in line with this versatile greenery.
 
-**Bathroom.** Beyond the shower bundle ritual, a small vase of eucalyptus on a bathroom counter or windowsill adds a spa-like freshness to a space that often lacks natural decor options.
+**Bathroom.** Beyond the shower bundle ritual, a small vase of eucalyptus on a bathroom counter or windowsill adds a spa-like freshness to a space that often lacks natural decor options. For a full bathroom refresh to pair with this spa-like ritual, see our [sage green bathroom ideas](/blog/sage-green-bathroom-ideas/).
 
-**Kitchen.** A few stems in a simple jar or pitcher on an open shelf or windowsill bring the same organic warmth found in a kitchen garden setup, pairing beautifully alongside fresh herbs if you already grow them indoors.
+**Kitchen.** A few stems in a simple jar or pitcher on an open shelf or windowsill bring the same organic warmth found in a kitchen garden setup, pairing beautifully alongside fresh herbs if you already grow them indoors. See our guide to [apartment herb gardens](/blog/apartment-herb-garden-windowsill-gardening/) for more windowsill styling ideas.
 
 **Dining room.** The table runner and centerpiece ideas covered earlier make the dining room one of the most natural settings for a fuller, more dramatic eucalyptus display, particularly for entertaining.
 

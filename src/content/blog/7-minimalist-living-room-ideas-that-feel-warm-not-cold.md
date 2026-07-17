@@ -43,6 +43,8 @@ A monochromatic palette doesn't mean boring. It means layering different shades 
 - Add cushions and throws in the same tone but different textures (linen, bouclé, wool)
 - Use wood accents to ground the palette and prevent it looking too flat
 
+If your living room is on the smaller side, pair this palette with these [bright small living room ideas](/blog/bright-small-living-room-feel-bigger/) for even more ways to make it feel bigger.
+
 <figure class="blog-figure">
   <div class="blog-image-wrap">
     <img src="/images/blog-1-minimalist-living-room/01-light-monochromatic-palette-1200.webp" alt="Light monochromatic neutral living room with layered warm tones" loading="lazy" />
@@ -137,6 +139,8 @@ Going vertical — built-in shelving from floor to ceiling, tall bookcases, wall
 - Leave empty space deliberately — negative space is part of the design
 - One plant per shelf maximum
 
+For plant recommendations that work well on open shelving, see our guide to the [best houseplants for your living room](/blog/best-houseplants-for-living-room/).
+
 <figure class="blog-figure">
   <div class="blog-image-wrap">
     <img src="/images/blog-1-minimalist-living-room/05-vertical-storage-display-1200.webp" alt="Vertical storage and curated display in minimalist living room" loading="lazy" />
@@ -157,6 +161,8 @@ Mirrors are a minimalist's secret weapon. They reflect light, create the illusio
 - Position mirrors opposite or at 90° to windows to bounce natural light around
 - A round mirror above the sofa softens a room that feels too angular
 - Mirrored furniture (side tables, dressers) catches light without being overwhelming
+
+These same tricks are covered in more depth in our guide to [small space decoration ideas](/blog/room-decoration-ideas-small-spaces/).
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -190,6 +196,8 @@ The minimalist mantra: **if it doesn't spark joy or serve a purpose, it doesn't 
 </figure>
 
 Minimalism isn't about deprivation — it's about making room for what matters. A warm, calm, beautifully curated living room is one of the most restorative spaces you can create. And the best part? You don't need to spend a fortune. You just need to be intentional.
+
+If you're ready to bring in more color while keeping that same grounded warmth, explore our [olive green living room ideas](/blog/olive-green-living-room-ideas/) next.
 
 Start with one corner. Edit one shelf. Buy one quality piece instead of three cheap ones. The transformation happens one decision at a time.
 </section>

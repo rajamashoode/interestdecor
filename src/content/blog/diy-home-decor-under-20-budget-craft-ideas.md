@@ -119,7 +119,7 @@ Terracotta pots are one of the most underrated craft materials. Plain, they look
 
 **Ideas to try:** Half-dipped in terracotta colour, white pot with a thin black rim, sage green with a cream stripe, or a simple abstract brushstroke in gold.
 
-**Display:** Group three different sizes together on a shelf or windowsill. Use them for small succulents, air plants, pencils, or just as decorative objects.
+**Display:** Group three different sizes together on a shelf or windowsill. Use them for small succulents, air plants, pencils, or just as decorative objects. If you enjoy hands-on projects like this, our guide to [air dry clay home decor](/blog/air-dry-clay-home-decor/) covers even more beginner-friendly handmade pieces.
 </section>
 
 <section class="article-section" id="fabric-art">
@@ -151,7 +151,7 @@ This is the easiest wall art hack that nobody talks about enough. Fabric stretch
 
 **Best fabrics to use:** Linen, cotton with a subtle pattern, vintage fabric scraps, textured weaves, or even wallpaper samples.
 
-**Display tip:** Create a gallery wall of 5–7 hoops in different sizes. Mix plain textures with subtle patterns. They look incredible grouped together and cost almost nothing.
+**Display tip:** Create a gallery wall of 5–7 hoops in different sizes. Mix plain textures with subtle patterns. They look incredible grouped together and cost almost nothing. For another budget-friendly gallery wall idea, see our guide to [decorative plate wall ideas](/blog/decorative-plate-wall-ideas/).
 </section>
 
 <section class="article-section" id="mason-jars">
@@ -353,7 +353,7 @@ Succulents are the perfect beginner plant — nearly impossible to kill, beautif
 3. Make a small hole, insert the succulent, and press soil around it
 4. Top with decorative gravel or small stones
 
-**Display idea:** Group 5–7 different succulents in a mix of containers along a windowsill. Vary the heights and textures. It looks like a considered, curated display — but costs almost nothing.
+**Display idea:** Group 5–7 different succulents in a mix of containers along a windowsill. Vary the heights and textures. It looks like a considered, curated display — but costs almost nothing. Pair your new planters with easy-care greenery from our guide to the [best houseplants for your living room](/blog/best-houseplants-for-living-room/).
 </section>
 
 <section class="article-section" id="woven-hanging">
@@ -427,4 +427,6 @@ The goal isn't to cover every inch — negative space makes the board look style
 Ten projects, ten chances to make your home more beautiful for less than the cost of a single shop-bought decor piece. Start with whichever one excites you most — there's no wrong order.
 
 The best thing about DIY decor is that it evolves with you. Made a rope basket that's a little lopsided? Make another one. Painted a sign and the letters aren't perfect? Sand it back and try again. Every attempt teaches you something, and the results — imperfections and all — carry something no store-bought piece ever can: the fact that you made it yourself.
+
+If you're decorating on a total room budget rather than project by project, see our guide to [small living room ideas for renters under $200](/blog/small-living-room-ideas-renters-under-200/).
 </section>

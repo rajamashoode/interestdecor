@@ -23,6 +23,9 @@
   --shadow-sm:  0 2px 8px rgba(58,46,40,.08);
   --shadow-md:  0 8px 24px rgba(58,46,40,.12);
   --shadow-lg:  0 20px 60px rgba(58,46,40,.16);
+  --article-link-color:     #a8583f;
+  --article-link-hover:     #7a3f2c;
+  --article-link-underline: rgba(168, 88, 63, .45);
 }
 
 /* ── Reset & Base ────────────────────────────────────────── */
@@ -1414,6 +1417,26 @@ ul, ol { list-style: none; }
 }
 
 .article-content strong { color: var(--dark); font-weight: 600; }
+
+.article-content a {
+  color: var(--article-link-color);
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-color: var(--article-link-underline);
+  text-underline-offset: 3px;
+  transition: color var(--transition), text-decoration-color var(--transition);
+}
+
+.article-content a:hover {
+  color: var(--article-link-hover);
+  text-decoration-color: var(--article-link-hover);
+}
+
+.article-content a:focus-visible {
+  outline: 2px solid var(--article-link-color);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
 
 .blog-figure {
   margin: 40px 0;

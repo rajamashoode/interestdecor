@@ -106,7 +106,7 @@ Colour is the most powerful tool available for making a small kitchen feel large
 
 **Warm white and cream:** The classic choice. Not stark brilliant white (which can feel clinical) but warm creamy whites that feel inviting. Cabinet paint colors like Farrow & Ball's *Pointing* or *Wimborne White* transform small kitchens.
 
-**Soft sage green:** One of the biggest kitchen colour trends for 2026. Vintage-meets-modern kitchens are on the rise, with searches leaning into comfort, character, and a little nostalgia at the center of the home. Sage green delivers exactly this — nostalgic warmth with modern refinement.
+**Soft sage green:** One of the biggest kitchen colour trends for 2026. Vintage-meets-modern kitchens are on the rise, with searches leaning into comfort, character, and a little nostalgia at the center of the home. Sage green delivers exactly this — nostalgic warmth with modern refinement. For a deeper, richer take on green in the kitchen, see our [olive green kitchen ideas](/blog/olive-green-kitchen-ideas/).
 
 **Pale grey-blue:** Cool and airy. Creates a coastal, calm atmosphere that makes small kitchens feel refreshing rather than cramped.
 
@@ -378,7 +378,7 @@ The final idea ties everything together. A small kitchen with a cohesive colour 
 
 **Cream + warm wood + brass:** Timeless. The warmth of natural wood and brass hardware elevates cream cabinets from basic to beautiful.
 
-**Sage green + white + natural wood:** Fresh, modern, organic. Currently one of the most searched kitchen colour combinations on Pinterest.
+**Sage green + white + natural wood:** Fresh, modern, organic. Currently one of the most searched kitchen colour combinations on Pinterest. For a bolder color story in a small kitchen, see our [navy blue kitchen ideas](/blog/navy-blue-kitchen-ideas/).
 
 **White + black + natural stone:** High contrast, crisp, very current. Works in small kitchens because the strong contrast creates clear visual structure.
 
@@ -398,4 +398,6 @@ Small kitchen transformations don't require major renovation budgets or weeks of
 Start with the idea that addresses your biggest frustration. If it's storage, go vertical. If it's feeling dark, add under-cabinet lighting and change the bulbs. If it's visual chaos, commit to a cohesive colour palette and edit your counter surfaces ruthlessly.
 
 One change at a time, your small kitchen becomes the best version of itself.
+
+These same space-maximizing tricks apply just as well to a small bathroom. See our guide to [small bathroom ideas](/blog/small-bathroom-ideas/).
 </section>
