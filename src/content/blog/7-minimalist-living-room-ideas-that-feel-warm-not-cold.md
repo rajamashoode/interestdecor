@@ -4,8 +4,8 @@ description: "Make your small living room feel warm, calm, and spacious with min
 excerpt: "Minimalism doesn't have to mean bare and sterile. Discover how soft textures, warm neutrals, and thoughtful layering create rooms that breathe."
 category: "Home Decor"
 categorySlug: "home-decor"
-date: 2025-01-15
-displayDate: "Jan 15, 2025"
+date: 2025-07-15
+displayDate: "Jul 15, 2025"
 readTime: "5 min read"
 heroImage: "/images/blog-1-minimalist-living-room/hero-1600.webp"
 heroAlt: "Minimalist living room with warm neutral decor and natural light"
