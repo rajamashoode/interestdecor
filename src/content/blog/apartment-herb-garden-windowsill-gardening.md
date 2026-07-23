@@ -29,7 +29,7 @@ toc:
 
 There's a particular kind of satisfaction that comes from walking to your kitchen window, pinching off a few fresh basil leaves, and adding them to your dinner. No grocery store trip. No wilted plastic-wrapped bunches. Just fresh herbs, growing quietly on your windowsill, always ready when you need them.
 
-The best part? You don't need a garden, a balcony, outdoor space, or even a particularly large apartment. A single south-facing windowsill — or even a moderately bright east-facing one — is all the space you need to create a thriving apartment herb garden that produces fresh herbs year-round.
+The best part? You don't need a garden, a balcony, outdoor space, or even a particularly large apartment. A single south-facing windowsill (or even a moderately bright east-facing one) is all the space you need to create a thriving apartment herb garden that produces fresh herbs year-round.
 
 This complete guide covers everything: which herbs actually thrive indoors, how to set up your windowsill garden for success, and how to keep it producing continuously through every season.
 
@@ -49,11 +49,11 @@ The windowsill herb garden is one of the most underrated ideas in apartment livi
 
 **Natural light concentration.** Windows concentrate light exactly where your plants are. A south-facing kitchen window in an apartment can deliver as much usable light as a partially shaded garden spot.
 
-**Controlled environment.** Apartments maintain consistent temperatures — no frost, no extreme heat, no sudden temperature drops. Most culinary herbs are actually happier in stable indoor conditions than they are outdoors in fluctuating weather.
+**Controlled environment.** Apartments maintain consistent temperatures: no frost, no extreme heat, no sudden temperature drops. Most culinary herbs are actually happier in stable indoor conditions than they are outdoors in fluctuating weather.
 
-**Accessibility.** Herbs on your kitchen windowsill are in the most useful possible location. You cook, you reach, you harvest. This proximity also means you notice problems early — pests, overwatering, nutrient deficiency — before they become serious.
+**Accessibility.** Herbs on your kitchen windowsill are in the most useful possible location. You cook, you reach, you harvest. This proximity also means you notice problems early (pests, overwatering, nutrient deficiency) before they become serious.
 
-**Space efficiency.** A 90cm windowsill can comfortably hold 6-8 herb plants. That's a complete culinary herb collection — basil, parsley, thyme, mint, chives, rosemary, sage, and oregano — in less than one square metre of space.
+**Space efficiency.** A 90cm windowsill can comfortably hold 6-8 herb plants. That's a complete culinary herb collection (basil, parsley, thyme, mint, chives, rosemary, sage, and oregano) in less than one square metre of space.
 
 **Cost savings.** Fresh herbs at the supermarket cost $3-4 per bunch and last a week. A windowsill herb garden costs $20-30 to set up and produces herbs continuously for months. The savings are significant for anyone who cooks regularly.
 </section>
@@ -114,17 +114,17 @@ Not all herbs are equally suited to indoor growing. These are the best performer
 
 ### Tier 1 — Easiest (Start Here)
 
-**Basil:** The most rewarding windowsill herb. Grows fast, produces abundantly, and the kitchen uses are endless. Needs the most light of all herbs — south-facing window essential. Full growing guide in our <a href="/blog/how-to-grow-basil-at-home-beginners-guide/">How to Grow Basil at Home</a> post.
+**Basil:** The most rewarding windowsill herb. Grows fast, produces abundantly, and the kitchen uses are endless. Needs the most light of all herbs; a south-facing window is essential. Full growing guide in our <a href="/blog/how-to-grow-basil-at-home-beginners-guide/">How to Grow Basil at Home</a> post.
 
-**Chives:** Almost indestructible. Tolerates lower light better than most herbs. Grow in a cluster and snip as needed — they regrow from the base like a haircut. Perfect for eggs, potatoes, salads, and soups.
+**Chives:** Almost indestructible. Tolerates lower light better than most herbs. Grow in a cluster and snip as needed; they regrow from the base like a haircut. Perfect for eggs, potatoes, salads, and soups.
 
-**Mint:** Incredibly easy and fast-growing. The one downside: mint spreads aggressively, so always keep it in its own separate pot — never mixed with other herbs. Great varieties: spearmint, peppermint, apple mint, chocolate mint.
+**Mint:** Incredibly easy and fast-growing. The one downside: mint spreads aggressively, so always keep it in its own separate pot, never mixed with other herbs. Great varieties: spearmint, peppermint, apple mint, chocolate mint.
 
 **Parsley:** Takes a few weeks to establish but then produces continuously for months. Tolerates east-facing windows well. Flat-leaf (Italian) parsley has more flavour than curly; both grow equally well indoors.
 
 ### Tier 2 — Easy with Good Light
 
-**Thyme:** A compact, woody herb that thrives in dry, bright conditions. Perfect for south-facing windows. Very low water needs — actually prefers to dry out between waterings. Excellent for roasting, soups, and Mediterranean cooking.
+**Thyme:** A compact, woody herb that thrives in dry, bright conditions. Perfect for south-facing windows. Very low water needs; it actually prefers to dry out between waterings. Excellent for roasting, soups, and Mediterranean cooking.
 
 **Oregano:** Similar conditions to thyme. Grows as a spreading bush. Pinch regularly to keep it compact. Essential for Italian and Greek cooking.
 
@@ -132,7 +132,7 @@ Not all herbs are equally suited to indoor growing. These are the best performer
 
 ### Tier 3 — Slightly More Challenging
 
-**Cilantro (Coriander):** Bolts (goes to seed) quickly in warm conditions. Succession planting — sowing new seeds every 3-4 weeks — keeps a continuous supply. Prefers cooler, bright spots.
+**Cilantro (Coriander):** Bolts (goes to seed) quickly in warm conditions. Succession planting (sowing new seeds every 3-4 weeks) keeps a continuous supply. Prefers cooler, bright spots.
 
 **Dill:** Grows tall (use a deeper pot). Bolts quickly like cilantro. Best grown in short successions.
 
@@ -149,7 +149,7 @@ For a complete apartment kitchen herb garden, start with these five:
 5. Thyme (south window)
 ```
 
-This combination covers Italian, Asian, Mediterranean, and everyday cooking — all from one windowsill.
+This combination covers Italian, Asian, Mediterranean, and everyday cooking, all from one windowsill.
 </section>
 
 <section class="article-section" id="containers">
@@ -157,7 +157,7 @@ This combination covers Italian, Asian, Mediterranean, and everyday cooking — 
 
 ## Container Selection for Small Space Herb Gardening
 
-The right container makes a significant difference in how well your herbs grow — and how good your windowsill looks.
+The right container makes a significant difference in how well your herbs grow, and in how good your windowsill looks.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -174,11 +174,11 @@ The right container makes a significant difference in how well your herbs grow �
 
 ### Best Container Materials
 
-**Terracotta (top recommendation):** Breathable clay allows air and moisture exchange through the pot walls. Prevents overwatering by allowing soil to dry evenly. Looks beautiful on a windowsill. Gets heavier when wet — good stability indicator. If you want to personalize your pots even further, see our guide to [painted terracotta pot projects](/blog/diy-home-decor-under-20-budget-craft-ideas/) for an easy weekend craft.
+**Terracotta (top recommendation):** Breathable clay allows air and moisture exchange through the pot walls. Prevents overwatering by allowing soil to dry evenly. Looks beautiful on a windowsill. Gets heavier when wet, which is a good stability indicator. If you want to personalize your pots even further, see our guide to [painted terracotta pot projects](/blog/diy-home-decor-under-20-budget-craft-ideas/) for an easy weekend craft.
 
 **Ceramic:** Glazed ceramic retains moisture longer than terracotta. Good for moisture-loving herbs like basil and mint. Beautiful options available at every price point.
 
-**Plastic:** Lightweight and affordable. Retains moisture well — good for thirsty herbs, but be cautious with drought-tolerant ones. Less attractive but very functional.
+**Plastic:** Lightweight and affordable. Retains moisture well, which is good for thirsty herbs, but be cautious with drought-tolerant ones. Less attractive but very functional.
 
 ### Size Guidelines
 
@@ -196,7 +196,7 @@ The right container makes a significant difference in how well your herbs grow �
 
 ### Soil for Container Herb Gardens
 
-Use quality potting mix — not garden soil. Garden soil compacts in containers, prevents drainage, and harbours pests.
+Use quality potting mix, not garden soil. Garden soil compacts in containers, prevents drainage, and harbours pests.
 
 For most herbs: standard potting mix works well.
 For Mediterranean herbs (thyme, rosemary, oregano): mix potting soil 50/50 with perlite or coarse sand for extra drainage.
@@ -219,7 +219,7 @@ Overwatering is the most common cause of herb death in apartment gardens. Indoor
 
 ### The Finger Test — Always Use This
 
-Before watering any herb, push your finger 2cm into the soil. If it feels moist — wait. If it feels dry — water thoroughly.
+Before watering any herb, push your finger 2cm into the soil. If it feels moist, wait. If it feels dry, water thoroughly.
 
 **Moisture-loving herbs** (basil, mint, parsley, cilantro): Water when top 1cm is dry. Never let these completely dry out.
 
@@ -229,7 +229,7 @@ Before watering any herb, push your finger 2cm into the soil. If it feels moist 
 
 Water deeply until water flows freely from drainage holes. This ensures the entire root zone gets moisture, not just the surface. Then stop. Don't water again until the soil test says it's time.
 
-Avoid light, frequent splashes of water — this promotes shallow roots and surface moisture that encourages fungal problems.
+Avoid light, frequent splashes of water; this promotes shallow roots and surface moisture that encourages fungal problems.
 
 ### Apartment-Specific Watering Challenges
 
@@ -237,7 +237,7 @@ Avoid light, frequent splashes of water — this promotes shallow roots and surf
 
 **Air conditioning in summer:** Creates dry conditions similar to winter heating. Monitor soil moisture rather than following a schedule.
 
-**The saucer problem:** Saucers under pots catch drainage — important for windowsills. But if water sits in the saucer for more than 30 minutes, the roots sit in water and rot. Empty saucers after watering.
+**The saucer problem:** Saucers under pots catch drainage, which matters for windowsills. But if water sits in the saucer for more than 30 minutes, the roots sit in water and rot. Empty saucers after watering.
 </section>
 
 <section class="article-section" id="humidity">
@@ -245,7 +245,7 @@ Avoid light, frequent splashes of water — this promotes shallow roots and surf
 
 ## Managing Humidity in Dry Apartments
 
-Apartments — especially those with central heating or air conditioning — often have very low humidity. Most culinary herbs cope with this well, but a few simple adjustments help.
+Apartments, especially those with central heating or air conditioning, often have very low humidity. Most culinary herbs cope with this well, but a few simple adjustments help.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -258,9 +258,9 @@ Apartments — especially those with central heating or air conditioning — oft
 
 **Grouping plants:** Plants grouped together create a shared humidity zone through transpiration. A cluster of 5-6 herb pots on a windowsill generates noticeably higher local humidity than individual pots spread around a room.
 
-**Occasional misting:** A light mist of water on herb leaves once or twice weekly helps in very dry conditions. Avoid misting in the evening — leaves that stay wet overnight are more susceptible to fungal problems. Mist in the morning so leaves dry during the day.
+**Occasional misting:** A light mist of water on herb leaves once or twice weekly helps in very dry conditions. Avoid misting in the evening; leaves that stay wet overnight are more susceptible to fungal problems. Mist in the morning so leaves dry during the day.
 
-**Which herbs are most sensitive to low humidity:** Basil and mint prefer higher humidity. Thyme, rosemary, and oregano actually prefer dry air — Mediterranean herbs evolved in dry climates.
+**Which herbs are most sensitive to low humidity:** Basil and mint prefer higher humidity. Thyme, rosemary, and oregano actually prefer dry air, since these Mediterranean herbs evolved in dry climates.
 </section>
 
 <section class="article-section" id="seasonal">
@@ -268,7 +268,7 @@ Apartments — especially those with central heating or air conditioning — oft
 
 ## Seasonal Considerations for Indoor Herb Gardening
 
-One of the biggest advantages of an apartment herb garden is the ability to grow year-round — but each season requires slight adjustments.
+One of the biggest advantages of an apartment herb garden is the ability to grow year-round, though each season requires slight adjustments.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -279,7 +279,7 @@ One of the biggest advantages of an apartment herb garden is the ability to grow
 
 **Spring:** The easiest season for indoor herbs. Increasing daylight, moderate temperatures. Ideal for starting new plants from seed. Most herbs will grow vigorously.
 
-**Summer:** Maximum natural light — great for sun-loving herbs. Watch for overheating in south-facing windows. If leaves look scorched or bleached, add a sheer curtain. Water more frequently as soil dries faster.
+**Summer:** Maximum natural light, great for sun-loving herbs. Watch for overheating in south-facing windows. If leaves look scorched or bleached, add a sheer curtain. Water more frequently as soil dries faster.
 
 **Autumn:** Light begins decreasing. Most herbs slow their growth but continue producing. A good time to pot up and bring in any herbs you had outdoors over summer.
 
@@ -340,11 +340,11 @@ How you harvest your herbs directly determines how much they produce. The right 
 
 **Never harvest more than 1/3 of any plant at one time.** Taking too much stresses the plant and slows recovery.
 
-**Harvest regularly** — this is counterintuitive but harvesting frequently actually encourages more growth. A herb that's never harvested becomes woody, tall, and less productive.
+**Harvest regularly.** This is counterintuitive, but harvesting frequently actually encourages more growth. A herb that's never harvested becomes woody, tall, and less productive.
 
 ### Herb-Specific Harvesting Tips
 
-**Basil:** Pinch from the very top. Remove flower buds immediately when you see them — once basil flowers, leaves become bitter. Harvest every 3-4 days for maximum yield.
+**Basil:** Pinch from the very top. Remove flower buds immediately when you see them; once basil flowers, the leaves become bitter. Harvest every 3-4 days for maximum yield.
 
 **Mint:** Cut stems down to 5cm above soil level when plants get leggy. They'll regrow fully within 2 weeks. One of the most forgiving harvesting situations.
 
@@ -352,9 +352,9 @@ How you harvest your herbs directly determines how much they produce. The right 
 
 **Parsley:** Always harvest outer stems first, leaving inner stems to continue growing. This extends the plant's productive life significantly.
 
-**Thyme and Oregano:** Harvest young, soft stem tips. Avoid cutting into woody older growth — it won't regrow. Regular harvesting keeps growth soft and productive.
+**Thyme and Oregano:** Harvest young, soft stem tips. Avoid cutting into woody older growth; it won't regrow. Regular harvesting keeps growth soft and productive.
 
-**Rosemary:** Only harvest soft green tips. Never cut into brown woody stems. Go easy — rosemary grows slowly.
+**Rosemary:** Only harvest soft green tips. Never cut into brown woody stems. Go easy; rosemary grows slowly.
 
 ### Feeding Your Herb Garden
 
@@ -366,7 +366,7 @@ Container herbs need regular feeding because nutrients leach out of pots with wa
 
 ## Styling Your Apartment Herb Garden
 
-A well-styled windowsill herb garden is genuinely beautiful — not just functional. Here's how to make yours look as good as it performs.
+A well-styled windowsill herb garden is genuinely beautiful, not just functional. Here's how to make yours look as good as it performs.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -385,9 +385,9 @@ A well-styled windowsill herb garden is genuinely beautiful — not just functio
 
 **Negative space:** Don't crowd every centimetre. Leave some breathing room between pots. A slightly sparse windowsill looks more styled than one crammed with plants.
 
-**Colour coordination:** Terracotta pots with varying shades of green herbs is a classic, timeless combination. If you want to add interest, one pot painted in a complementary colour — sage green, matte white, or dusty rose — adds character without chaos.
+**Colour coordination:** Terracotta pots with varying shades of green herbs is a classic, timeless combination. If you want to add interest, one pot painted in a complementary colour (sage green, matte white, or dusty rose) adds character without chaos.
 
-**Seasonal accessories:** A small dried lavender bundle tied with twine beside the pots, or a small linen tag tied to a pot with the herb name — these small details elevate a functional herb garden into a genuine home decor feature.
+**Seasonal accessories:** A small dried lavender bundle tied with twine beside the pots, or a small linen tag tied to a pot with the herb name: small details like these turn a functional herb garden into a genuine home decor feature.
 
 For more ways to make a compact kitchen feel bigger and more beautiful, see our guide to [small kitchen ideas](/blog/small-kitchen-ideas-2026/).
 
@@ -395,7 +395,7 @@ For more ways to make a compact kitchen feel bigger and more beautiful, see our 
 
 An apartment herb garden on your windowsill is one of those rare home projects that genuinely improves your daily life in a tangible way. Better food, less waste, a living green element in your kitchen, and the quiet satisfaction of growing something yourself.
 
-Start with three herbs — basil, chives, and mint — positioned on your best window. See how they do for four weeks. Then add more. Before long you'll have a complete kitchen herb collection that costs almost nothing to maintain and gives back every single time you cook.
+Start with three herbs (basil, chives, and mint) positioned on your best window. See how they do for four weeks. Then add more. Before long you'll have a complete kitchen herb collection that costs almost nothing to maintain and gives back every single time you cook.
 
 For more small-space styling ideas beyond the kitchen, see our guide to [room decoration ideas for small spaces](/blog/room-decoration-ideas-small-spaces/).
 </section>

@@ -31,7 +31,7 @@ toc:
 
 Here's something the home decor industry doesn't want you to know: most of what makes a room look beautiful costs almost nothing to recreate yourself. That ceramic vase for $45? You can make something better for $4. That woven wall hanging for $80? Thirty minutes and $8 of rope.
 
-DIY home decor isn't about settling for less. It's about making more — more personalised, more intentional, and more satisfying than anything you could buy off a shelf. And when each project costs under $20, experimenting feels genuinely low-risk.
+DIY home decor isn't about settling for less. It's about making more: more personalised, more intentional, and more satisfying than anything you could buy off a shelf. And when each project costs under $20, experimenting feels genuinely low-risk.
 
 Here are 10 projects that prove beautiful doesn't have to mean expensive.
 
@@ -47,7 +47,7 @@ Here are 10 projects that prove beautiful doesn't have to mean expensive.
   <figcaption>Handmade pieces add personality and warmth that mass-produced items simply can't replicate.</figcaption>
 </figure>
 
-**It's genuinely cheaper.** Retail markups on home decor are enormous — often 300–500%. Making your own cuts through that entirely.
+**It's genuinely cheaper.** Retail markups on home decor are enormous, often 300 to 500 percent. Making your own cuts through that entirely.
 
 **It's personalised.** You choose the exact colour, size, and style that fits your space. No compromising because the shop only had it in grey.
 
@@ -70,7 +70,7 @@ Here are 10 projects that prove beautiful doesn't have to mean expensive.
   <figcaption>A small craft supply kit covers most of these 10 projects. Buy once, make many.</figcaption>
 </figure>
 
-Before jumping into individual projects, grab these basics. They'll cover most of the 10 projects below and cost around $30–40 total — which means each project works out to just $3–4 once you have supplies on hand.
+Before jumping into individual projects, grab these basics. They'll cover most of the 10 projects below and cost around $30 to $40 total, which means each project works out to just $3 to $4 once you have supplies on hand.
 
 **Paint:** A small set of acrylic craft paints ($6–8). Get white, black, and 2–3 colours you love.
 
@@ -111,10 +111,10 @@ Terracotta pots are one of the most underrated craft materials. Plain, they look
 
 **How to do it:**
 1. Clean and dry your pots completely
-2. Paint the outside with a base coat — white or cream works beautifully
+2. Paint the outside with a base coat, white or cream works beautifully
 3. Let dry fully (30 minutes)
 4. Add a second coat if needed
-5. Once dry, add a pattern: simple geometric shapes, dipped bottoms, stripes, or abstract brush strokes all look stunning
+5. Once dry, add a pattern: simple geometric shapes, dipped bottoms, stripes, or abstract brush strokes all look great
 6. Seal with a clear acrylic spray if the pot will hold a real plant
 
 **Ideas to try:** Half-dipped in terracotta colour, white pot with a thin black rim, sage green with a cream stripe, or a simple abstract brushstroke in gold.
@@ -129,7 +129,7 @@ Terracotta pots are one of the most underrated craft materials. Plain, they look
 
 **Cost:** $5–12 | **Time:** 20 minutes
 
-This is the easiest wall art hack that nobody talks about enough. Fabric stretched over a canvas or embroidery hoop looks genuinely impressive — and takes almost no skill.
+This is the easiest wall art hack that nobody talks about enough. Fabric stretched over a canvas or embroidery hoop looks genuinely impressive, and takes almost no skill.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -151,7 +151,7 @@ This is the easiest wall art hack that nobody talks about enough. Fabric stretch
 
 **Best fabrics to use:** Linen, cotton with a subtle pattern, vintage fabric scraps, textured weaves, or even wallpaper samples.
 
-**Display tip:** Create a gallery wall of 5–7 hoops in different sizes. Mix plain textures with subtle patterns. They look incredible grouped together and cost almost nothing. For another budget-friendly gallery wall idea, see our guide to [decorative plate wall ideas](/blog/decorative-plate-wall-ideas/).
+**Display tip:** Create a gallery wall of five to seven hoops in different sizes. Mix plain textures with subtle patterns. They look great grouped together and cost almost nothing. For another budget-friendly gallery wall idea, see our guide to [decorative plate wall ideas](/blog/decorative-plate-wall-ideas/).
 </section>
 
 <section class="article-section" id="mason-jars">
@@ -176,14 +176,14 @@ Mason jars are incredibly versatile. Painted or wrapped, they transform into ele
 1. Apply a line of hot glue around the base of the jar
 2. Press the end of your twine into the glue and hold for 10 seconds
 3. Continue wrapping upward, adding glue every few rows
-4. Cover as much or as little as you like — half-wrapped looks great
+4. Cover as much or as little as you like; half-wrapped looks great
 5. Trim and glue the end to finish
 
 **Version 2 — Frosted Paint:**
 1. Mix white acrylic paint with a little water (50/50)
 2. Paint the inside of the jar with the mixture
 3. While wet, turn upside down to let excess drip out
-4. Let dry fully — creates a beautiful frosted glass effect
+4. Let dry fully; creates a beautiful frosted glass effect
 
 **Version 3 — Colour Dipped:**
 1. Dip the bottom third of the jar in paint
@@ -200,7 +200,7 @@ Mason jars are incredibly versatile. Painted or wrapped, they transform into ele
 
 **Cost:** $8–15 | **Time:** 45–60 minutes
 
-Rope baskets are everywhere in home decor stores right now — and they're priced accordingly ($30–60 each). Making your own costs a fraction and takes less than an hour.
+Rope baskets are everywhere in home decor stores right now, and they're priced accordingly ($30 to $60 each). Making your own costs a fraction and takes less than an hour.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -219,7 +219,7 @@ Rope baskets are everywhere in home decor stores right now — and they're price
 
 **Tips for a neat finish:**
 - Work slowly and press each coil firmly before moving on
-- Keep tension consistent — too loose and it won't hold shape
+- Keep tension consistent; too loose and it won't hold shape
 - For a coloured version, paint the rope before coiling or use coloured cotton rope
 
 **Use them for:** storing throws, holding plants, organising magazines, or purely as decorative objects.
@@ -232,7 +232,7 @@ Rope baskets are everywhere in home decor stores right now — and they're price
 
 **Cost:** $6–10 | **Time:** 45 minutes
 
-String art sounds complicated but it's surprisingly straightforward — and the results are genuinely stunning. Geometric patterns look modern and intentional on any wall.
+String art sounds complicated but it's surprisingly straightforward, and the results are genuinely impressive. Geometric patterns look modern and intentional on any wall.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -245,7 +245,7 @@ String art sounds complicated but it's surprisingly straightforward — and the 
 
 **How to do it:**
 1. Paint or stain your wooden board and let dry
-2. Draw your pattern on paper first — simple shapes work best: triangle, star, diamond, letter, or abstract lines
+2. Draw your pattern on paper first; simple shapes work best: triangle, star, diamond, letter, or abstract lines
 3. Trace the pattern lightly onto the board with pencil
 4. Hammer small nails along the pattern lines, spacing them evenly (about 1–1.5cm apart)
 5. Tie your thread to a starting nail and begin weaving: go from nail to nail creating the pattern, wrapping twice around each nail
@@ -264,7 +264,7 @@ String art sounds complicated but it's surprisingly straightforward — and the 
 
 **Cost:** $4–8 | **Time:** 30 minutes + drying
 
-Personalised wooden signs for the home — the kind that sell for $25–40 in gift shops — take about 30 minutes to make yourself.
+Personalised wooden signs for the home, the kind that sell for $25 to $40 in gift shops, take about 30 minutes to make yourself.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -308,7 +308,7 @@ Fabric or felt banners add colour, texture, and movement to any wall. They're es
 **What you need:** Fabric scraps or felt, twine or thin rope, scissors, hot glue (or needle and thread)
 
 **How to do it:**
-1. Cut fabric into triangles — all the same size for a uniform look, or vary them for a more eclectic feel
+1. Cut fabric into triangles, all the same size for a uniform look, or vary them for a more eclectic feel
 2. For each triangle, fold the top edge over the twine and glue or sew down
 3. Space triangles evenly along the twine as you go
 4. Leave extra twine at each end for hanging
@@ -329,7 +329,7 @@ Fabric or felt banners add colour, texture, and movement to any wall. They're es
 
 **Cost:** $5–12 | **Time:** 20 minutes
 
-Succulents are the perfect beginner plant — nearly impossible to kill, beautiful to look at, and endlessly versatile as decor. A creative planter elevates them completely.
+Succulents are the perfect beginner plant: nearly impossible to kill, beautiful to look at, and endlessly versatile as decor. A creative planter makes them look even better.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -353,7 +353,7 @@ Succulents are the perfect beginner plant — nearly impossible to kill, beautif
 3. Make a small hole, insert the succulent, and press soil around it
 4. Top with decorative gravel or small stones
 
-**Display idea:** Group 5–7 different succulents in a mix of containers along a windowsill. Vary the heights and textures. It looks like a considered, curated display — but costs almost nothing. Pair your new planters with easy-care greenery from our guide to the [best houseplants for your living room](/blog/best-houseplants-for-living-room/).
+**Display idea:** Group five to seven different succulents in a mix of containers along a windowsill. Vary the heights and textures. It looks like a considered, curated display, but costs almost nothing. Pair your new planters with easy-care greenery from our guide to the [best houseplants for your living room](/blog/best-houseplants-for-living-room/).
 </section>
 
 <section class="article-section" id="woven-hanging">
@@ -363,7 +363,7 @@ Succulents are the perfect beginner plant — nearly impossible to kill, beautif
 
 **Cost:** $8–15 | **Time:** 60–90 minutes
 
-Woven wall hangings are statement pieces. The ones in shops cost $50–150. A beginner version made at home costs under $15 and looks genuinely beautiful.
+Woven wall hangings are statement pieces. The ones in shops cost $50 to $150. A beginner version made at home costs under $15 and looks genuinely beautiful.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -393,7 +393,7 @@ Woven wall hangings are statement pieces. The ones in shops cost $50–150. A be
 
 **Cost:** $5–10 | **Time:** 20 minutes
 
-A plain cork board is functional but uninspiring. With a little effort it becomes a stylish feature wall piece — perfect for a home office, kitchen, or bedroom.
+A plain cork board is functional but uninspiring. With a little effort it becomes a stylish feature wall piece, perfect for a home office, kitchen, or bedroom.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -420,13 +420,13 @@ A plain cork board is functional but uninspiring. With a little effort it become
 - Use washi tape to create sections
 - Pin a small calendar and a few favourite quotes
 
-The goal isn't to cover every inch — negative space makes the board look styled rather than cluttered.
+The goal isn't to cover every inch. Negative space makes the board look styled rather than cluttered.
 
 ---
 
-Ten projects, ten chances to make your home more beautiful for less than the cost of a single shop-bought decor piece. Start with whichever one excites you most — there's no wrong order.
+Ten projects, ten chances to make your home more beautiful for less than the cost of a single shop-bought decor piece. Start with whichever one excites you most; there's no wrong order.
 
-The best thing about DIY decor is that it evolves with you. Made a rope basket that's a little lopsided? Make another one. Painted a sign and the letters aren't perfect? Sand it back and try again. Every attempt teaches you something, and the results — imperfections and all — carry something no store-bought piece ever can: the fact that you made it yourself.
+The best thing about DIY decor is that it evolves with you. Made a rope basket that's a little lopsided? Make another one. Painted a sign and the letters aren't perfect? Sand it back and try again. Every attempt teaches you something, and the results (imperfections and all) carry something no store-bought piece ever can: the fact that you made it yourself.
 
 If you're decorating on a total room budget rather than project by project, see our guide to [small living room ideas for renters under $200](/blog/small-living-room-ideas-renters-under-200/).
 </section>

@@ -466,7 +466,7 @@ If your bedroom feels cold or unfinished right now, this combination is one of t
 
 Start small if you are not sure. A terracotta cushion, cream linen bedding, and a warmer bulb in the bedside lamp will shift the whole room. Once that feels right, add texture and wood at your own pace.
 
-A bedroom that has been decorated is not the same as one that feels settled. White and terracotta gets you there by doing something simple, giving you brightness and warmth in the same room, without asking you to choose.
+A bedroom that has been decorated is not the same as one that feels settled. White and terracotta gets you there in a simple way: it brings brightness and warmth into the same room without forcing you to choose between them.
 
 For more small bedroom styling tricks that pair well with this palette, see our guide to [room decoration ideas for small spaces](/blog/room-decoration-ideas-small-spaces/).
 

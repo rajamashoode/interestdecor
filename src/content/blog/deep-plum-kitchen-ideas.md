@@ -41,11 +41,11 @@ toc:
     href: "#mistakes"
 ---
 
-In 2026, the era of all-white kitchens is officially over. The new color reigning over kitchen design is rich, dramatic, and impossible to ignore: deep plum. Searches for "dark plum" have risen 220% on Pinterest and "deep burgundy" searches climbed 230%. Pinterest named Plum Noir one of the top five colors of 2026, and Little Greene named a regal aubergine its Color of the Year.
+In 2026, the era of all-white kitchens is officially over. The color taking over kitchen design is rich, dramatic, and impossible to ignore: deep plum. Searches for "dark plum" and "deep burgundy" have climbed noticeably on Pinterest this year, and Little Greene named a regal aubergine its Color of the Year.
 
-Deep plum kitchens feel like the design statement of the year. Moody without being depressing. Bold without being garish. Expensive without trying too hard. Aubergine and plum tones carry an understated opulence and create an immediate sense of atmosphere — exactly what 2026 kitchens are reaching for.
+Deep plum kitchens feel like the design statement of the year. Moody without being depressing. Bold without being garish. Expensive without trying too hard. Aubergine and plum tones carry an understated opulence and create an immediate sense of atmosphere, exactly what 2026 kitchens are reaching for.
 
-Here are 12 ways to design a deep plum kitchen that feels warm, sophisticated, and timelessly beautiful — whether you're considering a full renovation or just dreaming of a refresh.
+Here are 12 ways to design a deep plum kitchen that feels warm, sophisticated, and timelessly beautiful, whether you're considering a full renovation or just dreaming of a refresh.
 
 <section class="article-section" id="why-plum">
 <span class="article-kicker">The Color of 2026</span>
@@ -73,7 +73,7 @@ Here is why deep plum has become the defining kitchen color of 2026:
 
 **It photographs beautifully.** In an Instagram-and-Pinterest-driven design world, deep plum kitchens are visual magnets. They photograph like a dream in both daylight and candlelight.
 
-**The trend has staying power.** Aubergine and plum tones are positioned to dominate kitchen design through 2027 and beyond. This is not a flash trend — it is a fundamental shift in kitchen color philosophy.
+**The trend has staying power.** Aubergine and plum tones look likely to stay relevant well past 2026. This isn't a flash trend. It's a real shift in how people are thinking about kitchen color.
 </section>
 
 <section class="article-section" id="paint-shades">
@@ -92,29 +92,29 @@ Not all deep plums are equal. The right shade depends on natural light, kitchen 
 
 **Lighter plum shades (for smaller or darker kitchens):**
 
-**Farrow and Ball Brinjal** — A rich aubergine with red undertones. Surprisingly versatile and works in many light conditions.
+**Farrow and Ball Brinjal**: a rich aubergine with red undertones. Surprisingly versatile and works in many light conditions.
 
-**Little Greene Adventurer** — A vibrant warm plum with depth. Their 2026 Color of the Year choice for good reason.
+**Little Greene Adventurer**: a vibrant warm plum with depth. Their 2026 Color of the Year pick, and it's easy to see why.
 
-**Benjamin Moore Caponata** — A deep berry-plum with sophisticated warmth. Excellent for lower cabinets only.
+**Benjamin Moore Caponata**: a deep berry-plum with sophisticated warmth. Excellent for lower cabinets only.
 
 **Medium plum shades (the most popular):**
 
-**Farrow and Ball Pelt** — A deep purple with burgundy undertones. The most photographed plum in 2026 kitchens.
+**Farrow and Ball Pelt**: a deep purple with burgundy undertones. One of the most photographed plums in 2026 kitchens.
 
-**Sherwin Williams Naval-Adjacent Plum (custom blends)** — Deep blue-purple plums that read sophisticated and grounded.
+**Sherwin Williams Naval-Adjacent Plum (custom blends)**: deep blue-purple plums that read sophisticated and grounded.
 
-**Plum Noir (#351E28)** — Pinterest's 2026 trending shade. Deep purple with burgundy and brown undertones. Genuinely moody.
+**Plum Noir (#351E28)**: a trending shade on Pinterest this year. Deep purple with burgundy and brown undertones. Genuinely moody.
 
 **Deep plum shades (for dramatic full immersion):**
 
-**Farrow and Ball Preference Red** — Despite its name, this reads as a deep wine-plum and is stunning on cabinets.
+**Farrow and Ball Preference Red**: despite its name, this reads as a deep wine-plum and looks great on cabinets.
 
-**Graham and Brown Dark Cherry Plum** — A dramatic deep plum with cherry undertones. Almost regal.
+**Graham and Brown Dark Cherry Plum**: a dramatic deep plum with cherry undertones. Almost regal.
 
-**Behr Black Garnet** — A nearly-black plum with rich purple depth. For maximum drama.
+**Behr Black Garnet**: a nearly-black plum with rich purple depth. For maximum drama.
 
-**Pro tip:** Always sample paint colors on cabinet doors (or large card swatches) in your actual kitchen lighting before committing. Deep plums shift dramatically with light — what looks burgundy in morning light can read almost navy in evening light.
+**Pro tip:** Always sample paint colors on cabinet doors (or large card swatches) in your actual kitchen lighting before committing. Deep plums shift dramatically with light: what looks burgundy in morning light can read almost navy in evening light.
 </section>
 
 <section class="article-section" id="cabinets">
@@ -145,7 +145,7 @@ Best for: Most kitchens, first-time bold color choices, smaller kitchens, anyone
 
 **Plum on the island only:**
 
-A statement island in deep plum surrounded by neutral cabinets is a sophisticated middle ground. The island becomes the kitchen's focal point — beautifully framed by lighter cabinetry.
+A statement island in deep plum surrounded by neutral cabinets is a sophisticated middle ground. The island becomes the kitchen's focal point, beautifully framed by lighter cabinetry.
 
 Best for: Larger kitchens with islands, renters considering an island upgrade only, homeowners testing the color before committing further.
 
@@ -176,7 +176,7 @@ The warm gold of aged brass against the rich purple of deep plum creates a contr
 
 **Drawer pulls and cabinet knobs:** The starting point. Aged brass round knobs or slim bar pulls in brass on deep plum cabinets is the formula. Every cabinet gets brass hardware.
 
-**Faucets and tap:** A bridge-style or gooseneck tap in unlacquered brass that develops patina over time. Avoid polished brass which can look new and shiny — aged brass with patina is the right finish.
+**Faucets and tap:** A bridge-style or gooseneck tap in unlacquered brass that develops patina over time. Avoid polished brass which can look new and shiny; aged brass with patina is the right finish.
 
 **Pendant lights:** Two or three matching pendants over an island in aged brass with cream or unlined fabric shades. The brass catches both natural and warm artificial light beautifully.
 
@@ -205,15 +205,15 @@ After brass, walnut is the second essential pairing for deep plum kitchens. The 
 
 **How to bring walnut into a plum kitchen:**
 
-**Walnut island top:** A solid walnut butcher block top on a deep plum island is breathtaking. The two materials share an inherent richness that elevates the entire kitchen.
+**Walnut island top:** A solid walnut butcher block top on a deep plum island looks incredible. The two materials share an inherent richness that lifts the whole kitchen.
 
-**Walnut floating shelves:** Two or three walnut floating shelves on a wall above plum cabinets — beautifully styled with neutral ceramics and a small plant.
+**Walnut floating shelves:** Two or three walnut floating shelves on a wall above plum cabinets, styled with neutral ceramics and a small plant.
 
 **Walnut bar stools:** At a plum island, three walnut bar stools with natural leather seats create a complete designer moment.
 
 **Walnut accent wall or paneling:** A vertical walnut slat wall or paneled section in the kitchen breaks up the plum and adds organic warmth.
 
-**Walnut flooring:** If renovating, walnut floors with plum cabinets is a stunning combination — though this is the most expensive approach.
+**Walnut flooring:** If renovating, walnut floors with plum cabinets makes for a striking combination, though this is the most expensive approach.
 
 **Other warm wood options if walnut is unavailable:**
 - Honed teak (similar warmth, slightly lighter)
@@ -236,7 +236,7 @@ After brass, walnut is the second essential pairing for deep plum kitchens. The 
   <figcaption>Cream uppers with deep plum lowers — the most photographed kitchen formula on Pinterest for 2026.</figcaption>
 </figure>
 
-For homeowners who love deep plum but want a brighter overall kitchen, the plum + cream formula is the answer. Deep plum lower cabinets paired with cream upper cabinets creates a beautiful balance — grounded at the bottom, light at the top.
+For homeowners who love deep plum but want a brighter overall kitchen, the plum + cream formula is the answer. Deep plum lower cabinets paired with cream upper cabinets creates a beautiful balance: grounded at the bottom, light at the top.
 
 **How to execute plum and cream perfectly:**
 
@@ -244,13 +244,13 @@ For homeowners who love deep plum but want a brighter overall kitchen, the plum 
 
 **Cream walls everywhere:** All walls in a warm cream-white. The plum cabinets are the only deep color in the room. This makes the plum sing.
 
-**Cream and plum island:** A two-tone island — cream base with plum top, or plum base with cream waterfall counter. Two-tone islands are a major 2026 trend.
+**Cream and plum island:** A two-tone island, cream base with plum top, or plum base with cream waterfall counter. Two-tone islands have become a popular choice in 2026 kitchens.
 
 **Cream textiles:** Cream linen kitchen towels, cream curtains if any, cream ceramic accessories. All textiles in cream prevent the room from feeling too dark.
 
 **Warm white versus stark white:** Critical choice. Use WARM cream not bright white. Warm whites like Farrow and Ball Pointing or Benjamin Moore White Dove embrace plum. Stark bright whites fight with plum's warmth and make the room feel cold.
 
-**Ceiling color:** Paint the ceiling the same warm cream as the walls. Never paint a ceiling stark white in a plum kitchen — the contrast will feel harsh.
+**Ceiling color:** Paint the ceiling the same warm cream as the walls. Never paint a ceiling stark white in a plum kitchen; the contrast will feel harsh.
 </section>
 
 <section class="article-section" id="sage-combo">
@@ -267,7 +267,7 @@ For homeowners who love deep plum but want a brighter overall kitchen, the plum 
 
 A surprising 2026 combination that designers are quietly embracing: deep plum and sage green. The cool muted sage green and the deep warm plum create an unexpected harmony that feels both bold and balanced.
 
-For more on sage green see our complete guide to <a href="/blog/sage-green-bedroom-ideas/">Sage Green Bedroom Ideas</a> — sage is the calming counterpart to plum's drama.
+For more on sage green see our complete guide to <a href="/blog/sage-green-bedroom-ideas/">Sage Green Bedroom Ideas</a>. Sage is the calming counterpart to plum's drama.
 
 **How to combine plum and sage in a kitchen:**
 
@@ -275,7 +275,7 @@ For more on sage green see our complete guide to <a href="/blog/sage-green-bedro
 
 **Lower cabinets in sage, upper cabinets in plum:** The reverse approach. Sage grounded at lower level, plum dramatic above. Less common but striking.
 
-**Single sage accent on plum kitchen:** Mostly plum kitchen with one sage element — a single sage chair, sage curtains, sage ceramic pieces — sage as the supporting accent.
+**Single sage accent on plum kitchen:** Mostly plum kitchen with one sage element (a single sage chair, sage curtains, sage ceramic pieces) with sage as the supporting accent.
 
 **The shared element:** Both plum and sage pair beautifully with aged brass and walnut. The brass and wood bridge the two colors making the combination feel intentional.
 
@@ -298,9 +298,9 @@ Counter material has massive impact on how deep plum cabinets read. Get this wro
 
 **Best countertop options for plum kitchens:**
 
-**Honed Calacatta marble (or marble-look quartz):** The gold standard. Beautiful warm grey veining on white background pairs beautifully with deep plum. Recommended by designers as "wonderfully elevated."
+**Honed Calacatta marble (or marble-look quartz):** The gold standard. Beautiful warm grey veining on white background pairs beautifully with deep plum.
 
-**Calacatta Rosato marble:** A pink-veined marble that brings out the warmth in plum. Aubergine cabinetry combined with Honed Calacatta Rosato marble delivers a wonderfully elevated aesthetic.
+**Calacatta Rosato marble:** A pink-veined marble that brings out the warmth in plum. Aubergine cabinetry combined with honed Calacatta Rosato marble looks genuinely sophisticated.
 
 **White quartz with grey veining:** A more durable alternative to marble at lower cost. Similar visual impact.
 
@@ -313,8 +313,8 @@ Counter material has massive impact on how deep plum cabinets read. Get this wro
 **Countertops to avoid:**
 
 **Stark white quartz:** Too cold against plum's warmth.
-**Black granite:** Too dark — plum needs lighter counter contrast.
-**Beige granite:** Wrong undertone — fights plum's depth.
+**Black granite:** Too dark; plum needs lighter counter contrast.
+**Beige granite:** Wrong undertone; fights plum's depth.
 **High-shine polished marble:** Plum kitchens look better with honed (matte) finish stone.
 
 **Edge profile:** Choose a simple eased edge or honed mitred edge for modern looks. Avoid bullnose edges which feel dated against plum's contemporary sophistication.
@@ -336,13 +336,13 @@ The backsplash in a plum kitchen is a real opportunity. Because plum cabinets ar
 
 **Best backsplash options for plum kitchens:**
 
-**Marble slab backsplash:** A continuous slab of white or Rosato marble running from counter to upper cabinets — or all the way to the ceiling. This is the most luxurious option and creates a stunning feature wall.
+**Marble slab backsplash:** A continuous slab of white or Rosato marble running from counter to upper cabinets, or all the way to the ceiling. This is the most luxurious option and creates a genuine feature wall.
 
 **Honed white zellige tiles:** Handmade Moroccan tiles in warm white with a matte honed finish. The subtle surface variation adds beautiful texture that catches light differently on each tile. Works beautifully with plum's depth.
 
 **Vertical white subway tiles:** Traditional subway tiles laid vertically (stack bond rather than horizontal brick) with warm cream grout. Adds height to the kitchen and modernises the classic tile.
 
-**Plum tile backsplash:** For maximum drama — a backsplash in the same plum tone as the cabinets creates a fully immersive moody kitchen. Use only in kitchens with abundant natural light.
+**Plum tile backsplash:** For maximum drama, a backsplash in the same plum tone as the cabinets creates a fully immersive moody kitchen. Use only in kitchens with abundant natural light.
 
 **Mirror or polished surface backsplash:** A mirror or polished stainless backsplash strip behind the cooking area reflects light back into the kitchen and prevents the room from feeling too dark.
 
@@ -352,7 +352,7 @@ The backsplash in a plum kitchen is a real opportunity. Because plum cabinets ar
 
 **Busy patterned tiles:** Compete with plum cabinets visually.
 **Bright colored tiles:** Pull attention away from plum's beauty.
-**Plain white tiles with white grout:** Too plain — needs warm grout or pattern interest.
+**Plain white tiles with white grout:** Too plain; needs warm grout or pattern interest.
 </section>
 
 <section class="article-section" id="lighting">
@@ -367,7 +367,7 @@ The backsplash in a plum kitchen is a real opportunity. Because plum cabinets ar
   <figcaption>Layered warm lighting transforms deep plum from beautiful in daylight to magical at night.</figcaption>
 </figure>
 
-Lighting is what brings a deep plum kitchen to life. The wrong lighting makes plum look flat and dingy — the right lighting makes it glow with the warm sophistication it deserves.
+Lighting is what brings a deep plum kitchen to life. The wrong lighting makes plum look flat and dingy. The right lighting makes it glow with the warm sophistication it deserves.
 
 **The three lighting layers every plum kitchen needs:**
 
@@ -418,7 +418,7 @@ For more small kitchen ideas see our <a href="/blog/small-kitchen-ideas-2026/">S
 
 **Clear counters:** Edit ruthlessly. Counter clutter overwhelms a small plum kitchen.
 
-**One statement, one accent:** In a small plum kitchen the plum cabinets are the statement. Add one accent — brass hardware OR walnut shelves — not both. Less is more in compact spaces.
+**One statement, one accent:** In a small plum kitchen the plum cabinets are the statement. Add one accent, brass hardware or walnut shelves, not both. Less is more in compact spaces.
 </section>
 
 <section class="article-section" id="mistakes">
@@ -433,7 +433,7 @@ For more small kitchen ideas see our <a href="/blog/small-kitchen-ideas-2026/">S
   <figcaption>Avoid these common deep plum kitchen mistakes for a result that feels intentional and timelessly beautiful.</figcaption>
 </figure>
 
-Final guidance — the most common mistakes that make deep plum kitchens look wrong rather than beautiful:
+Final guidance: the most common mistakes that make deep plum kitchens look wrong rather than beautiful.
 
 **Mistake 1: Cool white bulbs.** The single most overlooked mistake. Cool LED light makes plum look dingy and flat. Always use warm 2700-3000K bulbs.
 
@@ -457,9 +457,9 @@ Final guidance — the most common mistakes that make deep plum kitchens look wr
 
 ---
 
-A deep plum kitchen in 2026 is a confident design statement. The choice to commit to atmospheric color over safe neutrals. The choice to create a space with genuine personality and presence. The choice to embrace warmth, depth, and quiet luxury.
+A deep plum kitchen in 2026 is a confident design statement. It's choosing atmospheric color over safe neutrals, personality over blending in, and warmth and depth over playing it safe.
 
-Start with one element. A plum island. Plum lower cabinets only. A plum accent on a butler's pantry. See how it transforms the space. Then commit further or stay exactly there. Either way, you've already created something genuinely beautiful — and timelessly current.
+Start with one element. A plum island. Plum lower cabinets only. A plum accent on a butler's pantry. See how it transforms the space. Then commit further or stay exactly there. Either way, you've already created something genuinely beautiful and timelessly current.
 
 For more 2026 kitchen inspiration see our <a href="/blog/small-kitchen-ideas-2026/">Small Kitchen Ideas 2026</a> guide and <a href="/blog/sage-green-bedroom-ideas/">Sage Green Bedroom Ideas</a> for the perfect calming counterpart room.
 </section>

@@ -194,7 +194,7 @@ This pairing principle applies regardless of which direction your kitchen faces,
   <figcaption>Hardware finish is one of the cheapest ways to shift the entire feel of a navy kitchen.</figcaption>
 </figure>
 
-Cabinet hardware is a small physical object with an outsized effect on how expensive or dated a navy kitchen reads.
+Cabinet hardware is a small physical object, but it changes how expensive or dated a navy kitchen reads more than its size would suggest.
 
 **Brass and warm gold remain the classic pairing.** This combination has stayed popular because the warmth of brass directly counters navy's coolness, which is especially valuable in the north-facing scenario covered earlier in this guide.
 
@@ -279,7 +279,7 @@ Deciding how much of the kitchen to commit to navy is often the biggest practica
 
 **A navy island against white or cream perimeter cabinets is the lowest-risk entry point.** This approach delivers most of navy's visual drama while keeping the rest of the room bright, and it is far less expensive than repainting or replacing every cabinet in the kitchen.
 
-**Full navy cabinetry creates the most dramatic, cohesive look.** For those ready to fully commit, navy across every cabinet reads as the most intentional and design-forward choice, particularly in a bright south-facing room that can support the darker overall palette.
+**Full navy cabinetry creates the most dramatic, cohesive look.** For those ready to fully commit, navy across every cabinet reads as the most intentional, considered choice, particularly in a bright south-facing room that can support the darker overall palette.
 
 **Upper cabinets in a lighter color with navy lowers is a popular middle ground.** This keeps the upper portion of the room feeling open while still delivering navy's dramatic effect at counter height where it is most visible.
 

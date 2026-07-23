@@ -25,16 +25,16 @@ toc:
   - { label: "Care & Display Tips", href: "#care" }
 ---
 
-There's something quietly magical about dried flowers. Unlike fresh bouquets that demand water, warmth, and constant attention before wilting in a week, dried flowers simply exist — beautifully, effortlessly, for years.
+There's something quietly magical about dried flowers. Unlike fresh bouquets that demand water, warmth, and constant attention before wilting in a week, dried flowers simply exist: beautifully, effortlessly, for years.
 
-If you've been scrolling Pinterest and wondering how people create those gorgeous, earthy arrangements with pampas grass, preserved roses, and wheat stems, you're in the right place. This guide walks you through everything — from picking the right flowers to arranging them like a pro — even if you've never done anything like this before.
+If you've been scrolling Pinterest and wondering how people create those gorgeous, earthy arrangements with pampas grass, preserved roses, and wheat stems, you're in the right place. This guide walks you through everything, from picking the right flowers to arranging them like a pro, even if you've never done anything like this before.
 
 <section class="article-section" id="why-dried">
 <span class="article-kicker">The Case For</span>
 
 ## Why Dried Flowers Are Worth Making
 
-Before we get into the how, let's talk about why dried flower arrangements deserve a place in your home.
+Before getting into the how, it's worth talking about why dried flower arrangements deserve a place in your home.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -43,11 +43,11 @@ Before we get into the how, let's talk about why dried flower arrangements deser
   <figcaption>A well-made dried arrangement can look beautiful for 2–3 years with minimal care.</figcaption>
 </figure>
 
-**They last for years.** A well-dried arrangement can look beautiful for 2–3 years. That's hundreds of times the lifespan of a fresh bouquet.
+**They last for years.** A well-dried arrangement can look beautiful for two to three years. That's dramatically longer than the lifespan of a fresh bouquet.
 
 **Zero maintenance.** No watering, no wilting, no mess. Just beauty.
 
-**Budget friendly.** You can dry flowers from your garden, a farmers market, or even a grocery store bouquet — for next to nothing.
+**Budget friendly.** You can dry flowers from your garden, a farmers market, or even a grocery store bouquet, for next to nothing.
 
 **Endlessly customisable.** Mix textures, colours, and shapes however you like. No two arrangements are ever the same.
 
@@ -70,21 +70,21 @@ Not all flowers dry equally well. Some shrivel into nothing. Others turn an ugly
   <figcaption>Left to right: lavender, strawflowers, roses, and pampas grass — all excellent for drying.</figcaption>
 </figure>
 
-**Lavender** — Dries perfectly every time. Holds its purple colour and fragrance for months. A beginner's best friend.
+**Lavender**: dries perfectly every time. Holds its purple colour and fragrance for months. A beginner's best friend.
 
-**Roses** — Classic choice. Dry them just before peak bloom for the best results. Deep red roses fade to a beautiful dusty burgundy.
+**Roses**: a classic choice. Dry them just before peak bloom for the best results. Deep red roses fade to a beautiful dusty burgundy.
 
-**Strawflowers (Helichrysum)** — These were practically made for drying. Paper-like petals that hold shape and colour brilliantly.
+**Strawflowers (Helichrysum)**: these were practically made for drying. Paper-like petals that hold shape and colour well.
 
-**Statice** — Tiny purple and white clusters that add texture. Dries naturally without any effort.
+**Statice**: tiny purple and white clusters that add texture. Dries naturally without any effort.
 
-**Baby's Breath (Gypsophila)** — Delicate white clouds that add softness to any arrangement.
+**Baby's Breath (Gypsophila)**: delicate white clouds that add softness to any arrangement.
 
-**Pampas Grass** — The statement piece. Dramatic, fluffy plumes that add height and movement.
+**Pampas Grass**: the statement piece. Dramatic, fluffy plumes that add height and movement.
 
-**Wheat & Grasses** — Earthy, neutral, and incredibly versatile. Available from farmers markets or craft stores.
+**Wheat & Grasses**: earthy, neutral, and versatile. Available from farmers markets or craft stores.
 
-**Hydrangeas** — Take a bit more care but dry beautifully into muted, dusty versions of their original colours.
+**Hydrangeas**: take a bit more care but dry into muted, dusty versions of their original colours.
 
 **What to avoid:** Succulents, tulips, orchids, and anything with very fleshy petals or thick stems. They tend to rot rather than dry.
 </section>
@@ -128,7 +128,7 @@ There are three main ways to dry flowers at home. Each has different strengths d
 
 ### Method 3: Silica Gel — Best Colour Preservation
 
-**Best for:** Roses, peonies, dahlias — any flower you want to preserve as close to fresh as possible
+**Best for:** Roses, peonies, dahlias, any flower you want to preserve as close to fresh as possible
 
 1. Pour a layer of silica gel crystals into an airtight container
 2. Place flowers face-up in the crystals
@@ -136,7 +136,7 @@ There are three main ways to dry flowers at home. Each has different strengths d
 4. Seal the container and leave for 2–7 days
 5. Carefully remove and brush off excess crystals with a soft brush
 
-**Silica gel** is available from craft stores and online for about $8–12. It's reusable — just dry it in the oven and use again.
+**Silica gel** is available from craft stores and online for about $8 to $12. It's reusable; just dry it in the oven and use again.
 
 **Colour results:** Silica gel preserves colour far better than air drying. Roses come out looking almost fresh.
 </section>
@@ -150,7 +150,7 @@ Getting the timing right makes a big difference in the final result.
 
 **When to pick/buy:**
 - Pick flowers from the garden in the morning after dew has dried but before the heat of the day
-- For shop-bought flowers, use them a day or two after purchase — not past their prime, not too fresh
+- For shop-bought flowers, use them a day or two after purchase, not past their prime, not too fresh
 - Pick roses when the bud has just started to open (not fully open)
 
 **Drying times at a glance:**
@@ -183,7 +183,7 @@ Once your flowers are dried, the arranging begins. A few simple principles make 
   <figcaption>Three layers: tall statement stems at the back, mid-height filler, and low accent flowers at the front.</figcaption>
 </figure>
 
-**Colour palette:** Stick to 3–4 colours maximum. For a classic, neutral look try: cream, dusty pink, sage green, and wheat tones. For bolder arrangements: terracotta, burgundy, mustard, and dark green. For a bedroom that pairs beautifully with this warm palette, see our [white and terracotta bedroom ideas](/blog/white-terracotta-bedroom-ideas/).
+**Colour palette:** Stick to three or four colours maximum. For a classic, neutral look try: cream, dusty pink, sage green, and wheat tones. For bolder arrangements: terracotta, burgundy, mustard, and dark green. For a bedroom that pairs beautifully with this warm palette, see our [white and terracotta bedroom ideas](/blog/white-terracotta-bedroom-ideas/).
 
 **Three layers of height:**
 - **Back/tall:** Pampas grass, wheat, tall dried grasses
@@ -226,10 +226,10 @@ Here's how to put together a classic, Pinterest-worthy dried flower arrangement 
 If stems feel loose, fill the vase 1/3 full with dry sand or use a ball of chicken wire to hold stems in place. For narrow-necked vases, you often don't need anything extra.
 
 **Step 2 — Add your tallest stems first**
-Place 3 pampas grass or grass stems at the back and sides. These create the shape and silhouette of your arrangement. Vary heights slightly — not all exactly the same length.
+Place 3 pampas grass or grass stems at the back and sides. These create the shape and silhouette of your arrangement. Vary heights slightly; not all exactly the same length.
 
 **Step 3 — Add your focal flowers**
-Cut rose stems at an angle and place them in the centre and slightly forward. These are your statement pieces. Aim for an asymmetric cluster — not all in a straight line.
+Cut rose stems at an angle and place them in the centre and slightly forward. These are your statement pieces. Aim for an asymmetric cluster; not all in a straight line.
 
 **Step 4 — Fill with medium flowers**
 Add lavender or statice around the roses, tucking stems in between. These filler flowers tie everything together.
@@ -258,15 +258,15 @@ The container is part of the design. Here's what works beautifully with dried fl
   <figcaption>Terracotta, glass, rattan, and ceramic all work beautifully with dried florals.</figcaption>
 </figure>
 
-**Terracotta pots** — Earthy and warm. Perfect for boho and cottagecore styles. The texture complements dried flowers naturally. If you enjoy handmade containers, our guide to [air dry clay home decor](/blog/air-dry-clay-home-decor/) shows how to make your own small vases for arrangements like these.
+**Terracotta pots**: earthy and warm. Perfect for boho and cottagecore styles. The texture complements dried flowers naturally. If you enjoy handmade containers, our guide to [air dry clay home decor](/blog/air-dry-clay-home-decor/) shows how to make your own small vases for arrangements like these.
 
-**Glass vases** — Simple and clean. A wide-mouthed glass vase lets stems spread naturally for an effortless look.
+**Glass vases**: simple and clean. A wide-mouthed glass vase lets stems spread naturally for an effortless look.
 
-**Ceramic vases** — Matte white or cream ceramics look incredibly elegant with dried flowers. A classic combination.
+**Ceramic vases**: matte white or cream ceramics look elegant with dried flowers. A classic combination.
 
-**Rattan or woven baskets** — Adds another layer of natural texture. Especially beautiful with pampas grass and wheat.
+**Rattan or woven baskets**: adds another layer of natural texture. Especially good with pampas grass and wheat.
 
-**Vintage bottles** — An old wine bottle or medicine bottle makes a beautiful single-stem display. Simple and striking.
+**Vintage bottles**: an old wine bottle or medicine bottle makes a beautiful single-stem display. Simple and striking.
 
 **Tip:** Charity shops and thrift stores are goldmines for interesting vases and containers at a fraction of retail price.
 </section>
@@ -285,7 +285,7 @@ Dried flowers are low maintenance, but a few simple habits will keep them lookin
   <figcaption>Keep arrangements out of direct sunlight to preserve colour for longer.</figcaption>
 </figure>
 
-**Keep away from direct sunlight.** UV light fades colours quickly. A bright room is fine — but avoid a windowsill where sun hits the flowers directly.
+**Keep away from direct sunlight.** UV light fades colours quickly. A bright room is fine, but avoid a windowsill where sun hits the flowers directly.
 
 **Avoid humidity.** Bathrooms and kitchens with steam are not ideal spots. Moisture can cause dried flowers to reabsorb water and become limp or mouldy.
 
@@ -297,13 +297,13 @@ Dried flowers are low maintenance, but a few simple habits will keep them lookin
 
 **Spray with hairspray (optional).** A very light mist of hairspray helps preserve delicate flowers like baby's breath and pampas grass, preventing shedding.
 
-**Lifespan:** With proper care, most dried flower arrangements last 1–3 years. Lavender and grasses tend to last longest. Roses and hydrangeas may start to fade after 12–18 months.
+**Lifespan:** With proper care, most dried flower arrangements last one to three years. Lavender and grasses tend to last longest. Roses and hydrangeas may start to fade after twelve to eighteen months.
 
 ---
 
 Dried flower arranging is one of those crafts that looks impressive but is genuinely accessible for complete beginners. The materials are affordable, the process is meditative, and the results are lasting.
 
-Start with something simple — a handful of lavender tied with twine and placed in a terracotta pot. Then experiment. Layer in roses. Add some pampas grass. See what you love. The best arrangement is the one that feels like you.
+Start with something simple: a handful of lavender tied with twine and placed in a terracotta pot. Then experiment. Layer in roses. Add some pampas grass. See what you love. The best arrangement is the one that feels like you.
 
 Looking for more handmade, budget-friendly decor projects? See our guides to [DIY home decor under $20](/blog/diy-home-decor-under-20-budget-craft-ideas/) and [decorative plate wall ideas](/blog/decorative-plate-wall-ideas/).
 </section>

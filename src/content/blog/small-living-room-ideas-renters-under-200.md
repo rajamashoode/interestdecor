@@ -28,7 +28,7 @@ toc:
 
 Here's the thing nobody tells you about renting: the moment you stop treating your apartment like a temporary situation and start treating it like a real home, everything changes. The way it feels when you walk in. The way it makes you feel at the end of a long day. The way it looks in the background of your video calls.
 
-Renting doesn't mean decorating in a holding pattern — waiting until you own a home to actually care about your space. And it definitely doesn't mean spending a fortune. With the right renter-friendly decorating ideas, you can completely transform a small living room for under $200 without losing a penny of your security deposit.
+Renting doesn't mean decorating in a holding pattern, waiting until you own a home to actually care about your space. And it definitely doesn't mean spending a fortune. With the right renter-friendly decorating ideas, you can completely transform a small living room for under $200 without losing a penny of your security deposit.
 
 This is exactly how to do it.
 
@@ -58,7 +58,7 @@ Here's how to split $200 for maximum impact:
 | **Accessories** | $20 | Candles, small decor |
 | **Total** | **$200** | |
 
-**The golden rule:** Spend the most on things you see and touch every day — textiles and lighting. Spend the least on things in the background.
+**The golden rule:** Spend the most on things you see and touch every day: textiles and lighting. Spend the least on things in the background.
 </section>
 
 <section class="article-section" id="walls">
@@ -66,7 +66,7 @@ Here's how to split $200 for maximum impact:
 
 ## No-Damage Wall Solutions That Look Incredible
 
-Blank white walls are the number one complaint of renters everywhere. The good news: there are more renter-friendly wall solutions in 2026 than ever before — and none of them require drilling a single hole.
+Blank white walls are the number one complaint of renters everywhere. The good news: there are more renter-friendly wall solutions in 2026 than ever before, and none of them require drilling a single hole.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -81,7 +81,7 @@ Removable wallpaper is the single most transformative renter-friendly decorating
 
 **How to use it:**
 - Apply to just one wall (behind sofa or TV) for maximum impact
-- Neutral textures — linen, grasscloth, subtle geometric — work in any rental
+- Neutral textures (linen, grasscloth, subtle geometric) work in any rental
 - Removes cleanly without damaging paint
 - Cost: $30-60 for one accent wall
 
@@ -89,7 +89,7 @@ Removable wallpaper is the single most transformative renter-friendly decorating
 
 ### Command Strips & Damage-Free Hooks
 
-Command strips have come a long way. The newer versions hold up to 7.5kg — more than enough for framed art, mirrors, and wall hangings.
+Command strips have come a long way. The newer versions hold up to 7.5kg, more than enough for framed art, mirrors, and wall hangings.
 
 **What you can hang:**
 - Framed prints and photographs
@@ -130,7 +130,7 @@ The way you arrange furniture in a small apartment living room matters more than
 
 ### The Biggest Mistake Renters Make
 
-Pushing all furniture against the walls. It feels logical in a small space — but it actually makes rooms feel smaller and more awkward.
+Pushing all furniture against the walls. It feels logical in a small space, but it actually makes rooms feel smaller and more awkward.
 
 **Instead:** Float your sofa slightly away from the wall (even 10-15cm makes a difference). This creates visual breathing room and paradoxically makes the room feel larger.
 
@@ -161,7 +161,7 @@ If your living room flows into a kitchen or dining area, use furniture placement
 
 ## Lighting Ideas That Don't Require Rewiring
 
-Rental lighting is almost always terrible. A single overhead bulb that makes everyone look like they're being interrogated. The fix doesn't require an electrician — just a few clever additions.
+Rental lighting is almost always terrible. A single overhead bulb that makes everyone look like they're being interrogated. The fix doesn't require an electrician, just a few clever additions.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -186,7 +186,7 @@ A pack of warm LED bulbs costs $8-12 and takes 5 minutes. Keep the old bulbs and
 
 ### Plug-In Pendant Lights
 
-A plug-in pendant light hangs from a ceiling hook (Command hook, no drilling) and plugs into a wall socket. It looks like a proper light fitting — nobody would know it's renter-friendly. Cost: $25-45 on Amazon.
+A plug-in pendant light hangs from a ceiling hook (Command hook, no drilling) and plugs into a wall socket. It looks like a proper light fitting; nobody would know it's renter-friendly. Cost: $25-45 on Amazon.
 </section>
 
 <section class="article-section" id="storage">
@@ -219,7 +219,7 @@ Clutter is the enemy of a small rental living room. But renters can't always ins
 
 ## Colour & Textiles: The Cheapest Way to Transform a Rental
 
-You can't paint the walls (usually). But you can add colour through textiles — and this is where most of the visual transformation happens.
+You can't paint the walls (usually). But you can add colour through textiles, and this is where most of the visual transformation happens.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -230,7 +230,7 @@ You can't paint the walls (usually). But you can add colour through textiles —
 
 ### Pick a Colour Palette First
 
-For a small rental living room, warm neutrals work best — they make spaces feel larger, calmer, and more cohesive. Try:
+For a small rental living room, warm neutrals work best: they make spaces feel larger, calmer, and more cohesive. Try:
 
 - **Base:** Cream, oat, or warm white (your existing walls)
 - **Main colour:** Dusty rose, sage green, or warm terracotta
@@ -240,15 +240,15 @@ Stick to three colours maximum. More than three starts looking chaotic in a smal
 
 ### Textiles That Instantly Transform a Room
 
-**Throw cushions:** The fastest way to change the look of a rental sofa you don't love. Choose 4-5 cushions in your colour palette — mix sizes and textures (linen, velvet, boucle). Cost: $8-20 each.
+**Throw cushions:** The fastest way to change the look of a rental sofa you don't love. Choose 4-5 cushions in your colour palette, mixing sizes and textures (linen, velvet, boucle). Cost: $8-20 each.
 
 **Chunky throw blanket:** Draped casually over one arm of the sofa, it adds texture and warmth. Also useful for actually keeping warm. Cost: $20-35.
 
-**Curtains:** Rental curtains are almost always bad. Buy a set of linen-look curtains from IKEA ($15-25) and use tension rods or Command hooks to hang them. Hang them HIGH (near the ceiling) and WIDE (beyond the window frame) — this makes windows look larger and ceilings taller.
+**Curtains:** Rental curtains are almost always bad. Buy a set of linen-look curtains from IKEA ($15-25) and use tension rods or Command hooks to hang them. Hang them HIGH (near the ceiling) and WIDE (beyond the window frame); this makes windows look larger and ceilings taller.
 
 ### The Sofa Cover Hack
 
-If your rental came furnished with a sofa you hate, or you bought a second-hand sofa that's seen better days — a sofa cover is your best friend. Stretchy fitted covers cost $30-50 and transform the look completely. Look for ones in linen or cotton for the most realistic look.
+If your rental came furnished with a sofa you hate, or you bought a second-hand sofa that's seen better days, a sofa cover is your best friend. Stretchy fitted covers cost $30-50 and transform the look completely. Look for ones in linen or cotton for the most realistic look.
 </section>
 
 <section class="article-section" id="sources">
@@ -293,20 +293,20 @@ With a $200 budget, knowing what to make yourself and what to buy saves signific
 </figure>
 
 ### Always Buy (Not Worth DIYing):
-- **Rugs** — quality matters, DIY rugs rarely look good
-- **Curtains** — too time-consuming to make, cheap ones are fine
-- **Floor lamps** — electrical safety and cost make buying smarter
-- **Storage ottomans** — complex to make well
+- **Rugs**: quality matters, DIY rugs rarely look good
+- **Curtains**: too time-consuming to make, cheap ones are fine
+- **Floor lamps**: electrical safety and cost make buying smarter
+- **Storage ottomans**: complex to make well
 
 ### DIY Instead (Easy & Saves Money):
-- **Wall art** — print free art from Pinterest, frame from dollar store ($3 vs $40)
-- **Cushion covers** — basic sewing or no-sew hem tape; fabric from charity shops
-- **Rope baskets** — as covered in our [DIY home decor guide](/blog/diy-home-decor-under-20-budget-craft-ideas/) (under $10 vs $30 retail)
-- **Plant pots** — paint cheap terracotta pots to match your palette
-- **Candle holders** — mason jars wrapped in twine (free from recycling)
+- **Wall art**: print free art from Pinterest, frame from dollar store ($3 vs $40)
+- **Cushion covers**: basic sewing or no-sew hem tape; fabric from charity shops
+- **Rope baskets**: as covered in our [DIY home decor guide](/blog/diy-home-decor-under-20-budget-craft-ideas/) (under $10 vs $30 retail)
+- **Plant pots**: paint cheap terracotta pots to match your palette
+- **Candle holders**: mason jars wrapped in twine (free from recycling)
 
 ### The Best DIY for Renters Specifically:
-**Printed gallery wall:** Download free printable art from Pinterest or Unsplash. Print at a local print shop (A4 size costs about $0.50 each). Frame from dollar stores or IKEA ($1-3 each). Use Command strips to hang. A gallery wall of 6-8 pieces costs under $15 total — versus $100-200 for retail art.
+**Printed gallery wall:** Download free printable art from Pinterest or Unsplash. Print at a local print shop (A4 size costs about $0.50 each). Frame from dollar stores or IKEA ($1-3 each). Use Command strips to hang. A gallery wall of 6-8 pieces costs under $15 total, versus $100-200 for retail art.
 </section>
 
 <section class="article-section" id="checklist">
@@ -337,13 +337,13 @@ Use this checklist to track your small living room makeover from start to finish
 - [ ] Add a ladder shelf for display and storage
 
 ### Week 3 — Finishing Touches ($30 budget):
-- [ ] Add 2-3 plants (succulents, pothos, or snake plants — all very low maintenance)
+- [ ] Add 2-3 plants (succulents, pothos, or snake plants, all very low maintenance)
 - [ ] Style your shelves (books, plants, candles, small objects)
 - [ ] Add candles and a diffuser for scent (transforms the feeling of a space)
 - [ ] Hang new curtains HIGH and WIDE if needed
 
 ### Before You Spend Anything — The Free Steps:
-- [ ] Declutter ruthlessly — remove everything that doesn't belong
+- [ ] Declutter ruthlessly: remove everything that doesn't belong
 - [ ] Deep clean (a clean room looks 10x better instantly)
 - [ ] Rearrange furniture (try floating the sofa away from the wall)
 - [ ] Move lamps from other rooms into the living room
@@ -351,7 +351,7 @@ Use this checklist to track your small living room makeover from start to finish
 
 ---
 
-The most important thing to understand about renter-friendly decorating is this: the limitations are smaller than you think. Peel-and-stick wallpaper, Command strips, plug-in lights, leaning mirrors, and freestanding storage solve almost every problem renters face — and all of it comes with you when you move.
+The most important thing to understand about renter-friendly decorating is this: the limitations are smaller than you think. Peel-and-stick wallpaper, Command strips, plug-in lights, leaning mirrors, and freestanding storage solve almost every problem renters face, and all of it comes with you when you move.
 
 Your home is where you live right now. Not when you eventually buy. Not when you get a bigger place. Right now. And it deserves to feel like yours.
 

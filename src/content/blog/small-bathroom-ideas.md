@@ -43,7 +43,7 @@ toc:
 
 A small bathroom does not have to look or feel small. Most cramped bathrooms are not actually fighting a lack of square footage so much as a string of small decisions working against each other, a dark paint color here, a heavy shower curtain there, a mirror sized for the medicine cabinet behind it instead of the wall it hangs on. Change a handful of those decisions and the same four walls can read as open and deliberate instead of squeezed in.
 
-What makes this room different from a bedroom or living room is how much of it you actually see at once. There is nowhere for the eye to rest, which means every material, color, and reflective surface is doing more visual work per square foot than almost anywhere else in the house. That is exactly why small, targeted changes have an outsized effect here.
+What makes this room different from a bedroom or living room is how much of it you actually see at once. There is nowhere for the eye to rest, which means every material, color, and reflective surface is doing more visual work per square foot than almost anywhere else in the house. That is exactly why small, targeted changes matter so much more here.
 
 None of the 12 ideas below require gutting the room down to the studs. Most are a weekend project, a few take an afternoon, and one or two are worth saving toward if your budget allows for a bigger swap later.
 

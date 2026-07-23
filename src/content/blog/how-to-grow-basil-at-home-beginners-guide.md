@@ -26,7 +26,7 @@ toc:
   - { label: "Companion Plants", href: "#companion" }
 ---
 
-Fresh basil is one of the most rewarding herbs to grow at home — and honestly, it's almost impossible to mess up once you know the basics. If you've ever walked past a grocery store basil plant wilting on the shelf (costing $3-4 for a tiny bunch), you already know why growing your own makes perfect sense.
+Fresh basil is one of the most rewarding herbs to grow at home, and honestly, it's almost impossible to mess up once you know the basics. If you've ever walked past a grocery store basil plant wilting on the shelf (costing $3-4 for a tiny bunch), you already know why growing your own makes perfect sense.
 
 Here's the thing: growing basil at home is easier than you think. Whether you have a sunny windowsill, a small apartment balcony, or just a corner of your kitchen counter that gets decent light, you can grow fresh basil year-round.
 
@@ -35,7 +35,7 @@ Here's the thing: growing basil at home is easier than you think. Whether you ha
 
 ## Why Grow Basil at Home?
 
-Before we dive into the how-to, let's talk about why growing basil at home is actually worth your time and effort.
+Growing basil at home is actually worth your time and effort for a few solid reasons.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -44,15 +44,15 @@ Before we dive into the how-to, let's talk about why growing basil at home is ac
   <figcaption>Fresh basil elevates everyday cooking in ways dried basil simply can't match.</figcaption>
 </figure>
 
-**Fresh basil year-round** — Store-bought basil wilts in days. Your homegrown basil stays fresh for weeks, ready to harvest whenever you need it.
+**Fresh basil year-round**: store-bought basil wilts in days. Your homegrown basil stays fresh for weeks, ready to harvest whenever you need it.
 
-**Save money** — A pack of seeds costs $3-4 and produces dozens of plants. One plant pays for itself in about two harvests compared to buying fresh bunches.
+**Save money**: a pack of seeds costs $3-4 and produces dozens of plants. One plant pays for itself in about two harvests compared to buying fresh bunches.
 
-**Better flavour** — Homegrown basil tastes noticeably better than store-bought. The aroma alone will convince you.
+**Better flavour**: homegrown basil tastes noticeably better than store-bought. The aroma alone will convince you.
 
-**It's therapeutic** — There's something peaceful about pinching off basil leaves for dinner, knowing you grew them yourself.
+**It's therapeutic**: there's something peaceful about pinching off basil leaves for dinner, knowing you grew them yourself.
 
-**Space-efficient** — A single basil plant thrives in a 6-inch pot on a windowsill. Perfect for apartments and small spaces. Basil is just one part of a full windowsill setup. See our complete guide to building an [apartment herb garden](/blog/apartment-herb-garden-windowsill-gardening/) for pairing it with other herbs.
+**Space-efficient**: a single basil plant thrives in a 6-inch pot on a windowsill. Perfect for apartments and small spaces. Basil is just one part of a full windowsill setup. See our complete guide to building an [apartment herb garden](/blog/apartment-herb-garden-windowsill-gardening/) for pairing it with other herbs.
 </section>
 
 <section class="article-section" id="types">
@@ -69,13 +69,13 @@ Not all basil is the same. Let's talk about the different varieties so you can p
   <figcaption>Sweet, Thai, and purple basil all offer unique flavours and aesthetics.</figcaption>
 </figure>
 
-**Sweet/Italian Basil** — The classic. Large, tender leaves with a sweet, peppery flavour. Easiest for beginners. Perfect for pesto, pasta, and caprese.
+**Sweet/Italian Basil**: the classic. Large, tender leaves with a sweet, peppery flavour. Easiest for beginners. Perfect for pesto, pasta, and caprese.
 
-**Thai Basil** — Slightly liquorice-like with hints of anise. Smaller, pointed leaves. Great for curries and stir-fries.
+**Thai Basil**: slightly liquorice-like with hints of anise. Smaller, pointed leaves. Great for curries and stir-fries.
 
-**Purple Basil** — Beautiful dark purple leaves, slightly spicier. Ornamental and delicious.
+**Purple Basil**: beautiful dark purple leaves, slightly spicier. Ornamental and delicious.
 
-**Lemon Basil** — Bright citrusy flavour, perfect for teas and desserts.
+**Lemon Basil**: bright citrusy flavour, perfect for teas and desserts.
 
 **My recommendation?** Start with sweet basil. It's the most forgiving, grows fastest, and you'll use it in everything.
 </section>
@@ -85,7 +85,7 @@ Not all basil is the same. Let's talk about the different varieties so you can p
 
 ## Best Containers & Soil for Basil
 
-**Container size:** At least 6 inches wide and 6 inches deep. Drainage holes are non-negotiable — without them, your basil will rot.
+**Container size:** At least 6 inches wide and 6 inches deep. Drainage holes are non-negotiable; without them, your basil will rot.
 
 **Material:** Terracotta is ideal (breathable, dries evenly). Plastic and ceramic both work fine. If you'd like to personalize your containers, see our guide to [painted terracotta pot projects](/blog/diy-home-decor-under-20-budget-craft-ideas/) for an easy weekend craft.
 
@@ -95,7 +95,7 @@ Not all basil is the same. Let's talk about the different varieties so you can p
 - Pot (6-8"): $3-8
 - Potting soil: $4-6
 - Basil seeds: $3-4
-- **Total: $10-18 — produces herbs for months**
+- **Total: $10-18, produces herbs for months**
 </section>
 
 <section class="article-section" id="planting">
@@ -111,8 +111,8 @@ Not all basil is the same. Let's talk about the different varieties so you can p
 </figure>
 
 1. Fill your pot with moistened potting soil
-2. Sprinkle basil seeds on top — they're tiny, so a light sprinkle is enough
-3. Press them gently into the soil (don't bury — they need light to germinate)
+2. Sprinkle basil seeds on top; they're tiny, so a light sprinkle is enough
+3. Press them gently into the soil (don't bury them; they need light to germinate)
 4. Mist the soil lightly to keep it moist
 5. Cover with a clear plastic bag to create humidity
 6. Place in a warm spot (not necessarily sunny yet)
@@ -191,7 +191,7 @@ Here's the reality: basil needs a lot of light.
 **Preventing bolting (flowering):** Once basil flowers, leaves become bitter. Pinch off any flower buds immediately. Regular harvesting naturally prevents flowering.
 
 **Preserving:**
-- **Refrigerator:** Stems in a glass of water, loosely covered — lasts 1-2 weeks
+- **Refrigerator:** Stems in a glass of water, loosely covered; lasts 1-2 weeks
 - **Freezing:** Blend with olive oil, freeze in ice cube trays
 - **Drying:** Hang in bundles or use a dehydrator (flavour diminishes but works)
 </section>
@@ -237,7 +237,7 @@ Once you've mastered basil, you might want to expand your herb garden. Here's wh
 
 **Great companions:** Parsley, oregano, thyme (all prefer similar conditions).
 
-**Keep separate:** Mint (spreads aggressively — give it its own pot), rosemary and sage (prefer drier soil).
+**Keep separate:** Mint (spreads aggressively, give it its own pot), rosemary and sage (prefer drier soil).
 
 If you're setting up a full herb station in a compact kitchen, see our guide to [small kitchen ideas](/blog/small-kitchen-ideas-2026/) for more space-savvy styling tips.
 

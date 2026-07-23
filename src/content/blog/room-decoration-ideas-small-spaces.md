@@ -43,7 +43,7 @@ toc:
 
 A small room is not a limitation. It is an opportunity. This is the fundamental truth that separates beautifully decorated small spaces from cramped, cluttered ones. The best small space decorators understand this. They do not try to make a small room feel larger by hiding and minimizing. Instead they maximize every inch with intention, personality, and thoughtful design.
 
-In 2026, small space decoration has exploded as a design category. Pinterest reports that searches for room decoration ideas have grown 300 percent. Small apartments, tiny bedrooms, and compact living spaces are no longer apologized for. They are celebrated as canvases for highly intentional, deeply personal design.
+In 2026, small space decoration has exploded as a design category. Search interest in room decoration ideas has grown noticeably on Pinterest this year. Small apartments, tiny bedrooms, and compact living spaces are no longer apologized for. They are celebrated as canvases for highly intentional, deeply personal design.
 
 The constraint of limited square footage forces you to make meaningful choices. Every object must earn its place. Every color must work with the others. Every piece of furniture must serve a purpose and create beauty simultaneously. This pressure produces rooms with more personality, more intention, and more genuine beauty than many larger spaces.
 
@@ -61,7 +61,7 @@ Here are 12 proven room decoration ideas for small spaces that will transform yo
   <figcaption>Constraints force creativity. Small spaces demand intention. The result is rooms with genuine character and beauty.</figcaption>
 </figure>
 
-Before exploring specific decoration ideas, understand why small spaces are not a problem to solve but an advantage to embrace.
+Small spaces are not a problem to solve. They're an advantage to embrace, and it helps to understand why before getting into specific ideas.
 
 **Small spaces force intention.** You cannot casually decorate a small room. Every object, every color, every piece of furniture must be deliberate. This intentionality naturally produces rooms with more personality and coherence than spaces where decoration happens without constraint.
 
@@ -393,7 +393,7 @@ Even experienced decorators make these mistakes in small spaces. Awareness preve
 
 ---
 
-Small space decoration is not about making the space feel larger. It is about making the space feel like exactly what it is. Intentional. Personal. Beautiful. Thoughtfully designed.
+Small space decoration is not about making the space feel larger. It's about making the space feel like exactly what it is: intentional, personal, and thoughtfully designed.
 
 The constraint of limited square footage forces you to make meaningful choices. Each decision carries weight. The result is spaces with more character, more intention, and more genuine beauty than many larger rooms.
 

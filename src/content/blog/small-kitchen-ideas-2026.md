@@ -30,11 +30,11 @@ toc:
   - { label: "12. Cohesive Colour Palette", href: "#colour-palette" }
 ---
 
-Small kitchens are having a moment in 2026. Not in spite of their size — but because of it. In 2026, tiny kitchens have become a canvas for creativity rather than a compromise. As more people embrace urban living, downsizing, and intentional design, compact cooking spaces are no longer just functional — they are stylish, efficient, and deeply personal.
+Small kitchens are having a moment in 2026, not in spite of their size but because of it. Tiny kitchens have become a canvas for creativity rather than a compromise. As more people embrace urban living, downsizing, and intentional design, compact cooking spaces are no longer just functional. They are stylish, efficient, and deeply personal.
 
-The best small kitchen transformations don't come from knocking down walls or spending a fortune on a renovation. They come from working smarter with the space you already have — using storage more cleverly, choosing colours more intentionally, and styling more thoughtfully.
+The best small kitchen transformations don't come from knocking down walls or spending a fortune on a renovation. They come from working smarter with the space you already have: using storage more cleverly, choosing colours more intentionally, and styling more thoughtfully.
 
-Here are 12 ideas that actually work in small kitchens — whether you're in a studio apartment, a compact terraced house, or a rented flat where permanent changes aren't an option.
+Here are 12 ideas that actually work in small kitchens, whether you're in a studio apartment, a compact terraced house, or a rented flat where permanent changes aren't an option.
 
 <section class="article-section" id="why-small">
 <span class="article-kicker">A Different Perspective</span>
@@ -54,7 +54,7 @@ Before diving into ideas, let's reframe the conversation. Small kitchens have re
 
 **Less to clean.** Fewer surfaces, fewer floors, less time spent maintaining the space.
 
-**Lower renovation costs.** When you do decide to upgrade — new tiles, new cabinet fronts, new worktop — the smaller scale makes it dramatically more affordable.
+**Lower renovation costs.** When you do decide to upgrade (new tiles, new cabinet fronts, new worktop) the smaller scale makes it dramatically more affordable.
 
 **Forced intentionality.** A small kitchen demands that every item earns its place. This naturally results in a cleaner, more organised, more beautiful space than a large kitchen that accumulates clutter unchecked.
 
@@ -75,15 +75,15 @@ The single most impactful change you can make in a small kitchen is to stop thin
   <figcaption>Using the full height of your walls for storage frees up valuable counter space and makes the kitchen feel taller.</figcaption>
 </figure>
 
-**Floor-to-ceiling cabinets** eliminate the wasted space above standard-height units — space that typically collects dust and does nothing useful. Extending cabinets to ceiling height adds significant storage without using any additional floor space.
+**Floor-to-ceiling cabinets** eliminate the wasted space above standard-height units, space that typically collects dust and does nothing useful. Extending cabinets to ceiling height adds significant storage without using any additional floor space.
 
 **Floating shelves above the counter** give you accessible open storage for everyday items without the cost or permanence of built-in cabinets. Perfect for renters.
 
-**Wall-mounted magnetic knife strips** keep knives visible, accessible, and off the counter — freeing up a surprising amount of worktop space.
+**Wall-mounted magnetic knife strips** keep knives visible, accessible, and off the counter, freeing up a surprising amount of worktop space.
 
 **Hanging pot racks** suspended from the ceiling or mounted on a wall move your cookware off shelves and into visual display territory. Copper and stainless steel pots hanging overhead look intentional and industrial-chic rather than chaotic.
 
-**Over-door organisers** on pantry or cabinet doors use the inside of the door — space that's almost always completely wasted in standard kitchens.
+**Over-door organisers** on pantry or cabinet doors use the inside of the door, space that's almost always completely wasted in standard kitchens.
 
 **Tall, slim pull-out pantry units** can slot into gaps between appliances or cabinets to create storage in spaces that would otherwise go unused.
 </section>
@@ -106,7 +106,7 @@ Colour is the most powerful tool available for making a small kitchen feel large
 
 **Warm white and cream:** The classic choice. Not stark brilliant white (which can feel clinical) but warm creamy whites that feel inviting. Cabinet paint colors like Farrow & Ball's *Pointing* or *Wimborne White* transform small kitchens.
 
-**Soft sage green:** One of the biggest kitchen colour trends for 2026. Vintage-meets-modern kitchens are on the rise, with searches leaning into comfort, character, and a little nostalgia at the center of the home. Sage green delivers exactly this — nostalgic warmth with modern refinement. For a deeper, richer take on green in the kitchen, see our [olive green kitchen ideas](/blog/olive-green-kitchen-ideas/).
+**Soft sage green:** One of the biggest kitchen colour trends for 2026. Vintage-meets-modern kitchens are on the rise, with searches leaning into comfort, character, and a little nostalgia at the center of the home. Sage green delivers exactly this: nostalgic warmth with modern refinement. For a deeper, richer take on green in the kitchen, see our [olive green kitchen ideas](/blog/olive-green-kitchen-ideas/).
 
 **Pale grey-blue:** Cool and airy. Creates a coastal, calm atmosphere that makes small kitchens feel refreshing rather than cramped.
 
@@ -117,7 +117,7 @@ Colour is the most powerful tool available for making a small kitchen feel large
 - Glass cabinet fronts on upper units
 - Polished stone or quartz countertop
 
-Even if you can't change your cabinets, adding reflective hardware — brass or brushed gold handles — immediately elevates and brightens a small kitchen.
+Even if you can't change your cabinets, adding reflective hardware, brass or brushed gold handles, immediately brightens a small kitchen and makes it feel more finished.
 </section>
 
 <section class="article-section" id="open-shelving">
@@ -125,7 +125,7 @@ Even if you can't change your cabinets, adding reflective hardware — brass or 
 
 ## Open Shelving Done Right
 
-Open shelving is divisive — people either love it or fear the clutter. In a small kitchen, done correctly, open shelving is transformative. It creates visual depth, makes the room feel larger, and displays your most beautiful everyday items.
+Open shelving is divisive; people either love it or fear the clutter. In a small kitchen, done correctly, open shelving is transformative. It creates visual depth, makes the room feel larger, and displays your most beautiful everyday items.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -138,7 +138,7 @@ Open shelving is divisive — people either love it or fear the clutter. In a sm
 
 **Edit ruthlessly.** Only put on open shelves what you genuinely love the look of and use regularly. Mismatched, rarely-used items on open shelves create visual chaos that makes a small kitchen feel smaller.
 
-**Use matching or cohesive storage.** A set of matching white ceramic canisters, matching glasses, identical small bowls — coherence creates calm.
+**Use matching or cohesive storage.** A set of matching white ceramic canisters, matching glasses, identical small bowls: coherence creates calm.
 
 **The rule of three:** Group objects in threes on shelves. One tall, one medium, one small. Vary the height but keep the color palette consistent.
 
@@ -163,7 +163,7 @@ Counter space is the most precious resource in a small kitchen. Every appliance,
 
 **What to remove from your counter permanently:**
 - The toaster (store in a cabinet, get it out when needed)
-- The coffee maker (unless you use it daily — and even then, consider a wall-mounted version)
+- The coffee maker (unless you use it daily, and even then, consider a wall-mounted version)
 - Paper towel holder (wall-mount it or use a drawer)
 - Block knife set (replace with wall-mounted magnetic strip)
 - Fruit bowl (use a wall-mounted basket instead)
@@ -172,7 +172,7 @@ Counter space is the most precious resource in a small kitchen. Every appliance,
 
 **Over-sink cutting boards** that span across the sink create extra prep space instantly and cost about $20-30.
 
-**Fold-down wall tables** attached to a wall provide additional counter space when needed and fold flat when not in use — perfect for small apartment kitchens.
+**Fold-down wall tables** attached to a wall provide additional counter space when needed and fold flat when not in use, perfect for small apartment kitchens.
 
 **Pull-out cutting boards** built into a lower cabinet provide prep space that disappears completely when not in use.
 
@@ -199,7 +199,7 @@ Lighting transforms small kitchens more dramatically than almost any other chang
 
 **Warm bulbs throughout:** Replace any cool white bulbs with warm white (2700-3000K). This single change makes a kitchen feel cosier and more inviting instantly.
 
-**Inside cabinet lighting:** Small LED puck lights or strip lights inside glass-fronted cabinets make the kitchen feel deeper and more layered — especially beautiful at night.
+**Inside cabinet lighting:** Small LED puck lights or strip lights inside glass-fronted cabinets make the kitchen feel deeper and more layered, especially beautiful at night.
 
 **Natural light maximisation:** Keep windows completely clear of clutter. Use sheer rather than opaque window treatments to let in maximum daylight. A mirror placed opposite a window bounces natural light to the darkest corners.
 </section>
@@ -209,7 +209,7 @@ Lighting transforms small kitchens more dramatically than almost any other chang
 
 ## Choose Compact and Multi-Function Appliances
 
-In a small kitchen every appliance needs to earn its place — ideally by doing more than one job.
+In a small kitchen every appliance needs to earn its place, ideally by doing more than one job.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -222,15 +222,15 @@ In a small kitchen every appliance needs to earn its place — ideally by doing 
 
 **Air fryer + oven combo:** Replaces your oven for small batch cooking, toasting, and air frying in one compact unit.
 
-**Combination microwave/convection oven:** One appliance that microwaves, bakes, and grills — replacing two or three separate units.
+**Combination microwave/convection oven:** One appliance that microwaves, bakes, and grills, replacing two or three separate units.
 
 **Induction hob:** Flush with the counter when not in use, doubles as extra prep space when cooking isn't happening.
 
-**Slimline dishwasher:** 45cm wide instead of the standard 60cm — saves 15cm of kitchen width, more significant than it sounds.
+**Slimline dishwasher:** 45cm wide instead of the standard 60cm. Saves 15cm of kitchen width, more significant than it sounds.
 
 **Drawer dishwasher:** Fits under the counter where a standard dishwasher won't fit and uses less water and energy per cycle.
 
-**Appliance garage:** A dedicated pull-down or pull-out cabinet section that hides small appliances completely when not in use — keeping counters clear while keeping appliances accessible.
+**Appliance garage:** A dedicated pull-down or pull-out cabinet section that hides small appliances completely when not in use, keeping counters clear while keeping appliances accessible.
 </section>
 
 <section class="article-section" id="island">
@@ -238,7 +238,7 @@ In a small kitchen every appliance needs to earn its place — ideally by doing 
 
 ## The Kitchen Island Alternative
 
-A full kitchen island rarely fits in a small kitchen. But the function of an island — extra counter space, seating, storage — can be achieved in ways that work within a smaller footprint.
+A full kitchen island rarely fits in a small kitchen. But the function of an island (extra counter space, seating, storage) can be achieved in ways that work within a smaller footprint.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -247,7 +247,7 @@ A full kitchen island rarely fits in a small kitchen. But the function of an isl
   <figcaption>A rolling kitchen cart provides island function — extra counter, storage, and mobility — without the permanent footprint.</figcaption>
 </figure>
 
-**Rolling kitchen cart:** The most versatile option. Adds counter space and storage, can be positioned anywhere, and wheels away when not needed. In butcher block, stainless steel, or painted wood — they suit every kitchen aesthetic.
+**Rolling kitchen cart:** The most versatile option. Adds counter space and storage, can be positioned anywhere, and wheels away when not needed. In butcher block, stainless steel, or painted wood, they suit every kitchen aesthetic.
 
 **Peninsula instead of island:** A peninsula attached to a wall or existing cabinet on one or two sides uses less floor space than a freestanding island while providing the same counter extension and seating opportunity.
 
@@ -274,13 +274,13 @@ In a small kitchen the backsplash is one of the few surfaces large enough to mak
 
 **Zellige tiles:** Handmade Moroccan ceramic tiles with a characteristic irregular surface and slight color variation. Incredibly beautiful, adds texture and depth. Currently one of the most searched kitchen trends.
 
-**Classic white subway tile:** Timeless, brightens small kitchens, works with every cabinet colour. The grout colour makes all the difference — warm greige grout rather than stark white creates a much more sophisticated result.
+**Classic white subway tile:** Timeless, brightens small kitchens, works with every cabinet colour. The grout colour makes all the difference: warm greige grout rather than stark white creates a much more sophisticated result.
 
 **Patterned encaustic tiles:** Bold geometric or floral patterns add personality and make a small kitchen feel unique and intentional.
 
 **Full height backsplash:** Rather than stopping the tile at the bottom of the wall cabinets, extend it all the way to the ceiling. This makes the kitchen feel taller and more dramatic.
 
-**For renters:** Peel-and-stick tile backsplashes have improved dramatically in quality. They look surprisingly convincing, apply easily, and remove cleanly — a renter-friendly transformation worth considering.
+**For renters:** Peel-and-stick tile backsplashes have improved dramatically in quality. They look surprisingly convincing, apply easily, and remove cleanly: a renter-friendly transformation worth considering.
 </section>
 
 <section class="article-section" id="organisation">
@@ -299,13 +299,13 @@ What's inside your cabinets affects how your kitchen functions just as much as w
 
 **Cabinet organisation upgrades that make a real difference:**
 
-**Pull-out shelves in lower cabinets:** Standard lower cabinets force you to reach to the very back — pull-out shelves bring everything forward to where you can see and access it easily.
+**Pull-out shelves in lower cabinets:** Standard lower cabinets force you to reach to the very back; pull-out shelves bring everything forward to where you can see and access it easily.
 
-**Vertical plate rack dividers:** Store baking trays, chopping boards, and sheet pans vertically rather than stacked — makes accessing individual items fast and easy.
+**Vertical plate rack dividers:** Store baking trays, chopping boards, and sheet pans vertically rather than stacked. Makes accessing individual items fast and easy.
 
 **Lazy Susans in corner cabinets:** Corner cabinet space is notoriously difficult to use effectively. A rotating lazy Susan makes every item in a corner cabinet accessible without reaching awkwardly.
 
-**Drawer dividers:** For utensil and cutlery drawers — keeps everything organised, visible, and accessible in seconds.
+**Drawer dividers:** For utensil and cutlery drawers. Keeps everything organised, visible, and accessible in seconds.
 
 **Stackable food storage containers:** Identical stackable containers for dry goods replace mismatched packets that waste space and fall over. Clear containers let you see quantities immediately.
 
@@ -326,11 +326,11 @@ Mirrors aren't just for bedrooms. In a small kitchen, a strategically placed mir
   <figcaption>A mirror or glass cabinet fronts visually extends a small kitchen by reflecting the space back at you.</figcaption>
 </figure>
 
-**Glass-fronted cabinet doors** on upper units create visual depth — you see into the cabinet, giving the illusion of more space behind the surface. They also force you to keep the cabinet contents organised and attractive.
+**Glass-fronted cabinet doors** on upper units create visual depth: you see into the cabinet, giving the illusion of more space behind the surface. They also force you to keep the cabinet contents organised and attractive.
 
 **A mirror on one wall:** In a very small kitchen, a large mirror on one end wall visually doubles the length of the kitchen. Position it at the end of a galley kitchen for maximum effect.
 
-**Mirrored backsplash:** Less common but very effective — a mirrored backsplash section reflects the opposite side of the kitchen and dramatically increases the sense of space.
+**Mirrored backsplash:** Less common but very effective. A mirrored backsplash section reflects the opposite side of the kitchen and dramatically increases the sense of space.
 
 **Glass cabinet inserts:** If replacing all cabinet fronts isn't an option, adding glass inserts to a few existing cabinet doors is a cost-effective middle ground.
 </section>
@@ -340,7 +340,7 @@ Mirrors aren't just for bedrooms. In a small kitchen, a strategically placed mir
 
 ## A Windowsill Herb Garden
 
-Nothing makes a kitchen feel more alive, functional, and beautiful than fresh herbs growing on the windowsill. And in a small kitchen, a herb garden serves a double purpose — it's both decoration and practical cooking resource.
+Nothing makes a kitchen feel more alive, functional, and beautiful than fresh herbs growing on the windowsill. And in a small kitchen, a herb garden serves a double purpose: it's both decoration and practical cooking resource.
 
 <figure class="blog-figure">
   <div class="blog-image-wrap">
@@ -349,9 +349,9 @@ Nothing makes a kitchen feel more alive, functional, and beautiful than fresh he
   <figcaption>A windowsill herb garden transforms a small kitchen — it looks beautiful, smells wonderful, and provides fresh herbs for cooking every day.</figcaption>
 </figure>
 
-Matching terracotta pots with wooden herb labels on a bright kitchen windowsill is one of the most searched and saved small kitchen ideas on Pinterest right now — and it's easy to understand why.
+Matching terracotta pots with wooden herb labels on a bright kitchen windowsill is one of the most saved small kitchen ideas on Pinterest right now, and it's easy to understand why.
 
-The organic green of growing herbs against cream or sage cabinet colours is a combination that never fails to look beautiful. And the practical benefit — fresh herbs available whenever you're cooking — is something that genuinely improves your daily kitchen experience.
+The organic green of growing herbs against cream or sage cabinet colours is a combination that never fails to look beautiful. And the practical benefit (fresh herbs available whenever you're cooking) is something that genuinely improves your daily kitchen experience.
 
 **Best herbs for kitchen windowsills:** Basil, chives, mint (in its own pot), parsley, and thyme. All grow well in standard kitchen light conditions. For a complete guide to growing herbs indoors, see our <a href="/blog/apartment-herb-garden-windowsill-gardening/">Apartment Herb Garden guide</a>.
 
@@ -393,7 +393,7 @@ The final idea ties everything together. A small kitchen with a cohesive colour 
 
 ---
 
-Small kitchen transformations don't require major renovation budgets or weeks of work. Most of these twelve ideas can be implemented on a weekend with a modest budget — and each one makes a measurable difference to how the kitchen functions and feels.
+Small kitchen transformations don't require major renovation budgets or weeks of work. Most of these twelve ideas can be implemented on a weekend with a modest budget, and each one makes a measurable difference to how the kitchen functions and feels.
 
 Start with the idea that addresses your biggest frustration. If it's storage, go vertical. If it's feeling dark, add under-cabinet lighting and change the bulbs. If it's visual chaos, commit to a cohesive colour palette and edit your counter surfaces ruthlessly.
 
