@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Page Not Found | InterestDecor"
+  description="The page you're looking for doesn't exist. Browse InterestDecor's home decor, gardening, and DIY guides instead."
+>
+
+<div class="page-hero">
+  <p class="page-hero-eyebrow">404</p>
+  <h1 class="page-hero-title">This page <em>wandered off</em></h1>
+  <p class="page-hero-desc">The page you're looking for doesn't exist, or it's moved. Let's get you back to something worth reading.</p>
+</div>
+
+<section class="not-found-section">
+  <div class="container not-found-container">
+    <div class="not-found-links">
+      <a href="/" class="btn-primary">Back to Home</a>
+      <a href="/categories/" class="not-found-secondary">Browse all categories</a>
+      <a href="/rooms/" class="not-found-secondary">Shop ideas by room</a>
+    </div>
+  </div>
+</section>
+
+</BaseLayout>
+
+<style>
+.not-found-section {
+  padding: 40px 0 120px;
+  text-align: center;
+}
+
+.not-found-container {
+  max-width: 480px;
+}
+
+.not-found-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.not-found-secondary {
+  font-size: .9rem;
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.not-found-secondary:hover {
+  color: var(--rose);
+}
+</style>
