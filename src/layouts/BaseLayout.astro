@@ -31,9 +31,35 @@ const currentPath = Astro.url.pathname;
   <link rel="canonical" href={canonical} />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌿</text></svg>" />
 
+  <!-- Google Consent Mode v2 default state — must run before any Google tag loads.
+       is:inline is required here: Astro bundles/hoists plain <script> tags into a
+       deferred module, which would reorder this after the async tags below and
+       break consent gating entirely. -->
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: 'denied',
+      wait_for_update: 500,
+    });
+    try {
+      if (localStorage.getItem('interestdecor_consent') === 'granted') {
+        gtag('consent', 'update', {
+          ad_storage: 'granted',
+          ad_user_data: 'granted',
+          ad_personalization: 'granted',
+          analytics_storage: 'granted',
+        });
+      }
+    } catch (e) {}
+  </script>
+
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZK01DM6VVM"></script>
-  <script>
+  <script is:inline>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
@@ -45,6 +71,19 @@ const currentPath = Astro.url.pathname;
      crossorigin="anonymous"></script>
 </head>
 <body>
+
+<!-- Cookie Consent Banner -->
+<div class="cookie-consent" id="cookieConsent" role="region" aria-label="Cookie consent" hidden>
+  <div class="cookie-consent-inner">
+    <p class="cookie-consent-text">
+      We use cookies for analytics and to show relevant ads. See our <a href="/privacy-policy/">Privacy Policy</a> for details.
+    </p>
+    <div class="cookie-consent-actions">
+      <button type="button" id="cookieDecline" class="cookie-btn cookie-btn-secondary">Decline</button>
+      <button type="button" id="cookieAccept" class="cookie-btn cookie-btn-primary">Accept All</button>
+    </div>
+  </div>
+</div>
 
 <!-- HEADER -->
 <header class="site-header" role="banner">
@@ -153,6 +192,36 @@ const currentPath = Astro.url.pathname;
 </footer>
 
 <script>
+  // Cookie consent banner
+  (function () {
+    const consentKey = 'interestdecor_consent';
+    const banner = document.getElementById('cookieConsent');
+    const acceptBtn = document.getElementById('cookieAccept');
+    const declineBtn = document.getElementById('cookieDecline');
+    if (!banner || !acceptBtn || !declineBtn) return;
+
+    let stored = null;
+    try { stored = localStorage.getItem(consentKey); } catch (e) {}
+    if (!stored) banner.hidden = false;
+
+    function setConsent(granted: boolean) {
+      const w = window as any;
+      if (typeof w.gtag === 'function') {
+        w.gtag('consent', 'update', {
+          ad_storage: granted ? 'granted' : 'denied',
+          ad_user_data: granted ? 'granted' : 'denied',
+          ad_personalization: granted ? 'granted' : 'denied',
+          analytics_storage: granted ? 'granted' : 'denied',
+        });
+      }
+      try { localStorage.setItem(consentKey, granted ? 'granted' : 'denied'); } catch (e) {}
+      banner.hidden = true;
+    }
+
+    acceptBtn.addEventListener('click', () => setConsent(true));
+    declineBtn.addEventListener('click', () => setConsent(false));
+  })();
+
   // Year
   const yearEl = document.getElementById('currentYear');
   if (yearEl) yearEl.textContent = String(new Date().getFullYear());
