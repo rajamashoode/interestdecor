@@ -169,6 +169,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"bathroom-decor-ideas-budget.md": {
+	id: "bathroom-decor-ideas-budget.md";
+  slug: "bathroom-decor-ideas-budget";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "best-houseplants-for-living-room.md": {
 	id: "best-houseplants-for-living-room.md";
   slug: "best-houseplants-for-living-room";
@@ -235,6 +242,13 @@ declare module 'astro:content' {
 "navy-blue-kitchen-ideas.md": {
 	id: "navy-blue-kitchen-ideas.md";
   slug: "navy-blue-kitchen-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"olive-green-bedroom-ideas.md": {
+	id: "olive-green-bedroom-ideas.md";
+  slug: "olive-green-bedroom-ideas";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
