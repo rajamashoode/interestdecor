@@ -33,6 +33,7 @@ export const roomHubs: RoomHub[] = [
       'sage-green-bedroom-ideas',
       'white-terracotta-bedroom-ideas',
       'butter-yellow-bedroom-ideas',
+      'olive-green-bedroom-ideas',
     ],
     relatedHubSlugs: ['bathroom-decor', 'living-room-ideas'],
   },
@@ -47,6 +48,7 @@ export const roomHubs: RoomHub[] = [
     postSlugs: [
       'sage-green-bathroom-ideas',
       'small-bathroom-ideas',
+      'bathroom-decor-ideas-budget',
     ],
     relatedHubSlugs: ['small-space-living', 'bedroom-decor'],
   },
