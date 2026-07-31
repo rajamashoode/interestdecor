@@ -176,6 +176,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"bedroom-aesthetic-ideas.md": {
+	id: "bedroom-aesthetic-ideas.md";
+  slug: "bedroom-aesthetic-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "best-houseplants-for-living-room.md": {
 	id: "best-houseplants-for-living-room.md";
   slug: "best-houseplants-for-living-room";
@@ -221,6 +228,13 @@ declare module 'astro:content' {
 "diy-home-decor-under-20-budget-craft-ideas.md": {
 	id: "diy-home-decor-under-20-budget-craft-ideas.md";
   slug: "diy-home-decor-under-20-budget-craft-ideas";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"dorm-bedding-ideas.md": {
+	id: "dorm-bedding-ideas.md";
+  slug: "dorm-bedding-ideas";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">

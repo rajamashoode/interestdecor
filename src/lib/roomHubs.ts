@@ -30,6 +30,8 @@ export const roomHubs: RoomHub[] = [
     metaDescription: 'Warm, calming bedroom decor ideas including sage green, white and terracotta, and butter yellow color palettes, paint shades, and styling tips.',
     intro: 'A bedroom should feel like a place to exhale. These guides cover the color palettes, textures, and small styling choices that turn a bedroom into a genuine sanctuary, from calming sage green to warm terracotta and cheerful butter yellow.',
     postSlugs: [
+      'bedroom-aesthetic-ideas',
+      'dorm-bedding-ideas',
       'sage-green-bedroom-ideas',
       'white-terracotta-bedroom-ideas',
       'butter-yellow-bedroom-ideas',
@@ -94,6 +96,7 @@ export const roomHubs: RoomHub[] = [
     metaDescription: 'Small space living ideas for compact living rooms, kitchens, and bathrooms, renter-friendly decorating, and windowsill herb gardens.',
     intro: 'Small square footage is not a limitation, it is a design challenge with real solutions. These guides gather every small-space idea on the site, from compact kitchens and bathrooms to renter-friendly living rooms and a windowsill herb garden that fits anywhere.',
     postSlugs: [
+      'dorm-bedding-ideas',
       'room-decoration-ideas-small-spaces',
       'bright-small-living-room-feel-bigger',
       'small-kitchen-ideas-2026',

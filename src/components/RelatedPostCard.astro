@@ -184,9 +184,9 @@ const { title, url, hook, image, imageAlt } = Astro.props;
 <script>
   const card = document.getElementById('relatedPostCard');
   const closeBtn = document.getElementById('relatedPostClose');
-  const sentinel = document.getElementById('related-post-sentinel');
+  const article = document.querySelector('.article-content');
 
-  if (card && closeBtn && sentinel && 'IntersectionObserver' in window) {
+  if (card && closeBtn && article) {
     let autoHideTimer: ReturnType<typeof setTimeout> | undefined;
     let dismissed = false;
 
@@ -209,20 +209,23 @@ const { title, url, hook, image, imageAlt } = Astro.props;
       document.removeEventListener('keydown', onKeydown);
     }
 
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          show();
-          observer.disconnect();
-        }
-      });
-    }, { threshold: 0 });
+    function checkReadingProgress() {
+      const rect = article!.getBoundingClientRect();
+      const articleTop = window.scrollY + rect.top;
+      const readableDistance = Math.max(article!.scrollHeight - window.innerHeight, 1);
+      const progress = (window.scrollY - articleTop) / readableDistance;
+      if (progress >= 0.8) {
+        show();
+        window.removeEventListener('scroll', checkReadingProgress);
+      }
+    }
 
-    observer.observe(sentinel);
+    window.addEventListener('scroll', checkReadingProgress, { passive: true });
+    checkReadingProgress();
     closeBtn.addEventListener('click', hide);
 
     window.addEventListener('pagehide', () => {
-      observer.disconnect();
+      window.removeEventListener('scroll', checkReadingProgress);
       if (autoHideTimer) clearTimeout(autoHideTimer);
       document.removeEventListener('keydown', onKeydown);
     }, { once: true });
