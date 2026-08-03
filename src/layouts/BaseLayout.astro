@@ -145,7 +145,7 @@ const carriesPublisherContent = currentPath === '/' || currentPath.startsWith('/
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" style="display:none" aria-hidden="true" />
           <input type="email" name="email" id="footerEmail" placeholder="your@email.com" style="padding:12px 14px; background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:white; font-family:var(--ff-body); font-size:.85rem; outline:none;" aria-label="Email for footer newsletter" required />
           <button type="submit" id="footerNlSubmit" style="padding:12px; background:var(--rose); border:none; color:white; font-size:.75rem; font-weight:500; letter-spacing:.1em; text-transform:uppercase; cursor:pointer;">Subscribe</button>
-          <p id="footerNlMessage" style="display:none; font-size:.8rem; color:rgba(255,255,255,.75); line-height:1.6;">Thank you — you are subscribed.</p>
+          <p id="footerNlMessage" aria-live="polite" style="display:none; font-size:.8rem; color:rgba(255,255,255,.75); line-height:1.6;">Thank you — your subscription request has been received.</p>
         </form>
       </div>
     </div>
@@ -198,13 +198,24 @@ const carriesPublisherContent = currentPath === '/' || currentPath.startsWith('/
     e.preventDefault();
     if (!footerNlSubmit || !footerEmail) return;
     const original = footerNlSubmit.textContent;
+    if (footerNlMessage) footerNlMessage.style.display = 'none';
     footerNlSubmit.disabled = true;
     footerNlSubmit.textContent = 'Subscribing...';
     try {
       const res = await fetch(footerForm.action, { method: 'POST', body: new FormData(footerForm), headers: { Accept: 'application/json' } });
       if (res.ok) {
         footerForm.reset();
-        if (footerNlMessage) footerNlMessage.style.display = 'block';
+        if (footerNlMessage) {
+          footerNlMessage.textContent = 'Thank you — your subscription request has been received.';
+          footerNlMessage.style.display = 'block';
+        }
+      } else {
+        throw new Error('Subscription request failed');
+      }
+    } catch {
+      if (footerNlMessage) {
+        footerNlMessage.textContent = 'Sorry, we could not submit your request. Please try again.';
+        footerNlMessage.style.display = 'block';
       }
     } finally {
       footerNlSubmit.disabled = false;
