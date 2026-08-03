@@ -1,0 +1,59 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Editorial Policy | InterestDecor"
+  description="How InterestDecor researches, writes, illustrates, reviews, and corrects its home decor, gardening, and DIY guides."
+>
+  <div class="page-hero">
+    <p class="page-hero-eyebrow">Our Standards</p>
+    <h1 class="page-hero-title">Editorial <em>Policy</em></h1>
+    <p class="page-hero-desc">How we create useful, transparent, and accountable content.</p>
+  </div>
+
+  <section class="editorial-section">
+    <div class="container editorial-container">
+      <div class="editorial-block">
+        <h2>Who creates InterestDecor</h2>
+        <p>InterestDecor is created and edited by Mashood Elahi in Pakistan. The site covers practical home decor, small-space living, gardening, floral arrangements, and beginner DIY ideas for readers in different countries and types of homes.</p>
+      </div>
+
+      <div class="editorial-block">
+        <h2>How topics are researched</h2>
+        <p>Articles begin with a specific reader problem, such as choosing a color palette, organizing a compact room, or understanding the basic requirements of a project. Guidance is reviewed for practical constraints including room size, lighting, maintenance, rental limitations, budget, and safety.</p>
+        <p>When a claim depends on a manufacturer specification, current price, safety instruction, trend report, or plant-care authority, readers should verify the linked or named source and check local conditions before acting.</p>
+      </div>
+
+      <div class="editorial-block">
+        <h2>Concept images and visual examples</h2>
+        <p>Some images are digitally created concept visuals. They demonstrate possible combinations of color, material, furniture placement, lighting, or styling, but they are not photographs of completed InterestDecor projects unless the article states that clearly.</p>
+        <p>Concept images should not be used to identify an exact product, guarantee a finish, or predict how a real room will look under different dimensions and lighting.</p>
+      </div>
+
+      <div class="editorial-block">
+        <h2>Writing and editorial tools</h2>
+        <p>Digital tools may assist with planning, drafting, editing, image creation, and site production. Mashood Elahi is responsible for reviewing published material, maintaining the site, and correcting content. We do not add invented testing, credentials, quotations, research, or personal experience.</p>
+      </div>
+
+      <div class="editorial-block">
+        <h2>Prices, products, and recommendations</h2>
+        <p>Prices are illustrative and can change by retailer, location, currency, and date. A product mention is not a claim that InterestDecor purchased or tested that product unless the article explicitly provides that context. InterestDecor does not currently earn commissions from article links.</p>
+      </div>
+
+      <div class="editorial-block">
+        <h2>Corrections</h2>
+        <p>If you find an error, outdated claim, broken link, or unclear disclosure, email <a href="mailto:rajamashoodelahi@gmail.com">rajamashoodelahi@gmail.com</a> or use the <a href="/contact/">contact form</a>. Substantive errors are corrected in the article, and publication dates are not changed merely to make old content appear new.</p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .editorial-section { padding: 72px 0 96px; }
+  .editorial-container { max-width: 780px; }
+  .editorial-block { margin-bottom: 42px; padding-bottom: 42px; border-bottom: 1px solid var(--border); }
+  .editorial-block:last-child { border-bottom: 0; }
+  .editorial-block h2 { margin-bottom: 14px; font-family: var(--ff-display); font-size: 1.8rem; font-weight: 500; color: var(--dark); }
+  .editorial-block p { margin-bottom: 12px; color: var(--muted); line-height: 1.85; }
+  .editorial-block a { color: var(--dusty); text-decoration: underline; text-underline-offset: 3px; }
+</style>

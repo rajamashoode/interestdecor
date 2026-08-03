@@ -45,7 +45,7 @@ toc:
     href: "#how-to-choose"
 ---
 
-A bedroom can have good furniture, decent bedding, and a perfectly fine paint color and still feel as though it never came together. I have had rooms like that. Nothing was obviously wrong, but every item seemed to be having a separate conversation.
+A bedroom can have good furniture, decent bedding, and a perfectly fine paint color and still feel as though it never came together. Nothing may be obviously wrong, but the individual pieces can look as though they are having separate conversations.
 
 That is usually what people are trying to solve when they search for bedroom aesthetic ideas. They are not only looking for a pretty room. They want a clear direction: a palette that makes sense, lighting that feels right at night, and enough personality that the room does not look copied from a product page.
 

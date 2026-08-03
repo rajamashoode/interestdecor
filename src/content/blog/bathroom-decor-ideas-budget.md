@@ -38,7 +38,7 @@ toc:
     href: "#common-mistakes"
 ---
 
-A full bathroom renovation runs into the thousands. A genuinely nice-feeling bathroom refresh, the kind that makes guests ask what you did, doesn't have to cost anywhere close to that. I've redone the same rental bathroom twice now on a budget under $200 total, and the ideas below are the ones that actually made a visible difference, not the ones that just sounded good on paper.
+A full bathroom renovation runs into the thousands. A bathroom refresh that improves the room's lighting, coordination, and daily function does not have to cost anywhere close to that. The ideas below prioritize visible changes over decorative purchases that add cost without solving the room's main problems.
 
 The trick with a budget bathroom refresh is being honest about where the money matters and where it doesn't. A few of these upgrades cost almost nothing and change the whole room. A few things people spend money on barely register once the room's finished. This guide covers both sides.
 
@@ -77,9 +77,9 @@ None of this means every dollar spent here matters equally, some of the ideas be
 
 If you only do one thing from this entire guide, do this one.
 
-A gallon of paint runs $30 to $45 depending on the brand, and it's enough to cover a full bathroom with room to spare. A soft, light, reflective color, similar to the small bathroom principles I've covered before, does the most work bouncing available light around a room that usually doesn't have much of it. Satin or semi-gloss finish holds up to moisture and steam far better than flat, which matters more here than in any dry room in the house.
+A gallon of paint runs $30 to $45 depending on the brand, and it's enough to cover a full bathroom with room to spare. A soft, light, reflective color, similar to the principles covered in our small bathroom guide, does the most work bouncing available light around a room that usually doesn't have much of it. Satin or semi-gloss finish holds up to moisture and steam far better than flat, which matters more here than in any dry room in the house.
 
-If a full repaint feels like too much commitment, painting just the vanity or a single accent wall costs a fraction of that and still delivers real visual change. I did the vanity-only version in my first rental bathroom for under $15 in leftover paint and it held up for two full years of renting.
+If a full repaint feels like too much commitment, painting just the vanity or a single accent wall costs a fraction of that and still delivers visible change. Use paint rated for the surface and humid conditions, follow its preparation instructions, and confirm that the lease permits painting before starting in a rental.
 </section>
 
 <section class="article-section" id="hardware-swaps">
@@ -248,7 +248,7 @@ If money's tight, I'd cut all three of these before cutting paint, hardware, or 
 
 If you want a concrete starting point instead of picking from the list above, here's roughly how I'd spend $50 in a rental bathroom.
 
-Warm-toned light bulb swap, about $8 for two bulbs. A set of coordinated cream towels, around $22. A woven bath mat, about $15. A small plant cutting in a jar, free to $5. That's under $50 total, and it's genuinely the combination that made the most visible difference in my own bathroom the first time I tried this, more than any single pricier item would have alone.
+Warm-toned light bulb swap, about $8 for two bulbs. A set of coordinated cream towels, around $22. A woven bath mat, about $15. A small plant cutting in a jar, free to $5. That stays under $50 total and spreads the budget across lighting, textiles, and one natural accent instead of relying on a single decorative purchase.
 
 If you have a bit more room in the budget, swap the drawer pulls next, then the mirror frame kit after that. Paint, if you're not renting or your landlord allows it, is worth doing before any of the above, since everything else looks better against a fresh wall color.
 </section>

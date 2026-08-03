@@ -10,6 +10,7 @@ const site = 'https://interestdecor.com';
 const canonical = new URL(Astro.url.pathname, site).toString();
 const imageUrl = image.startsWith('http') ? image : new URL(image, site).toString();
 const currentPath = Astro.url.pathname;
+const carriesPublisherContent = currentPath === '/' || currentPath.startsWith('/blog/');
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -41,9 +42,11 @@ const currentPath = Astro.url.pathname;
     gtag('config', 'G-ZK01DM6VVM');
   </script>
 
-  <!-- Google AdSense -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5584433343869196"
-     crossorigin="anonymous"></script>
+  <!-- Keep ad code off legal, contact, error, and directory-only pages. -->
+  {carriesPublisherContent && (
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5584433343869196"
+      crossorigin="anonymous"></script>
+  )}
 </head>
 <body>
 
@@ -116,6 +119,7 @@ const currentPath = Astro.url.pathname;
           <a href="/categories/">All Categories</a>
           <a href="/rooms/">Shop by Room</a>
           <a href="/about/">About</a>
+          <a href="/editorial-policy/">Editorial Policy</a>
           <a href="/contact/">Contact</a>
         </nav>
       </div>
@@ -132,7 +136,7 @@ const currentPath = Astro.url.pathname;
 
       <div class="footer-col">
         <p class="footer-col-title">Newsletter</p>
-        <p style="font-size:.83rem; line-height:1.7; margin-bottom:16px;">Weekly inspiration delivered to your inbox.</p>
+        <p style="font-size:.83rem; line-height:1.7; margin-bottom:16px;">Occasional inspiration delivered to your inbox.</p>
         <form id="footerNewsletterForm" action="https://formspree.io/f/mqejnvve" method="POST" style="display:flex; flex-direction:column; gap:8px;">
           <input type="hidden" name="_subject" value="New InterestDecor footer newsletter signup" />
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" style="display:none" aria-hidden="true" />
@@ -149,6 +153,7 @@ const currentPath = Astro.url.pathname;
         <a href="/privacy-policy/">Privacy Policy</a>
         <a href="/terms-of-use/">Terms of Use</a>
         <a href="/disclaimer/">Disclaimer</a>
+        <a href="/editorial-policy/">Editorial Policy</a>
       </div>
     </div>
   </div>

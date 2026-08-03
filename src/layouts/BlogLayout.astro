@@ -26,7 +26,15 @@ const jsonLd = {
   headline: p.title,
   image: new URL(p.heroImage, 'https://interestdecor.com').toString(),
   datePublished: p.date.toISOString().slice(0, 10),
-  author: { '@type': 'Person', name: p.author },
+  author: {
+    '@type': 'Person',
+    name: p.author,
+    url: 'https://interestdecor.com/about/',
+    sameAs: [
+      'https://www.instagram.com/rajamashoodelahi/',
+      'https://www.pinterest.com/interestdecor/',
+    ],
+  },
   publisher: { '@type': 'Organization', name: 'InterestDecor' },
   description: p.description,
 };
@@ -49,6 +57,7 @@ const jsonLd = {
         <h1>{p.title}</h1>
         <p class="article-intro">{p.excerpt}</p>
         <div class="article-meta-line">
+          <span>By <a href="/about/">{p.author}</a></span>
           <span>📅 {p.displayDate}</span>
           <span>⏱️ {p.readTime}</span>
           <span>{p.category}</span>
@@ -91,8 +100,20 @@ const jsonLd = {
       ))}
     </nav>
     <article class="article-content">
+      <aside class="concept-image-note" aria-label="Image disclosure">
+        <strong>About the visuals:</strong> Some images in this guide are concept images created to illustrate color, layout, and styling ideas. They are inspiration, not documentation of a completed project or a specific product.
+      </aside>
       <slot />
       <div id="related-post-sentinel"></div>
+      <aside class="article-author-box" aria-label="About the author">
+        <div class="article-author-initials" aria-hidden="true">ME</div>
+        <div>
+          <p class="article-author-label">Written and edited by</p>
+          <h2>{p.author}</h2>
+          <p>Mashood Elahi is the creator and editor of InterestDecor, based in Pakistan. He researches practical home decor, small-space, gardening, and beginner DIY ideas for an international audience.</p>
+          <a href="/about/">About the author and editorial process</a>
+        </div>
+      </aside>
     </article>
   </div>
 

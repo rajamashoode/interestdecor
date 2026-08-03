@@ -38,7 +38,7 @@ toc:
     href: "#common-mistakes"
 ---
 
-Every laundry room guide on the internet assumes you have four walls, a door, maybe a window. Mine doesn't. I have a stacked washer and dryer behind two bifold doors in a hallway, and for the first year I lived with it, I treated that closet like an afterthought. It looked like one too.
+Many laundry room guides assume you have four walls, a door, and perhaps a window. A stacked washer and dryer behind bifold hallway doors creates a different problem: the area has almost no floor space, limited ventilation, and nowhere obvious to fold clothes or organize supplies.
 
 A closet has a different set of problems than a room. There's no floor space to wheel in a cart. The doors themselves get in the way half the time. And unless you got lucky with your building's layout, there's probably no window and no real vent fan, which changes the lighting plan and the moisture plan both.
 
@@ -83,7 +83,7 @@ Get the machine setup right first. Everything else in this guide depends on it.
 
 **Confirm your washer and dryer are actually rated to stack together**, not just physically capable of it. Some pairs need a specific stacking kit rated for that exact model combination, and skipping this step is how people end up with a dryer that vibrates its way three inches to the left over a year of use.
 
-**A pedestal drawer is worth the extra cost if your ceiling height allows it.** It raises the front-load door to a height that doesn't require crouching, and the drawer itself holds detergent pods or dryer sheets in space that would otherwise sit completely empty. I didn't add one for the first six months and regretted it every single load.
+**A pedestal drawer can be worth the extra cost if your ceiling height allows it.** It raises the front-load door to a height that requires less crouching, and the drawer itself holds detergent pods or dryer sheets in space that would otherwise sit completely empty. Measure the full appliance, pedestal, connection, and clearance height before buying one.
 
 Leave a couple of inches of clearance on the sides if you can. Even a narrow gap is enough for a slim pull-out organizer, and it helps airflow around machines that already run hotter in an enclosed closet than they would in a ventilated room. Check the door swing too, on both the closet doors and the machine doors themselves, before you finalize anything. A front-load washer with a door that swings straight into your closet doors is a genuinely annoying daily problem that's completely avoidable if you check first.
 
@@ -104,7 +104,7 @@ If your stacking kit comes with a built-in shelf option, take it. That's free ve
 
 Vertical space above and beside the machines is the only real storage opportunity you have here, and it's more generous than it looks once you actually measure it.
 
-**One well-placed floating shelf beats three cluttered ones.** A single 12-inch shelf above the machines holds detergent, dryer sheets, and a small basket without turning the closet into visual noise. I tried the multi-shelf approach first. It just meant more surfaces to keep tidy, not more usable storage.
+**One well-placed floating shelf can beat three cluttered ones.** A single 12-inch shelf above the machines holds detergent, dryer sheets, and a small basket without turning the closet into visual noise. Additional shelves only help when their contents and required clearances have been planned in advance; otherwise, they create more surfaces to keep tidy without adding much usable storage.
 
 If you've got four to six inches of clearance on either side of the machines, a narrow wire tower fits there and holds the overflow bottles that don't fit on the main shelf. A pegboard on the back wall, if the closet is deep enough, is genuinely underrated. Mine holds a small hand broom and a hanging basket, using zero floor space and zero shelf space.
 

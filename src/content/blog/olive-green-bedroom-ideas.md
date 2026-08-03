@@ -38,7 +38,7 @@ toc:
     href: "#common-mistakes"
 ---
 
-I painted my kitchen olive green almost a year before I touched the bedroom. It took that long to convince myself the color wouldn't feel like a mistake once it left a room I only spend twenty minutes a day in. It doesn't. If anything, olive works better in a bedroom than it does anywhere else in the house, it just needs a slightly different approach than the kitchen or living room version of the same color.
+Olive green behaves differently in a bedroom than it does in a kitchen or living room. A bedroom needs the color to remain restful through long periods of use, so the shade, coverage, lighting, and surrounding materials require a calmer approach.
 
 The difference is mood. A kitchen can handle olive leaning a bit moody and dramatic. A bedroom needs to feel like you can actually fall asleep in it, which means the same color has to get softer, warmer, and less saturated than you'd use two rooms over.
 
@@ -62,7 +62,7 @@ It reads as grounded rather than bright. Unlike a true green or an emerald, oliv
 
 It photographs beautifully in both warm and cool light, which is part of why it's done so well on Pinterest across every room it's been used in on this site. And it pairs with nearly everything already in most people's bedrooms, wood furniture, brass or black hardware, cream or white linens, without forcing you to replace anything just to make the wall color work.
 
-Where it differs from the kitchen and living room versions I've written about before: in a bedroom, olive needs to lean calmer. I'd actually argue this is the room where olive shows its most versatile side, since nobody's asking it to look dramatic under pendant lighting the way a kitchen does.
+Where it differs from kitchen and living room applications is intensity: in a bedroom, olive usually needs to lean calmer. This is where the color shows its more versatile side because it does not need to create the same drama that cabinetry can under kitchen pendant lighting.
 </section>
 
 <section class="article-section" id="choosing-shade">
@@ -203,7 +203,7 @@ This is really a question of how confident you already feel about the color, and
 
 An accent wall behind the bed is the most common starting point, and it's genuinely a good one. It delivers real visual impact while keeping the rest of the room neutral and flexible if you want to change direction later. A full-room commitment feels completely different once you're standing in it, more enveloping, more like a cocoon, which some people love and others find a bit much.
 
-If you're testing the waters, start with the accent wall. If you already know you love olive from another room in your house, as I did, a full room is worth the commitment. There isn't really a middle ground that works as well as either of these two extremes, painting two walls and leaving two white tends to look unfinished rather than intentional.
+If you're testing the waters, start with the accent wall. If you already know you enjoy living with olive in another room, a full room may be worth the commitment. There isn't really a middle ground that works as well as either of these two extremes; painting two walls and leaving two white tends to look unfinished rather than intentional.
 </section>
 
 <section class="article-section" id="other-colors">
