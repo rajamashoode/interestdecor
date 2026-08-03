@@ -399,5 +399,5 @@ The constraint of limited square footage forces you to make meaningful choices. 
 
 Start with one element. Lighting. Then add one more. A tall plant. Then mirrors. Each element builds on the others creating a small space that feels genuinely alive and authentically yours.
 
-For more small space inspiration see our guides on [Small Kitchen Ideas 2026](/blog/small-kitchen-ideas-2026/), [Bright Small Living Room: 10 Ways to Make It Feel Bigger](/blog/bright-small-living-room-feel-bigger/), and [Small Living Room Ideas for Renters Under Two Hundred](/blog/small-living-room-ideas-renters-under-200/).
+For more small space inspiration see our guides on [Apartment Room Ideas](/blog/apartment-room-ideas/), [Small Kitchen Ideas 2026](/blog/small-kitchen-ideas-2026/), [Bright Small Living Room: 10 Ways to Make It Feel Bigger](/blog/bright-small-living-room-feel-bigger/), and [Small Living Room Ideas for Renters Under Two Hundred](/blog/small-living-room-ideas-renters-under-200/). For a broader room-by-room approach, explore our [Home Inspiration Ideas](/blog/home-inspiration-ideas/).
 </section>

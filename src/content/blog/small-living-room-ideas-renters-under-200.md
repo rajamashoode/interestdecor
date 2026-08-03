@@ -111,7 +111,7 @@ The most landlord-friendly wall solution of all: lean things against the wall in
 
 No holes. No damage. No questions from your landlord.
 
-For more renter-friendly styling tricks beyond the living room, see our guide to [room decoration ideas for small spaces](/blog/room-decoration-ideas-small-spaces/).
+For more renter-friendly styling tricks beyond the living room, see our guides to [apartment room ideas](/blog/apartment-room-ideas/) and [room decoration ideas for small spaces](/blog/room-decoration-ideas-small-spaces/).
 </section>
 
 <section class="article-section" id="furniture">

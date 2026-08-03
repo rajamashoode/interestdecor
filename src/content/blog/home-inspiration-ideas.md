@@ -11,6 +11,9 @@ heroImage: "/images/blog-29-home-inspiration-ideas/hero.webp"
 heroAlt: "Connected living and dining area with warm wood, cream textiles, layered lighting, and repeated olive accents"
 author: "Mashood Elahi"
 keywords: "home inspiration ideas, home decor inspiration, room inspiration ideas, home styling ideas, home refresh ideas, thoughtful home decor, whole home decor ideas, cozy home inspiration"
+relatedPost:
+  slug: "apartment-room-ideas"
+  hook: "Apply the same lighting, scale, and storage principles without making permanent changes."
 toc:
   - label: "What Makes a Home Feel Considered"
     href: "#considered"
@@ -285,4 +288,6 @@ If a room feels wrong but you cannot identify one problem, work in this order:
 7. Add plants, art, and smaller objects last.
 
 Decorative objects cannot fix a rug that is too small, one harsh fixture, or a window hidden behind heavy fabric. Once the larger elements relate, the finishing pieces become easier to choose and easier to keep.
+
+If you rent, continue with these [renter-friendly apartment room ideas](/blog/apartment-room-ideas/) for ways to apply the same principles without permanent changes.
 </section>

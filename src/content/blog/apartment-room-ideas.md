@@ -11,6 +11,9 @@ heroImage: "/images/blog-30-apartment-room-ideas/hero.webp"
 heroAlt: "Warm rental apartment living room with full-length curtains, a large rug, layered lamps, plants, and removable wall art"
 author: "Mashood Elahi"
 keywords: "apartment room ideas, apartment decor ideas, rental decorating ideas, apartment inspiration, aesthetic apartment ideas, renter friendly decor, cozy apartment ideas, temporary decor ideas"
+relatedPost:
+  slug: "home-inspiration-ideas"
+  hook: "Build a more connected home with better lighting, scale, repeated color, and practical storage."
 toc:
   - label: "Why Rentals Feel Temporary"
     href: "#why-rentals"
@@ -279,4 +282,6 @@ The most common mistake is trying to hide every rental feature at once. That lea
 A tiny rug, short curtains, several unrelated colors, one harsh ceiling light, and every surface covered in decor will make a rental feel more fragmented. Buying furniture that only fits the current apartment can also become expensive after the next move.
 
 Start with portable improvements that affect the whole room: lamps, curtains, rug scale, bedding, storage, and one shared palette. Add personal pieces slowly. A rental does not need to imitate a permanent house. It needs to support your routines and look as though you chose to live there.
+
+For a whole-home approach to lighting, scale, color, and editing, read [Home Inspiration Ideas](/blog/home-inspiration-ideas/) next.
 </section>
